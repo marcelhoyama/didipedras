@@ -1,0 +1,99 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07/10/2018, 12:57:55
+    Author     : marec
+*/
+
+
+.bannercapa{
+    /*background-image: url(../images/vista-cabreuva.jpg);*/
+    background-position: center;
+     background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    color: #0056b3;
+   
+    
+}
+.badge-danger{
+    position: absolute;
+    border-radius: 100%;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    
+    
+}
+#icone{
+    
+
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+
+
+
+
+}
+#icone:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
+#buscador{
+    padding-bottom: 200px;
+    padding-top: 200px;
+}
+
+#linha{
+    padding: 5px;
+    margin-top: 5px;
+    
+}
+#link {
+    color: #e9ecef;
+    text-decoration: none;
+   
+}
+#link a:hover{
+    color: #c6c8ca;
+    text-transform: uppercase;
+}
+
+#footer{
+    padding-top: 10px;
+    
+    padding-left: 10px;
+    padding-right:10px; 
+    background-color: #343a40;
+}
+
+.footer-copyright{
+    margin-top: 70px;
+    padding-bottom: 5px;
+}
+
+.address{
+    float: left;
+    width: 600px;
+    height: auto;
+    font-size: 18px;
+}
+.mapa{
+
+    width: auto;
+    height: 400px;
+
+}
+.mapamobile{
+    display:none;
+}
+.mapamobile2{
+    display:none;
+}
+.mapamobile3{
+    display:none;
+}
