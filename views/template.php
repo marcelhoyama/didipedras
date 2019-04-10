@@ -30,6 +30,7 @@
 
  <script type="text/javascript" scr="<?php BASE_URL; ?>assets/js/jquery-3.3.1.min.js"></script>
         <script type="text/javascript" scr="<?php BASE_URL; ?>assets/js/bootstrap.bundle.min.js"></script>
+  <script type="text/javascript" scr="<?php BASE_URL; ?>assets/js/jquery.min.js"></script>
 
  
  <!-- The Contact Section -->

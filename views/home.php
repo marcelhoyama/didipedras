@@ -43,16 +43,16 @@
     </div>
   </div>
 
-<!--  <div class="w3-row-padding">
+ <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Summer House</div>
+        <div class="w3-display-topleft w3-black w3-padding">Vendas de Pedras</div>
         <img src="/w3images/house2.jpg" alt="House" style="width:99%">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Brick House</div>
+        <div class="w3-display-topleft w3-black w3-padding">Nossa matéria-prima</div>
         <img src="/w3images/house5.jpg" alt="House" style="width:99%">
       </div>
     </div>
@@ -67,7 +67,7 @@
         <div class="w3-display-topleft w3-black w3-padding">Barn House</div>
         <img src="/w3images/house3.jpg" alt="House" style="width:99%">
       </div>
-    </div>-->
+    </div>
 
 
   <!-- About Section -->
@@ -80,14 +80,14 @@
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="/w3images/team2.jpg" alt="John" style="width:100%">
-      <h3>DIDI</h3>
+      <h3>Francisco Adriano Patricio conhecido por DIDI</h3>
       <p class="w3-opacity">Fundador</p>
       <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
-      <h3>Irmão</h3>
+      <h3>Irmão do DIDI</h3>
       <p class="w3-opacity">Coordenador</p>
       <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
       <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>

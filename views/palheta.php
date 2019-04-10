@@ -30,33 +30,59 @@
         
     }
     ?>
-    <div id="slideshowExemplo" class="slide carousel">
+    <div id="slideshowExemplo" class="carousel slide" data-ride="carousel">
+
+        <ul class="carousel-indicators">
+            <li data-target='#demo' data-slide-to="0" class="active"></li>
+            <li data-target="#demo" data-slide-to="1"></li>
+            <li data-target="#demo" data-slide-to="2"></li>
+        </ul>
 
         <div class="carousel-inner">
             <div class="carousel-item active">
-            <div class="column">
-                <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (1).jpeg" alt="Palheta" onclick="myFunction(this);">
-            </div>
+                <div class="column">
+                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (1).jpeg" alt="Palheta" onclick="myFunction(this);">
                 </div>
-            <div class="carousel-item">
+
+
                 <div class="column">
                     <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (2).jpeg" alt="Palheta" onclick="myFunction(this);">
                 </div>
 
+                <div class="column">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (3).jpeg" alt="Palheta" onclick="myFunction(this);">
+                </div>
+                <div class="column">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (4).jpeg" alt="Palheta" onclick="myFunction(this);">
+                </div>
+
             </div>
-            <div class="column">
-                <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (3).jpeg" alt="Palheta" onclick="myFunction(this);">
-            </div>
-            <div class="column">
-                <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (4).jpeg" alt="Palheta" onclick="myFunction(this);">
+
+            <div class="carousel-item">
+                <div class="column">
+                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (5).jpeg" alt="Palheta" onclick="myFunction(this);">
+                </div>
+
+
+                <div class="column">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (6).jpeg" alt="Palheta" onclick="myFunction(this);">
+                </div>
+
+                <div class="column">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (7).jpeg" alt="Palheta" onclick="myFunction(this);">
+                </div>
+                <div class="column">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (8).jpeg" alt="Palheta" onclick="myFunction(this);">
+                </div>
+
             </div>
 
         </div>
 
-        <a class="carousel-control-prev" href="slideshowExemplo" data-slide="prev">
+        <a class="carousel-control-prev" href="#slideshowExemplo" data-slide="prev">
             <span class="carousel-control-prev-icon"></span>
         </a>
-        <a class="carousel-control-next" href="slideshowExemplo" data-slide="next">
+        <a class="carousel-control-next" href="#slideshowExemplo" data-slide="next">
             <span class="carousel-control-next-icon"></span>
         </a>
     </div>
