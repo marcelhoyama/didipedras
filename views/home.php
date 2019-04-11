@@ -20,25 +20,25 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
           <a href="<?php BASE_URL;?>folheta" class="w3-display-topleft w3-black w3-padding">Pedras Folheta</a>
-        <img src="<?php BASE_URL; ?>assets/images/foto6.jpg" alt="Palheta" style="width:100%">
+          <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (18).jpeg" alt="Palheta" class="home"> 
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Pedras Paralelepípedo</div>
-        <img src="<?php BASE_URL; ?>assets/images/foto2.jpg" alt="Paralelepípedo" style="width:100%">
+          <a href="<?php BASE_URL;?>paralelepipedo" class="w3-display-topleft w3-black w3-padding">Pedras Paralelepípedo</a>
+          <img src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (4).jpeg" alt="Paralelepípedo" class="home">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Pedras Bruta</div>
-        <img src="<?php BASE_URL; ?>assets/images/foto4.jpg" alt="Bruta" style="width:100%">
+        <img src="<?php BASE_URL; ?>assets/images/foto4.jpg" alt="Bruta" class="home">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Serviço em geral</div>
-        <img src="<?php BASE_URL; ?>assets/images/foto5.jpg" alt="Serviços" style="width:100%">
+        <img src="<?php BASE_URL; ?>assets/images/foto5.jpg" alt="Serviços" class="home">
       </div>
     </div>
   </div>
@@ -47,25 +47,25 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Vendas de Pedras</div>
-        <img src="/w3images/house2.jpg" alt="House" style="width:99%">
+        <img src="/w3images/house2.jpg" alt="House" class="home">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Nossa matéria-prima</div>
-        <img src="/w3images/house5.jpg" alt="House" style="width:99%">
+        <img src="/w3images/house5.jpg" alt="House" class="home">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Renovated</div>
-        <img src="/w3images/house4.jpg" alt="House" style="width:99%">
+         <a href="<?php BASE_URL;?>arrimo" class="w3-display-topleft w3-black w3-padding">Pedras Arrimo</a>
+       <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (5).jpeg" alt="House" class="home">
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Barn House</div>
-        <img src="/w3images/house3.jpg" alt="House" style="width:99%">
+        <img src="/w3images/house3.jpg" alt="House" class="home">
       </div>
     </div>
 
