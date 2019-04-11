@@ -19,7 +19,7 @@
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-          <a href="palheta" class="w3-display-topleft w3-black w3-padding">Pedras Palheta</a>
+          <a href="<?php BASE_URL;?>folheta" class="w3-display-topleft w3-black w3-padding">Pedras Folheta</a>
         <img src="<?php BASE_URL; ?>assets/images/foto6.jpg" alt="Palheta" style="width:100%">
       </div>
     </div>

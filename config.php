@@ -9,12 +9,12 @@ if(ENVIRONMENT == 'development'){
     $config['dbuser']='root';
     $config['dbpass']='';
 }else{
-     define("BASE_URL", "http://didipedras/");
+     define("BASE_URL", "http://didipedras.com.br/");
   
-    $config['dbname']='didipedras';
+    $config['dbname']='u897872209_didi';
     $config['host']='localhost';
-    $config['dbuser']='root';
-    $config['dbpass']='';
+    $config['dbuser']='u897872209_didi';
+    $config['dbpass']='didi998921840';
 }
     
     

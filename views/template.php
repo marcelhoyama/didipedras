@@ -21,7 +21,7 @@
     </div>
   </div>
 </div>
-
+<br><br><br>
 <div class="w3-content w3-padding" style="max-width:1564px">
 
    <!--  aqui onde vai o corpo das paginas do sistema -->
@@ -36,7 +36,7 @@
  <!-- The Contact Section -->
   <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="contact">
     <h2 class="w3-wide w3-center">CONTATO</h2>
-    <p class="w3-opacity w3-center"><i>Fan? Drop a note!</i></p>
+    <p class="w3-opacity w3-center"><i>Vamos entrar em contato e falar sobre o seu próximo projeto.</i></p>
     <div class="w3-row w3-padding-32">
       <div class="w3-col m6 w3-large w3-margin-bottom">
      <i class="fa fa-map-marker" style="width:30px"></i> Rua Jordânia 699 Vilarejo Cabreúva - SP 13315-000 Brasil<br>
@@ -46,7 +46,7 @@
         <i class="fa fa-envelope" style="width:30px"> </i> E-mail: didi_783@hotmail.com<br>
       </div>
       <div class="w3-col m6">
-           <p>Vamos entrar em contato e falar sobre o seu próximo projeto.</p>
+          
            <form method="POST">
           <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
             <div class="w3-half">
