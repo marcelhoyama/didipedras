@@ -46,9 +46,9 @@
                 <a href="<?php BASE_URL; ?>home" class="w3-bar-item w3-button2"><b>DIDI - Pedras</b></a>
                 <!-- Float links to the right. Hide them on small screens -->
                 <div class="w3-right w3-hide-small">
-                    <a href="<?php BASE_URL; ?>home#projects" class="w3-bar-item w3-button2">Produtos e Serviços</a>
-                    <a href="<?php BASE_URL; ?>home#about" class="w3-bar-item w3-button2">Sobre</a>
-                    <a href="<?php BASE_URL; ?>home#contact" class="w3-bar-item w3-button2">Contato</a>
+                    <a href="<?php BASE_URL; ?>home/#projects" class="w3-bar-item w3-button2">Produtos e Serviços</a>
+                    <a href="<?php BASE_URL; ?>home/#about" class="w3-bar-item w3-button2">Sobre</a>
+                    <a href="<?php BASE_URL; ?>home/#contact" class="w3-bar-item w3-button2">Contato</a>
                 </div>
             </div>
         </div>

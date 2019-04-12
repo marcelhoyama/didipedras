@@ -4,6 +4,8 @@
  * and open the template in the editor.
  */
  
+    
+    
 
 function tenhointeresse(id) {
     $('#Modalvenda').modal('toggle');
