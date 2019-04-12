@@ -72,7 +72,7 @@ Por fim, é essencial que a obra do muro de arrimo seja feita por ótimos profis
 <h2> Um dos Serviços feitos</h2>
 <!-- The grid: four columns -->
 
-<div class="row">
+<div id="desktop" class="row">
   
     <div id="slideshowExemplo" class="carousel slide" data-ride="carousel">
 
@@ -80,6 +80,12 @@ Por fim, é essencial que a obra do muro de arrimo seja feita por ótimos profis
             <li data-target='#demo' data-slide-to="0" class="active"></li>
             <li data-target="#demo" data-slide-to="1"></li>
             <li data-target="#demo" data-slide-to="2"></li>
+            <li data-target="#demo" data-slide-to="3"></li>
+            <li data-target="#demo" data-slide-to="4"></li>
+            <li data-target="#demo" data-slide-to="5"></li>
+            <li data-target="#demo" data-slide-to="6"></li>
+            <li data-target="#demo" data-slide-to="7"></li>
+            <li data-target="#demo" data-slide-to="8"></li>
         </ul>
 
         <div class="carousel-inner">
@@ -231,7 +237,7 @@ Por fim, é essencial que a obra do muro de arrimo seja feita por ótimos profis
 
             </div>
 </div>
-<!--Segundo slide-->
+<!--8 slide-->
             <div class="carousel-item ">
                 <div class="row">
                 <div class="column">
@@ -256,7 +262,7 @@ Por fim, é essencial que a obra do muro de arrimo seja feita por ótimos profis
         </a>
     </div>
 
-</div>
+
 
 <!-- The expanding image container -->
 <div class="container">
@@ -279,3 +285,47 @@ Por fim, é essencial que a obra do muro de arrimo seja feita por ótimos profis
         expandImg.parentElement.style.display = "block";
     }
 </script>
+</div>
+
+<div id="celular" class="row">
+    <div class="carousel-inner-celular">
+        <div id="demo" class="carousel slide" data-ride="carousel">
+
+            <!-- Indicators -->
+            <ul class="carousel-indicators">
+                <li data-target="#demo" data-slide-to="0" class="active"></li>
+                <?php for ($i = 1; $i <= 30; $i++) { ?>
+                    <li data-target="#demo" data-slide-to="<?php echo $i; ?>"></li>
+                <?php } ?>
+
+            </ul>
+
+            <!-- The slideshow -->
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="img-fluid "src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (1).jpeg" alt="Arrimo">
+
+                </div>
+                <?php for ($i = 1; $i <= 30; $i++) { ?>
+
+                    <div class="carousel-item">
+                        <img class="img-fluid "src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (<?php echo $i; ?>).jpeg" alt="Arrimo">
+                    </div>
+
+                <?php } ?>
+
+
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a class="carousel-control-next" href="#demo" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </a>
+
+        </div>
+
+    </div>
+</div>

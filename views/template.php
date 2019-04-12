@@ -1,27 +1,38 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <title>DIDI - Pedras</title>
+    <title style="font-family: Blippo, fantasy;">DIDI - Pedras</title>
     <meta charset="UTF=8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name= "viewport" content= "width=device-width, user-scalable=no" />
+<meta property="og:url" content="http://www.didipedras.com.br" />
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="DIDI Pedras Cabreúva e Região"/>
+<meta property="og:description" content="Prestação de serviços em Pedras e vendas de pedras ! Cabreúva e região"/>
+<META NAME="Robots" CONTENT="INDEX,FOLLOW">
+<meta name="distribution" content="Global">
+<meta name="rating" content="General">
+<meta name="revisit-after" content="2">
+<meta name="classification" content="pedreira , loja de pedras">
 
+<meta name="description" content="DIDI Pedras - Procurando por prestação de serviço em pedras e vendas de Pedras? Encontre ótimos Orçamentos para venda e Serviços de Pedras. Clique e confira!">
+<meta name="keywords" content="Pedras, Pedreira, Cabreúva, DIDI pedras, Venda, escada de pedras, muro de pedras, calçamentos de pedras, Casas, Casas em Condomínio, Terrenos, Comerciais, Chácara, Sítios, Fazendas, galpão, area industrial, areas">
+<meta name="author" content="Marcel Hoyama">
+<meta name="google-site-verification" content="http://www.didipedras.com.br" />
     <!-- As 3 meta tags acima *devem* vir em primeiro lugar dentro do `head`; qualquer outro conteúdo deve vir *após* essas tags -->
     <link rel="canonical" href="http://didipedras.com.br/" />
     <meta property="og:locale" content="pt_BR">
-    <meta property="og:url" content="http://didipedras.com.br">
-    <meta property="og:title" content="Procurando Serviços de pedras e qualidade, vendas de pedras ... ">
-    <meta property="og:site_name" content="Didi - Pedras em Cabreúva e Região você encontra aqui, serviços e vendas de pedras...">
-    <meta property="og:description" content="Quer ter segurança no serviço ainda oferecer o melhor serviço e  atendimento,entender a sua necessidade e a partir daí apresentar o melhor negócio para o seu perfil?  Agente uma visita conosco!">
-    <meta property="og:image" content="https://didipedras.com.br/assets/images/logo.jpeg">
-    <meta property="og:image:type" content="image/jpeg">
-    <meta property="og:image:width" content="800">
-    <meta property="og:image:height" content="600"> 
+    
+     <meta property="og:site_name" content="Didi - Pedras em Cabreúva e Região você encontra aqui, serviços e vendas de pedras...">
+    <meta property="og:image" content="http://didipedras.com.br/assets/images/didi.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="300">
+    <meta property="og:image:height" content="200"> 
 
     <meta property="fb:admins" content="werockcontent"/>
-    <meta name="twitter:url" content="https://didipedras.com.br/">
-    <meta property="twitter:title" content="Procurando Serviços de pedras e qualidade, vendas de pedras ... ">
+    <meta name="twitter:url" content="http://didipedras.com.br/">
+    <meta property="twitter:title" content="Procurando Serviços de pedras, qualidade, vendas de pedras ... ">
     <meta property="twitter:description" content="Quer ter segurança no serviço ainda oferecer o melhor serviço e  atendimento,entender a sua necessidade e a partir daí apresentar o melhor negócio para o seu perfil?  Agente uma visita conosco!">
-    <meta property="twitter:image" content="https://ww.didpedras.com.br/assets/images/logo.jpeg">
+    <meta property="twitter:image" content="http://www.didipedras.com.br/assets/images/didi.png">
     <meta property="og:type" content="website">
 
 
@@ -41,9 +52,9 @@
         <!-- Navbar (sit on top) -->
         <div class="w3-top">
             <div class="w3-bar w3-white w3-wide w3-padding w3-card">
-                <a href="https://www.facebook.com/Didi-pedras-418530741640677/" class="w3-bar-item "><img src="<?php BASE_URL; ?>assets/images/facebookcolor.png" width="32" height="32" style="margin-bottom: 5px"/></a>
+                <a href="https://www.facebook.com/Didi-pedras-418530741640677/" class="w3-bar-item w3-hover-shadow"><img src="<?php BASE_URL; ?>assets/images/facebookcolor.png" width="40" height="40" style="margin-top: -7px"/></a>
 
-                <a href="<?php BASE_URL; ?>home" class="w3-bar-item w3-button2"><b>DIDI - Pedras</b></a>
+                <a href="<?php BASE_URL; ?>home" class="w3-bar-item" ><img src="<?php BASE_URL;?>assets/images/didipedras.jpg" width="155px" height="auto"></a>
                 <!-- Float links to the right. Hide them on small screens -->
                 <div class="w3-right w3-hide-small">
                     <a href="<?php BASE_URL; ?>home#projects" class="w3-bar-item w3-button2">Produtos e Serviços</a>

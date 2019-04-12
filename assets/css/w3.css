@@ -316,3 +316,13 @@ img.hover-shadow {
 a .link {
     text-decoration: none;
 }
+
+#celular{
+    display: none;
+}
+@media screen and (min-width: 200px) and (max-width: 550px){
+    #desktop{
+        display: none;}
+
+        #celular{display: block;}
+    }

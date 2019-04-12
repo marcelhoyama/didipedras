@@ -3,7 +3,7 @@
 
 
 <div class="text-center">
-    <img  src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/foto (8).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Palheta e arrimo">
+    <img  src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (8).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Paralelepipedo">
 </div>
 <br>
 <br>
@@ -27,7 +27,7 @@ Se necessário algum tipo de reforma o cliente tem a vantagem de utilizar o mesm
 
 <h2> Um dos Serviços feitos</h2>
 <!-- The grid: four columns -->
-<div class="row">
+<div id="desktop" class="row">
     <?php
     for ($x = 0; $x > 10; $x++) {
         
@@ -39,47 +39,60 @@ Se necessário algum tipo de reforma o cliente tem a vantagem de utilizar o mesm
             <li data-target='#demo' data-slide-to="0" class="active"></li>
             <li data-target="#demo" data-slide-to="1"></li>
             <li data-target="#demo" data-slide-to="2"></li>
+            <li data-target="#demo" data-slide-to="3"></li>
         </ul>
 
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <div class="column">
-                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (1).jpeg" alt="Palheta" onclick="myFunction(this);">
-                </div>
-
-
-                <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (2).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (1).jpeg"  alt="Paralelepipedo" onclick="myFunction(this);">
                 </div>
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (3).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (2).jpeg" alt="Paralelepipedo" onclick="myFunction(this);">
+                </div>
+
+                <div class="column">
+                    <img  src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (3).jpeg"  alt="Paralelepipedo" onclick="myFunction(this);">
                 </div>
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (4).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (4).jpeg"  alt="Paralelepipedo" onclick="myFunction(this);">
                 </div>
 
             </div>
 
             <div class="carousel-item">
                 <div class="column">
-                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (5).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (5).jpeg"  alt="Paralelepipedo" onclick="myFunction(this);">
                 </div>
 
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (6).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (6).jpeg"  alt="Paralelepipedo" onclick="myFunction(this);">
                 </div>
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (7).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (7).jpeg"  alt="Paralelepipedo" onclick="myFunction(this);">
                 </div>
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (8).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (8).jpeg"  alt="Paralelepipedo" onclick="myFunction(this);">
                 </div>
 
             </div>
 
+              <div class="carousel-item">
+                <div class="column">
+                    <img src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (9).jpeg"  alt="Paralelepipedo" onclick="myFunction(this);">
+                </div>
+
+
+                <div class="column">
+                    <img  src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (10).jpeg"  alt="Paralelepipedo" onclick="myFunction(this);">
+                </div>
+
+              
+
+            </div>
         </div>
 
         <a class="carousel-control-prev" href="#slideshowExemplo" data-slide="prev">
@@ -90,7 +103,7 @@ Se necessário algum tipo de reforma o cliente tem a vantagem de utilizar o mesm
         </a>
     </div>
 
-</div>
+
 
 <!-- The expanding image container -->
 <div class="container">
@@ -113,4 +126,47 @@ Se necessário algum tipo de reforma o cliente tem a vantagem de utilizar o mesm
         expandImg.parentElement.style.display = "block";
     }
 </script>
+</div>
 
+<div id="celular" class="row">
+    <div class="carousel-inner-celular">
+        <div id="demo" class="carousel slide" data-ride="carousel">
+
+            <!-- Indicators -->
+            <ul class="carousel-indicators">
+                <li data-target="#demo" data-slide-to="0" class="active"></li>
+                <?php for ($i = 1; $i <= 10; $i++) { ?>
+                    <li data-target="#demo" data-slide-to="<?php echo $i; ?>"></li>
+                <?php } ?>
+
+            </ul>
+
+            <!-- The slideshow -->
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="img-fluid "src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (1).jpeg" alt="Paralelepipedo">
+
+                </div>
+                <?php for ($i = 1; $i <= 10; $i++) { ?>
+
+                    <div class="carousel-item">
+                        <img class="img-fluid "src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (<?php echo $i; ?>).jpeg" alt="Paralelepipedo">
+                    </div>
+
+                <?php } ?>
+
+
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a class="carousel-control-next" href="#demo" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </a>
+
+        </div>
+
+    </div>
+</div>

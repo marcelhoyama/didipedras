@@ -1,11 +1,11 @@
 <?php
 
-class blogController extends controller{
+class escadaController extends controller{
     
     public function index(){
         $dados=array();
         
-        $this->loadTemplate("blog", $dados);
+        $this->loadTemplate("escada", $dados);
     }
 }
 

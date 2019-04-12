@@ -3,12 +3,12 @@
 
 
 <div class="text-center">
-    <img  src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/foto (8).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Palheta e arrimo">
+    <img  src="<?php BASE_URL; ?>assets/images/materia-prima/materia (4).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Matéria-prima">
 </div>
 <br>
 <br>
 
-<h2 class="text-center">DIDI - Pedras: Matéria-Prima</h2>
+<h2 class="text-center">DIDI - Pedras: Nossa Matéria-Prima</h2>
 
 
 
@@ -19,13 +19,13 @@
 
 
 
-<h2> Nossa matéria-prima</h2>
+
 <!-- The grid: four columns -->
-<div class="row">
+<div id="desktop" class="row">
 
 
 
-<!--
+
 
     <div id="slideshowExemplo" class="carousel slide" data-ride="carousel">
 
@@ -33,31 +33,68 @@
             <li data-target='#demo' data-slide-to="0" class="active"></li>
             <li data-target="#demo" data-slide-to="1"></li>
             <li data-target="#demo" data-slide-to="2"></li>
+            <li data-target="#demo" data-slide-to="3"></li>
+            <li data-target="#demo" data-slide-to="4"></li>
         </ul>
 
         <div class="carousel-inner">
             <div class="carousel-item active">
-
+  <?php for ($i = 0; $i <= 3; $i++): ?>
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/materia-prima/materia (1).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/materia-prima/materia (<?php echo $i+1; ?>).jpeg" alt="Matéria-prima" onclick="myFunction(this);">
                 </div>
 
-
+ <?php endfor; ?>
             </div>
 
-
-            <?php for ($i = 2; $i <= 21; $i++): ?>
-                <div class="carousel-item">
+                                           
+             <div class="carousel-item">
+                  <?php for ($i ; $i <= 7; $i++): ?>
                     <div class="column">
 
 
-                        <img src="<?php BASE_URL; ?>assets/images/materia-prima/materia (<?php echo $i; ?>).jpeg" alt="Palheta" onclick="myFunction(this);">
+                        <img src="<?php BASE_URL; ?>assets/images/materia-prima/materia (<?php echo $i+1; ?>).jpeg" alt="Matéria-prima" onclick="myFunction(this);">
                     </div>
-                </div>
-            <?php endfor; ?>
+                      
+
+                  <?php endfor; ?>
+                     </div>
+                   
+            <div class="carousel-item">
+                  <?php for ($i ; $i <= 11; $i++): ?>
+                    <div class="column">
 
 
+                        <img src="<?php BASE_URL; ?>assets/images/materia-prima/materia (<?php echo $i+1; ?>).jpeg" alt="Matéria-prima" onclick="myFunction(this);">
+                    </div>
+                      
 
+                  <?php endfor; ?>
+                     </div>
+           
+<div class="carousel-item">
+                  <?php for ($i ; $i <= 15; $i++): ?>
+                    <div class="column">
+
+
+                        <img src="<?php BASE_URL; ?>assets/images/materia-prima/materia (<?php echo $i+1; ?>).jpeg" alt="Matéria-prima" onclick="myFunction(this);">
+                    </div>
+                      
+
+                  <?php endfor; ?>
+                     </div>
+
+<div class="carousel-item">
+                  <?php for ($i ; $i <= 19; $i++): ?>
+                    <div class="column">
+
+
+                        <img src="<?php BASE_URL; ?>assets/images/materia-prima/materia (<?php echo $i+1; ?>).jpeg" alt="Matéria-prima" onclick="myFunction(this);">
+                    </div>
+                      
+
+                  <?php endfor; ?>
+                     </div>
 
 
 
@@ -73,40 +110,6 @@
         </a>
     </div>
 
-</div>-->
-<div id="demo" class="carousel slide" data-ride="carousel">
-
-  <!-- Indicators -->
-  <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
-  </ul>
-
-  <!-- The slideshow -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-             <img src="<?php BASE_URL; ?>assets/images/materia-prima/materia (9).jpeg" alt="Palheta" >
-                 
-    </div>
-    <div class="carousel-item">
-          <img src="<?php BASE_URL; ?>assets/images/materia-prima/materia (8).jpeg" alt="Palheta">
-                 
-    </div>
-    <div class="carousel-item">
-      <img src="ny.jpg" alt="New York">
-    </div>
-  </div>
-
-  <!-- Left and right controls -->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </a>
-
-</div>
 
 <!-- The expanding image container -->
 <div class="container">
@@ -130,4 +133,47 @@
     }
 </script>
 
+</div>
 
+<div id="celular" class="row">
+    <div class="carousel-inner-celular">
+        <div id="demo" class="carousel slide" data-ride="carousel">
+
+            <!-- Indicators -->
+            <ul class="carousel-indicators">
+                <li data-target="#demo" data-slide-to="0" class="active"></li>
+                <?php for ($i = 1; $i <= 19; $i++) { ?>
+                    <li data-target="#demo" data-slide-to="<?php echo $i; ?>"></li>
+                <?php } ?>
+
+            </ul>
+
+            <!-- The slideshow -->
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="img-fluid "src="<?php BASE_URL; ?>assets/images/materia-prima/materia (1).jpeg" alt="Materia-prima">
+
+                </div>
+                <?php for ($i = 1; $i <= 19; $i++) { ?>
+
+                    <div class="carousel-item">
+                        <img class="img-fluid "src="<?php BASE_URL; ?>assets/images/materia-prima/materia (<?php echo $i; ?>).jpeg" alt="Materia-prima">
+                    </div>
+
+                <?php } ?>
+
+
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a class="carousel-control-next" href="#demo" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </a>
+
+        </div>
+
+    </div>
+</div>
