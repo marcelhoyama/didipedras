@@ -19,26 +19,27 @@
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-          <a href="<?php BASE_URL;?>folheta" class="w3-display-topleft w3-black w3-padding">Pedras Folheta</a>
-          <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (18).jpeg" alt="Palheta" class="home"> 
+           <div class="w3-display-topleft w3-black w3-padding">Pedras Folheta</div>
+       <a href="<?php BASE_URL;?>folheta">   <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (18).jpeg" alt="Palheta" class="home hover-shadow"> </a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-          <a href="<?php BASE_URL;?>paralelepipedo" class="w3-display-topleft w3-black w3-padding">Pedras Paralelepípedo</a>
-          <img src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (4).jpeg" alt="Paralelepípedo" class="home">
+          <div class="w3-display-topleft w3-black w3-padding">Pedras Paralelepípedo</div>
+          <a href="<?php BASE_URL;?>paralelepipedo"> <img src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (4).jpeg" alt="Paralelepípedo" class="home hover-shadow"></a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Pedras Bruta</div>
-        <img src="<?php BASE_URL; ?>assets/images/foto4.jpg" alt="Bruta" class="home">
+        <a href="<?php BASE_URL;?>"> <img src="<?php BASE_URL; ?>assets/images/foto4.jpg" alt="Bruta" class="home hover-shadow"></a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-          <a href="<?php BASE_URL; ?>escada"class="w3-display-topleft w3-black w3-padding">Escadas de Pedras</a>
-        <img src="<?php BASE_URL; ?>assets/images/escadas/escada (7).jpeg" alt="Escadas de Pedras" class="home">
+          <div class="w3-display-topleft w3-black w3-padding">Escadas de Pedras</div>
+          <a href="<?php BASE_URL;?>escada"> <img src="<?php BASE_URL; ?>assets/images/escadas/escada (7).jpeg" alt="Escadas de Pedras" class="home hover-shadow"></a>
+
       </div>
     </div>
   </div>
@@ -47,25 +48,25 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Vendas de Pedras</div>
-        <img src="/w3images/house2.jpg" alt="House" class="home">
+        <a href="" ><img src="<?php BASE_URL;?>assets/images/sem-imagem.gif" alt="Venda de pedras" class="home hover-shadow"></a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-          <a href="<?php BASE_URL;?>materiaprima"class="w3-display-topleft w3-black w3-padding">Nossa matéria-prima</a>
-        <img src="<?php BASE_URL; ?>assets/images/materia-prima/materia (4).jpeg"  alt="Matéria-Prima" class="home">
+          <div class="w3-display-topleft w3-black w3-padding">Nossa matéria-prima</div>
+          <a href="<?php BASE_URL;?>materiaprima"><img src="<?php BASE_URL; ?>assets/images/materia-prima/materia (4).jpeg"  alt="Matéria-Prima" class="home hover-shadow"></a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-         <a href="<?php BASE_URL;?>arrimo" class="w3-display-topleft w3-black w3-padding">Pedras Arrimo</a>
-       <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (5).jpeg" alt="House" class="home">
+         <div  class="w3-display-topleft w3-black w3-padding">Pedras Arrimo</div>
+         <a href="<?php BASE_URL;?>arrimo"><img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (5).jpeg" alt="House" class="home hover-shadow"></a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-          <a href="<?php BASE_URL;?>revestimento"class="w3-display-topleft w3-black w3-padding">Revestimentos em Pedras</a>
-        <img src="<?php BASE_URL;?>assets/images/revestimentos/revestimento (3).jpeg" alt="Revestimentos em  pedras" class="home">
+         <div class="w3-display-topleft w3-black w3-padding">Revestimentos em Pedras</div>
+         <a href="<?php BASE_URL;?>revestimento" ><img src="<?php BASE_URL;?>assets/images/revestimentos/revestimento (3).jpeg" alt="Revestimentos em  pedras" class="home hover-shadow"></a>
       </div>
     </div>
 
@@ -73,8 +74,8 @@
   <!-- About Section -->
   <div class="w3-container w3-padding-32" id="about">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16 text-center">Sobre</h3>
-    <p>"Didi pedras a mais de 30 anos no mercado Especialista na área de pavimentação com paralelepípedos e folhetos Muros de arrimo de pedra".
-    </p>
+    <h4><p>"Didi pedras a mais de 30 anos no mercado Especialista na área de pavimentação com paralelepípedos e folhetos Muros de arrimo de pedra".</p></h4>
+    
   </div>
 
 <!--  <div class="w3-row-padding w3-grayscale">

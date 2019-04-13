@@ -1,6 +1,6 @@
 <?php
 
-class homeController extends controller{
+class contatoController extends controller{
     
     
     
@@ -44,7 +44,7 @@ $c= new cliente();
 
     }
     
-$this->loadTemplate("home",$dados);    
+$this->loadView("contato",$dados);    
         
     }
 }

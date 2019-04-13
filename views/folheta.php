@@ -1,7 +1,7 @@
 
 
 <div class="text-center">
-    <img  src="<?php BASE_URL; ?>assets/images/foto6.jpg"  class="img-thumbnail" style="width: 300px;"alt="Palheta e arrimo">
+    <img  src="<?php BASE_URL; ?>assets/images/foto6.jpg"  class="img-thumbnail" style="width: 300px;"alt="Folheta">
 </div>
 <br>
 <br>
@@ -274,7 +274,7 @@
 
 </div>
 
-<div id="celular" class="row">
+<div id="celular_display" class="row">
     <div class="carousel-inner-celular">
         <div id="demo" class="carousel slide" data-ride="carousel">
 

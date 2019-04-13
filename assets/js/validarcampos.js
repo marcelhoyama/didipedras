@@ -41,9 +41,9 @@ $(document).ready(function (){
     $('#cadastrarclientes').validate({
         
         rules:{
-//            cpf:{required:true,cpfBR:true},
+            cpf:{required:true,cpfBR:true},
             nome:{required:true},
-            telefone:"required",
+            fone:"required",
             email:true
                 
             

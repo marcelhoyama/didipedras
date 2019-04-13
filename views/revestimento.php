@@ -201,7 +201,7 @@ Na DIDI PEDRAS você encontrará uma enorme variedade de Pedras são diversas co
 </script>
 
 </div>
-<div id="celular" class="row">
+<div id="celular_display" class="row">
     <div class="carousel-inner-celular">
         <div id="demo" class="carousel slide" data-ride="carousel">
 

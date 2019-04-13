@@ -287,7 +287,7 @@ Por fim, é essencial que a obra do muro de arrimo seja feita por ótimos profis
 </script>
 </div>
 
-<div id="celular" class="row">
+<div id="celular_display" class="row">
     <div class="carousel-inner-celular">
         <div id="demo" class="carousel slide" data-ride="carousel">
 

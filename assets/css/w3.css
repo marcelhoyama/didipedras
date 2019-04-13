@@ -317,12 +317,16 @@ a .link {
     text-decoration: none;
 }
 
-#celular{
+#celular_display{
     display: none;
 }
-@media screen and (min-width: 200px) and (max-width: 550px){
+@media (min-width: 100px) and (max-width: 550px){
     #desktop{
         display: none;}
 
-        #celular{display: block;}
+        #celular_display{display: block;}
+        .home{
+            width: 100%;
+            height: auto;
+        }
     }
