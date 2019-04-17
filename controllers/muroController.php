@@ -1,13 +1,13 @@
 <?php
 
-class arrimoController extends controller{
+class muroController extends controller{
     
     public function index(){
         $dados=array();
         
         
         
-        $this->loadTemplate("arrimo", $dados);
+        $this->loadTemplate("muro", $dados);
         
     }
 }
