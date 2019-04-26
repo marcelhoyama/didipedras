@@ -15,12 +15,7 @@ class contatoController extends controller{
         $celular= addslashes(trim($_POST['celular']));
         $mensagem= addslashes(trim($_POST['mensagem']));
         
-        echo 'nome'.$nome."<br>";
-        echo 'email'.$email."<br>";
-        echo'celular'.$celular."<br>";
-        echo 'mensagem'.$mensagem."<br>";
-        exit;
-        
+       
                 
 $c= new cliente();
         

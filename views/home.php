@@ -74,7 +74,7 @@
   <!-- About Section -->
   <div class="w3-container w3-padding-32" id="about">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16 text-center">Sobre</h3>
-    <h4><p>"Didi pedras a mais de 30 anos no mercado Especialista na área de pavimentação com paralelepípedos e folhetos Muros de arrimo de pedra".</p></h4>
+    <h4><p>"Didi pedras a mais de 30 anos no mercado Especialista na área de pavimentação com paralelepípedos e folhetos Muros de pedra".</p></h4>
     
   </div>
 

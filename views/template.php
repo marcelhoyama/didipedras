@@ -7,15 +7,15 @@
     <meta property="og:url" content="http://www.didipedras.com.br" />
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="DIDI Pedras Cabreúva e Região"/>
-    <meta property="og:description" content="Prestação de serviços de Pedras e vendas de pedras ! Cabreúva e região"/>
+    <meta property="og:description" content="Prestação de serviços Muro de Pedras e vendas de pedras ! Cabreúva e região"/>
     <META NAME="Robots" CONTENT="INDEX,FOLLOW">
     <meta name="distribution" content="Global">
     <meta name="rating" content="General">
     <meta name="revisit-after" content="2">
-    <meta name="classification" content="pedreira , loja de pedras">
+    <meta name="classification" content="pedreira , loja de pedras, muro de pedras">
 
     <meta name="description" content="DIDI Pedras - Procurando por prestação de serviço de pedras e vendas de Pedras? Encontre ótimos Orçamentos para venda e Serviços de Pedras. Clique e confira!">
-    <meta name="keywords" content="Pedras, Pedreira, Cabreúva, DIDI pedras, Venda, escada de pedras, muro de pedras, calçamentos de pedras, Casas, Casas em Condomínio, Terrenos, Comerciais, Chácara, Sítios, Fazendas, galpão, area industrial, areas">
+    <meta name="keywords" content="Pedras, Pedreira, Cabreúva, DIDI pedras, Venda, escada de pedras, muro de pedras, calçamentos de pedras, Casas, Casas em Condomínio, Terrenos, Chácara, Sítios, Fazendas, area industrial">
     <meta name="author" content="Marcel Hoyama">
     <meta name="google-site-verification" content="http://www.didipedras.com.br" />
     <!-- As 3 meta tags acima *devem* vir em primeiro lugar dentro do `head`; qualquer outro conteúdo deve vir *após* essas tags -->
@@ -34,7 +34,7 @@
     <meta property="og:type" content="website">
 
 
-
+google-site-verification: googlece4af351182f445f.html
 
 
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"/>
@@ -91,7 +91,7 @@
 
         <!-- Footer -->
         <footer class="w3-center w3-black w3-padding-16">
-            <p>Devenvolvido por <a href="http://www.devmg.pe.hu" title="Marcel" target="_blank" class="w3-hover-text-green">Marcel Hoyama</a></p>
+            <p>Desenvolvido por <a href="http://www.devmg.pe.hu" title="Marcel" target="_blank" class="w3-hover-text-green">Marcel Hoyama</a></p>
         </footer>
 
     </body>
