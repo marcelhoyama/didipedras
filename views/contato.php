@@ -34,7 +34,7 @@
                     </div>
                         </form>
                         
-                        <div class="danger">
+                        <div class="danger"><!--
             <?php if (isset($erro) && !empty($erro)): ?>
                 <div class="alert alert-danger"><?php echo $erro; ?></div> 
             <?php endif; ?>
@@ -43,20 +43,8 @@
             <?php if (isset($ok) && !empty($ok)): ?>
                 <div class="alert alert-success"><?php echo $ok; ?></div> 
             <?php endif; ?>
-        </div>
+        </div>-->
                     </div>
                 </div>
             </div>
-            <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="contact">
-                <h2 class="w3-wide w3-center"> Horário de funcionamento</h2>
-
-                <div class="w3-row w3-padding-22">
-
-                    <div class="w3-center">
-
-                        <i class="" style="width:30px"> </i>Domingo á Domingo das 07:00 – 22:00<br>
-
-                    </div>
-                </div>
-
-            </div>
+            </div>        
