@@ -15,9 +15,9 @@
   </p>
 
 
-A pedra Paralelepípedo é um tipo de material que pode ser utilizado em qualquer tipo de construção, desde residências a grandes empresas, calçamento de ruas, chácaras, pátios, revestimentos entre outros. 
+A pedra Paralelepípedo é um tipo de material que pode ser utilizado em qualquer tipo de construção, desde residências a grandes empresas, calçamento de ruas, chácaras, pátios, revestimentos, calçamento entre outros. 
 Um material extremamente vantajoso pois suporta cargas pesadas, tem ótima durabilidade e resistência incontestáveis, diferente dos outros tipos de pisos oferecidos no mercado e tem um ótimo acabamento com sua beleza rústica. 
-Se necessário algum tipo de reforma o cliente tem a vantagem de utilizar o mesmo material.
+Se necessário algum tipo de reforma o cliente tem a vantagem de utilizar o mesmo material (as suas pedras paralelepípedo usado).
 
 
 

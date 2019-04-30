@@ -8,18 +8,18 @@
 
 
 
-<h2 class="text-center">DIDI - Pedras: REVESTIMENTOS EM PEDRA PROPORCIONAM BELEZA, NATURALIDADE E FACILIDADE DE MANUTENÇÃO. </h2>
+<h2 class="text-center">DIDI - Pedras: Pedras para revestimento de muros em pedras. </h2>
 <br>
 
 <p><h3><b>A DIDI - Pedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de serviços em pedras.</b></h3></p>
-<p>Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra. </p>
+<p>Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra, assim proporcionando beleza, naturalidade e facilidade de manutenção. </p>
 <p>
     
-Os Revestimentos em pedras apresentam um efeito diferenciado pela variação de cores e texturas entre elas, além de ser muito resistente, confere requinte, sofisticação, beleza e durabilidade tornando o espaço sempre único.
+Os Revestimentos em pedras para muros apresentam um efeito diferenciado pela variação de cores e texturas entre elas, além de ser muito resistente, confere requinte, sofisticação, beleza e durabilidade tornando o espaço sempre único.
 
 Podem ser aplicadas em muros, lareiras, churrasqueiras, fontes, colunas, fachadas, jardins, paredes de escadas e salas, bancadas, lavabos, cozinhas, painéis, áreas internas e externas em geral.
 
-Na DIDI PEDRAS você encontrará uma enorme variedade de Pedras são diversas cores, tamanhos, texturas, espessuras, pedras com acabamentos serrados, irregulares, filetados, telados, além de todos os produtos necessários para a aplicação dos mesmos e a indicação dos melhores profissionais para o assentamento.
+Na DIDI PEDRAS você encontrará uma enorme variedade de Pedras de revestimento,muros moderno e baratos,muros simples e bonitos, são diversas cores, tamanhos, texturas, espessuras, pedras com acabamentos serrados, irregulares, filetados, telados, além de todos os produtos necessários para a aplicação dos mesmos e a indicação dos melhores profissionais para o assentamento.
 
 </p>
 

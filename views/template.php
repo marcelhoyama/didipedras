@@ -1,82 +1,82 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <title style="font-family: Blippo, fantasy;">DIDI - Pedras</title>
-    <meta charset="UTF=8"/>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name= "viewport" content= "width=device-width, user-scalable=no" />
-    <meta property="og:url" content="http://www.didipedras.com.br" />
-    <meta property="og:type" content="website"/>
-    <meta property="og:title" content="DIDI Pedras Cabreúva e Região"/>
-    <meta property="og:description" content="Prestação de serviços Muro de Pedras e vendas de pedras ! Cabreúva e região"/>
-    <META NAME="Robots" CONTENT="INDEX,FOLLOW">
-    <meta name="distribution" content="Global">
-    <meta name="rating" content="General">
-    <meta name="revisit-after" content="2">
-    <meta name="classification" content="pedreira , loja de pedras, muro de pedras">
+    <head>
+        <title style="font-family: Blippo, fantasy;">DIDI - Pedras</title>
+        <meta charset="UTF=8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name= "viewport" content= "width=device-width, user-scalable=no" />
 
-    <meta name="description" content="DIDI Pedras - Procurando por prestação de serviço de pedras e vendas de Pedras? Encontre ótimos Orçamentos para venda e Serviços de Pedras. Clique e confira!">
-    <meta name="keywords" content="Pedras, Pedreira, Cabreúva, DIDI pedras, Venda, escada de pedras, muro de pedras, calçamentos de pedras, Casas, Casas em Condomínio, Terrenos, Chácara, Sítios, Fazendas, area industrial">
-    <meta name="author" content="Marcel Hoyama">
-    <meta name="google-site-verification" content="http://www.didipedras.com.br" />
-    <!-- As 3 meta tags acima *devem* vir em primeiro lugar dentro do `head`; qualquer outro conteúdo deve vir *após* essas tags -->
-    <link rel="canonical" href="http://didipedras.com.br/" />
-    <meta property="og:locale" content="pt_BR">
+        <META NAME="Robots" CONTENT="INDEX,FOLLOW">
+        <meta name="distribution" content="Global">
+        <meta name="rating" content="General">
+        <meta name="revisit-after" content="2">
+        <meta name="classification" content="pedreira , loja de pedras, muro de pedras, prestação de serviço">
 
-    <meta property="og:site_name" content="Didi - Pedras em Cabreúva e Região você encontra aqui, serviços de pedras e vendas de pedras...">
-    <meta property="og:image" content="http://didipedras.com.br/assets/images/didi.jpg">
-    <meta property="og:image:type" content="image/jpg">
+        <meta property="og:locale" content="pt_BR">
 
-    <meta property="fb:admins" content="werockcontent"/>
-    <meta name="twitter:url" content="http://didipedras.com.br/">
-    <meta property="twitter:title" content="Procurando Serviços de pedras, qualidade, vendas de pedras ... ">
-    <meta property="twitter:description" content="Quer ter segurança no serviço ainda oferecer o melhor serviço e  atendimento,entender a sua necessidade e a partir daí apresentar o melhor negócio para o seu perfil?  Agente uma visita conosco!">
-    <meta property="twitter:image" content="http://www.didipedras.com.br/assets/images/didi.png">
-    <meta property="og:type" content="website">
+        <!--  Open Graph Facebook -->
+          <meta property="og:title" content="Cel: 11-9.9892-1840 |Vendas de pedras e serviços.">
+          <meta property="og:description" content="Muro , escada, calçamento, caminho,  folheta e paralelepípedo e revestimento tudo em pedras."/>
+          <meta property="og:url" content="http://www.didipedras.com.br">
+          
+          <meta property="og:type" content="website">
+          <meta property="og:image" content="http://www.didipedras.com.br/assets/images/didi.jpg">
+        
+<!--         twitter -->
+        <meta property="fb:admins" content="werockcontent"/>
+        <meta name="twitter:url" content="http://didipedras.com.br">
+        <meta property="twitter:title" content="Procurando Serviços de pedras, qualidade, vendas de pedras ... ">
+        <meta property="twitter:description" content="Quer ter segurança no serviço ainda oferecer o melhor serviço e  atendimento,entender a sua necessidade e a partir daí apresentar o melhor negócio para o seu perfil?  Agente uma visita conosco!">
+        <meta property="twitter:image" content="http://www.didipedras.com.br/assets/images/didi.jpg">
+        <meta property="og:image:type" content="image/jpeg" />
 
 
-google-site-verification: googlece4af351182f445f.html
+
+        <meta google-site-verification: googlece4af351182f445f.html/>
 
 
-    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"/>
+        <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"/>
+    </head>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 
     <link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/w3.css"/>
     <link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/style.css"/>
+    <link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/normalize.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <body>
 
         <!-- Navbar (sit on top) -->
-        
-       
-<div class="w3-top">
-  <div class="w3-bar w3-white w3-card w3-wide w3-large">
-       <a href="https://www.facebook.com/Didi-pedras-418530741640677/" class="w3-bar-item "><img class="w3-hover-shadow" src="<?php BASE_URL; ?>assets/images/facebookcolor.png" width="40" height="40" style="margin-top: -7px"/></a>
+
+
+        <div class="w3-top">
+            <div class="w3-bar w3-white w3-card w3-wide w3-large">
+                <a href="https://www.facebook.com/Didi-pedras-418530741640677/" class="w3-bar-item "><img class="w3-hover-shadow" src="<?php BASE_URL; ?>assets/images/facebookcolor.png" width="40" height="40" style="margin-top: -7px"/></a>
 
                 <a href="<?php BASE_URL; ?>home" class="w3-bar-item" ><img class="w3-hover-shadow"src="<?php BASE_URL; ?>assets/images/didipedras.jpg" width="155px" height="auto"></a>
-                
-    
+
+
                 <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-white" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <div class="w3-right w3-hide-small">
-    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
-    <a href="<?php BASE_URL; ?>home#projects" class="w3-bar-item w3-button w3-hide-small w3-padding-large ">Produtos e Serviços</a>
-    <a href="<?php BASE_URL; ?>home#about" class="w3-bar-item w3-button w3-hide-small w3-padding-large">Sobre</a>
-    <a href="<?php BASE_URL; ?>contato" class="w3-bar-item w3-button w3-hide-small w3-padding-large">Contato</a>
-  </div>
-  </div>
-         <!-- Navbar on small screens -->
-  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
-    <a href="#" class="w3-bar-item w3-button w3-padding-large">Home</a>
-    <a href="<?php BASE_URL; ?>home#projects" class="w3-bar-item w3-button w3-padding-large">Produtos e Serviços</a>
-    <a href="<?php BASE_URL; ?>home#about" class="w3-bar-item w3-button w3-padding-large">Sobre</a>
-    <a href="<?php BASE_URL; ?>contato"  class="w3-bar-item w3-button w3-padding-large">Contato</a>
-  </div>
-</div>
+                <div class="w3-right w3-hide-small">
+                    <a href="home#" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
+                    <a href="<?php BASE_URL; ?>home#projects" class="w3-bar-item w3-button w3-hide-small w3-padding-large ">Produtos e Serviços</a>
+                    <a href="<?php BASE_URL; ?>home#about" class="w3-bar-item w3-button w3-hide-small w3-padding-large">Sobre</a>
+                    <a href="<?php BASE_URL; ?>contato" class="w3-bar-item w3-button w3-hide-small w3-padding-large">Contato</a>
+                </div>
+            </div>
+            <!-- Navbar on small screens -->
+            <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
+                <a href="home#" class="w3-bar-item w3-button w3-padding-large">Home</a>
+                <a href="<?php BASE_URL; ?>home#projects" class="w3-bar-item w3-button w3-padding-large">Produtos e Serviços</a>
+                <a href="<?php BASE_URL; ?>home#about" class="w3-bar-item w3-button w3-padding-large">Sobre</a>
+                <a href="<?php BASE_URL; ?>contato"  class="w3-bar-item w3-button w3-padding-large">Contato</a>
+            </div>
+        </div>
         <br><br>
         <div class="w3-content w3-padding" style="max-width:1564px">
 
@@ -92,11 +92,11 @@ google-site-verification: googlece4af351182f445f.html
                     <div class="w3-large w3-margin-bottom">
                         <i class="fa fa-map-marker" style="width:30px"></i> Rua Jordânia 699 Vilarejo - Cabreúva - SP 13315-000 <br>
                         <i  style="width:30px"></i> <a class="w3-hover-text-green" href="https://api.whatsapp.com/send?phone=5511998921840&text=Ola!%20Fiquei%20interessado%20no%20seu%20serviço!"><img src="<?php BASE_URL; ?>assets/images/whatsapp.jpg" width="25px" height="25px" >  11 9.9892-1840 vivo</a><br>
-                          <i style="width:30px"></i><a class="w3-hover-text-green"href="https://api.whatsapp.com/send?phone=5511991239021&text=Ola!%20Fiquei%20interessado%20no%20seu%20serviço!"> <img src="<?php BASE_URL; ?>assets/images/whatsapp.jpg" width="25px" height="25px" >  11 9.9123-9021 claro</a><br>
-                         <i style="width:30px"></i><a class="w3-hover-text-green" href="https://api.whatsapp.com/send?phone=5511997193009&text=Ola!%20Fiquei%20interessado%20no%20seu%20serviço!"> <img src="<?php BASE_URL; ?>assets/images/whatsapp.jpg" width="25px" height="25px" >  11 9.9719-3009 vivo</a><br>
+                        <i style="width:30px"></i><a class="w3-hover-text-green"href="https://api.whatsapp.com/send?phone=5511991239021&text=Ola!%20Fiquei%20interessado%20no%20seu%20serviço!"> <img src="<?php BASE_URL; ?>assets/images/whatsapp.jpg" width="25px" height="25px" >  11 9.9123-9021 claro</a><br>
+                        <i style="width:30px"></i><a class="w3-hover-text-green" href="https://api.whatsapp.com/send?phone=5511997193009&text=Ola!%20Fiquei%20interessado%20no%20seu%20serviço!"> <img src="<?php BASE_URL; ?>assets/images/whatsapp.jpg" width="25px" height="25px" >  11 9.9719-3009 vivo</a><br>
                         <i class="fa fa-envelope" style="width:30px"> </i> E-mail: didi_783@hotmail.com<br>
                     </div>
-                  
+
                 </div>
             </div>
             <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="contact">
@@ -120,19 +120,19 @@ google-site-verification: googlece4af351182f445f.html
             <script src="<?php BASE_URL; ?>assets/js/jquery.validate.js"></script>
             <script src="<?php BASE_URL; ?>assets/js/messages_pt_BR.min.js"></script>
             <script src="<?php BASE_URL; ?>assets/js/validarcampos.js"></script>
-             <script src="<?php BASE_URL; ?>assets/js/script.js"></script>
-<script>
-           // Used to toggle the menu on small screens when clicking on the menu button
-function myFunction() {
-  var x = document.getElementById("navDemo");
-  if (x.className.indexOf("w3-show") == -1) {
-    x.className += " w3-show";
-  } else { 
-    x.className = x.className.replace(" w3-show", "");
-  }
-}
+            <script src="<?php BASE_URL; ?>assets/js/script.js"></script>
+            <script>
+                                // Used to toggle the menu on small screens when clicking on the menu button
+                                function myFunction() {
+                                    var x = document.getElementById("navDemo");
+                                    if (x.className.indexOf("w3-show") == -1) {
+                                        x.className += " w3-show";
+                                    } else {
+                                        x.className = x.className.replace(" w3-show", "");
+                                    }
+                                }
 
-</script>
+            </script>
 
             <!-- Image of location/map -->
             <div class="w3-container">

@@ -2,11 +2,14 @@
       background-image: none;
       color: #003466;
   }
+ 
   .carousel-indicators li {
-      border-color: #fe9900;
+      border-color: #009688;
+     
   }
   .carousel-indicators li.active {
-      background-color: #fe9900;
+      background-color: #009688;
+    
   }
   
   .slideanim {visibility:hidden;}

@@ -8,7 +8,7 @@
 
 
 
-<h2 class="text-center">DIDI - Pedras: Folheta </h2>
+<h2 class="text-center">DIDI - Pedras: Folheta de pedra </h2>
 
 <p><h3><b>A DIDI - Pedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</b></h3></p>
 <p>Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra. </p>
@@ -18,7 +18,7 @@
 <p>
     Seu corte é manual, podendo também ter outros formatos caso o cliente desejar. 
 
-    Usada para caminhos, escadas, entradas de veículos, calçamentos, garagens, fachadas, revestimentos, fonte e entre outras infinidades.
+    Usada como: pedra folheta para caminho no jardim, escadas, entradas de veículos, calçamentos (folheta para calçada), garagens, fachadas, revestimentos, fonte e entre outras infinidades.
 </p>
 <p>
     Peso e resistência: A pedra folheta pesa de 25 a 28 kg a unidade. É uma pedra muito resistente suportando passagens de veículo.
