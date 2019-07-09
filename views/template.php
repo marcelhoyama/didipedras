@@ -106,7 +106,7 @@
 
                     <div class="w3-center">
 
-                        <i class="" style="width:30px"> </i>Domingo á Domingo das 07:00 – 22:00<br>
+                        <i class="" style="width:30px"> </i>Domingo á Domingo das 07:00 – 18:00<br>
 
                     </div>
                 </div>

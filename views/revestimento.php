@@ -41,10 +41,10 @@ Na DIDI PEDRAS você encontrará uma enorme variedade de Pedras de revestimento,
             <li data-target="#demo" data-slide-to="1"></li>
             <li data-target="#demo" data-slide-to="2"></li>
             <li data-target="#demo" data-slide-to="3"></li>
-            <li data-target="#demo" data-slide-to="4"></li>
-            <li data-target="#demo" data-slide-to="5"></li>
+  <!--            <li data-target="#demo" data-slide-to="4"></li>
+          <li data-target="#demo" data-slide-to="5"></li>
             <li data-target="#demo" data-slide-to="6"></li>
-            <li data-target="#demo" data-slide-to="7"></li>
+            <li data-target="#demo" data-slide-to="7"></li>-->
         </ul>
 
         <div class="carousel-inner">
@@ -107,8 +107,8 @@ Na DIDI PEDRAS você encontrará uma enorme variedade de Pedras de revestimento,
                 <div class="column">
                     <img src="<?php BASE_URL; ?>assets/images/revestimentos/revestimento (13).jpeg" alt="Revestimento" onclick="myFunction(this);">
                 </div>
-
-
+            </div>
+<!--
                 <div class="column">
                     <img  src="<?php BASE_URL; ?>assets/images/revestimentos/revestimento (14).jpeg" alt="Revestimento" onclick="myFunction(this);">
                 </div>
@@ -162,7 +162,7 @@ Na DIDI PEDRAS você encontrará uma enorme variedade de Pedras de revestimento,
                     <img src="<?php BASE_URL; ?>assets/images/revestimentos/revestimento (25).jpeg" alt="Revestimento" onclick="myFunction(this);">
                 </div>
 
-            </div>
+            </div>-->
             
 
 

@@ -8,7 +8,7 @@
 
 
 
-<h2 class="text-center">DIDI - Pedras: Folheta de pedra </h2>
+<h2 class="text-center">DIDI - Pedras: Calçamento de Folheta</h2>
 
 <p><h3><b>A DIDI - Pedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</b></h3></p>
 <p>Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra. </p>

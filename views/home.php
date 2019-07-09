@@ -59,20 +59,20 @@
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-           <div class="w3-display-topleft w3-black w3-padding">Pedras Folheta</div>
-       <a href="<?php BASE_URL;?>folheta">   <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (18).jpeg" alt="Palheta" class="home hover-shadow"> </a>
+           <div class="w3-display-topleft w3-black w3-padding">Calçamento de Folheta</div>
+       <a href="<?php BASE_URL;?>folheta">   <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (18).jpeg" alt="Folheta" class="home hover-shadow"> </a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-          <div class="w3-display-topleft w3-black w3-padding">Pedras Paralelepípedo</div>
-          <a href="<?php BASE_URL;?>paralelepipedo"> <img src="<?php BASE_URL; ?>assets/images/paralelepipedo_bloquete/paralelepipedo (4).jpeg" alt="Paralelepípedo" class="home hover-shadow"></a>
+          <div class="w3-display-topleft w3-black w3-padding">Calçamento de Paralelepípedo</div>
+          <a href="<?php BASE_URL;?>paralelepipedo"> <img src="<?php BASE_URL; ?>assets/images/paralelepipedo/paralelepipedo  (3).jpeg" alt="Paralelepípedo" class="home hover-shadow"></a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Pedras Bruta</div>
-        <a href="<?php BASE_URL;?>"> <img src="<?php BASE_URL; ?>assets/images/foto4.jpg" alt="Bruta" class="home hover-shadow"></a>
+        <div class="w3-display-topleft w3-black w3-padding">Intertravado ou Bloquete</div>
+        <a href="<?php BASE_URL;?>bloquete"> <img src="<?php BASE_URL; ?>assets/images/foto4.jpg" alt="Bloquete" class="home hover-shadow"></a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">

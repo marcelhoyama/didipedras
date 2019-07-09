@@ -40,6 +40,10 @@
             <li data-target='#demo' data-slide-to="0" class="active"></li>
             <li data-target="#demo" data-slide-to="1"></li>
             <li data-target="#demo" data-slide-to="2"></li>
+            <li data-target="#demo" data-slide-to="3"></li>
+            <li data-target="#demo" data-slide-to="4"></li>
+            <li data-target="#demo" data-slide-to="5"></li>
+             <li data-target="#demo" data-slide-to="6"></li>
 
         </ul>
 
@@ -93,8 +97,49 @@
                 <div class="column">
                     <img src="<?php BASE_URL; ?>assets/images/escadas/escada (11).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
                 </div>
-
-            </div>
+                <div class="column">
+                    <img src="<?php BASE_URL; ?>assets/images/escadas/escada (12).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
+                </div>
+                 </div>
+              <div class="carousel-item">
+                <div class="column">
+                    <img src="<?php BASE_URL; ?>assets/images/escadas/escada (13).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
+                </div>
+                <div class="column">
+                    <img src="<?php BASE_URL; ?>assets/images/escadas/escada (14).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
+                </div>
+                <div class="column">
+                    <img src="<?php BASE_URL; ?>assets/images/escadas/escada (15).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
+                </div>
+                <div class="column">
+                    <img src="<?php BASE_URL; ?>assets/images/escadas/escada (16).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
+                </div>
+                  
+                    </div>
+              <div class="carousel-item">
+                <div class="column">
+                    <img src="<?php BASE_URL; ?>assets/images/escadas/escada (17).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
+                </div>
+<div class="column">
+                    <img src="<?php BASE_URL; ?>assets/images/escadas/escada (18).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
+                </div>
+                <div class="column">
+                    <img src="<?php BASE_URL; ?>assets/images/escadas/escada (19).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
+                </div><div class="column">
+                    <img src="<?php BASE_URL; ?>assets/images/escadas/escada (20).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="column">
+                    <img src="<?php BASE_URL; ?>assets/images/escadas/escada (21).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
+                </div><div class="column">
+                    <img src="<?php BASE_URL; ?>assets/images/escadas/escada (22).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
+                </div>
+                <div class="column">
+                    <img src="<?php BASE_URL; ?>assets/images/escadas/escada (23).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
+                </div>
+                
+              </div>
 
         </div>
 
