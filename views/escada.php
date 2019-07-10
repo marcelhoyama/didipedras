@@ -1,36 +1,53 @@
-<!--  Open Graph Facebook 
-  <meta property="og:title" content="DIDI - Pedras">
-  <meta property="og:description" content="Serviço de escada de pedras e vendas de pedras."/>
-  <meta property="og:url" content="http://www.didipedras.com.br">
-  
-  <meta property="og:type" content="website">
-  <meta property="og:image" content="http://www.didipedras.com.br/escadasnovo.jpg">
+<title>DIDI Pedras - Escadas de pedras</title>
+<!--<meta property="og:title" content="DIDI - Escada de Pedras">
+<meta property="og:description" content="Serviço de escada de pedras e vendas de pedras."/>
+<meta property="og:url" content="http://www.didipedras.com.br/escada">
 
- twitter 
+<meta property="og:type" content="website">
+<meta property="og:image" content="http://www.didipedras.com.br/assets/images/escadasnovo.png">
 <meta property="fb:admins" content="werockcontent"/>
 <meta name="twitter:url" content="http://didipedras.com.br/escada">
-<meta property="twitter:title" content="Procurando Serviços de pedras, qualidade, vendas de pedras ... ">
-<meta property="twitter:description" content="Quer ter segurança no serviço ainda oferecer o melhor serviço e  atendimento,entender a sua necessidade e a partir daí apresentar o melhor negócio para o seu perfil?  Agente uma visita conosco!">
-<meta property="twitter:image" content="http://www.didipedras.com.br/assets/images/escadasnovo.jpg">
+<meta property="twitter:title" content="Procurando Serviços de escada de pedras, qualidade, vendas de pedras ... ">
+<meta property="twitter:description" content="Quer ter segurança no serviço ainda oferecer o melhor atendimento,entender a sua necessidade e a partir daí apresentar o melhor negócio para o seu perfil?  Agente uma visita conosco!">
+<meta property="twitter:image" content="http://www.didipedras.com.br/assets/images/escadasnovo.png">
 <meta property="og:image:type" content="image/jpeg" />-->
-  <title>DIDI Pedras Escadas de pedras</title>
-  
- 
+
+
+
 
 <div class="text-center">
     <img  src="<?php BASE_URL; ?>assets/images/escadas/escada (7).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Escada de pedras">
 </div>
 <br>
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id))
+            return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your share button code -->
+<div class="fb-share-button" 
+     data-href="http://www.didipedras.com.br/escada" 
+     data-layout="button_count">
+</div>
+<a href="http://www.facebook.com/sharer/sharer.php?u=http://didipedras.com.br/escada" target="_blank" class="share-btn facebook"> <i class="fa fa-facebook" style="font-size:20px;"></i></a>
+<!-- Page content -->
 <br>
 
 
 
-<h2 class="text-center"><b>DIDI - Pedras: Escada de Pedras</b></h2>
+<h1 class="text-center"><b>DIDI Pedras: Escada de Pedras</b></h1>
 <br>
-<p><h3 class="text-center">A DIDI - Pedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de escadas de pedras.</h3></p>
+<p><h3 class="text-center">A DIDI Pedras disponibiliza aos seus clientes, vendas de pedras para os mais diferentes tipos de pedras.</h3></p>
 <p class="text-center">Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra ou projetos de escadas. </p>
 <br>
-<h2 class="text-center"> Um dos Serviços feitos</h2>
+<h2 class="text-center"> Veja um dos Serviços feitos de escada de pedras</h2>
 <!-- The grid: four columns -->
 <div  id="desktop" class="row">
 
@@ -43,7 +60,7 @@
             <li data-target="#demo" data-slide-to="3"></li>
             <li data-target="#demo" data-slide-to="4"></li>
             <li data-target="#demo" data-slide-to="5"></li>
-             <li data-target="#demo" data-slide-to="6"></li>
+            <li data-target="#demo" data-slide-to="6"></li>
 
         </ul>
 
@@ -100,8 +117,8 @@
                 <div class="column">
                     <img src="<?php BASE_URL; ?>assets/images/escadas/escada (12).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
                 </div>
-                 </div>
-              <div class="carousel-item">
+            </div>
+            <div class="carousel-item">
                 <div class="column">
                     <img src="<?php BASE_URL; ?>assets/images/escadas/escada (13).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
                 </div>
@@ -114,13 +131,13 @@
                 <div class="column">
                     <img src="<?php BASE_URL; ?>assets/images/escadas/escada (16).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
                 </div>
-                  
-                    </div>
-              <div class="carousel-item">
+
+            </div>
+            <div class="carousel-item">
                 <div class="column">
                     <img src="<?php BASE_URL; ?>assets/images/escadas/escada (17).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
                 </div>
-<div class="column">
+                <div class="column">
                     <img src="<?php BASE_URL; ?>assets/images/escadas/escada (18).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
                 </div>
                 <div class="column">
@@ -128,8 +145,8 @@
                 </div><div class="column">
                     <img src="<?php BASE_URL; ?>assets/images/escadas/escada (20).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
                 </div>
-              </div>
-              <div class="carousel-item">
+            </div>
+            <div class="carousel-item">
                 <div class="column">
                     <img src="<?php BASE_URL; ?>assets/images/escadas/escada (21).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
                 </div><div class="column">
@@ -138,8 +155,8 @@
                 <div class="column">
                     <img src="<?php BASE_URL; ?>assets/images/escadas/escada (23).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
                 </div>
-                
-              </div>
+
+            </div>
 
         </div>
 
@@ -182,9 +199,9 @@
             <!-- Indicators -->
             <ul class="carousel-indicators">
                 <li data-target="#demo" data-slide-to="0" class="active"></li>
-                <?php for ($i = 1; $i <= 11; $i++) { ?>
+                <?php for ($i = 1; $i <= 23; $i++) { ?>
                     <li data-target="#demo" data-slide-to="<?php echo $i; ?>"></li>
-<?php } ?>
+                <?php } ?>
 
             </ul>
 
@@ -194,13 +211,13 @@
                     <img class="img-fluid "src="<?php BASE_URL; ?>assets/images/escadas/escada (1).jpeg" alt="Escada de pedra">
 
                 </div>
-<?php for ($i = 1; $i <= 11; $i++) { ?>
+                <?php for ($i = 1; $i <= 23; $i++) { ?>
 
                     <div class="carousel-item">
                         <img class="img-fluid "src="<?php BASE_URL; ?>assets/images/escadas/escada (<?php echo $i; ?>).jpeg" alt="Escada de pedra">
                     </div>
 
-<?php } ?>
+                <?php } ?>
 
 
             </div>

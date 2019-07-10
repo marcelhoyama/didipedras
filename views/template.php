@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
-        <title style="font-family: Blippo, fantasy;">DIDI - Pedras</title>
+        
         <meta charset="UTF=8"/>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name= "viewport" content= "width=device-width, user-scalable=no" />
@@ -14,28 +14,23 @@
 
         <meta property="og:locale" content="pt_BR">
 
-        <!--  Open Graph Facebook -->
-          <meta property="og:title" content="Cel: 11-9.9892-1840 |Vendas de pedras e serviços.">
-          <meta property="og:description" content="Muro , escada, calçamento, caminho,  folheta e paralelepípedo e revestimento tudo em pedras."/>
-          <meta property="og:url" content="http://www.didipedras.com.br">
-          
-          <meta property="og:type" content="website">
-          <meta property="og:image" content="http://www.didipedras.com.br/assets/images/didi.jpg">
-        
-<!--         twitter -->
-        <meta property="fb:admins" content="werockcontent"/>
-        <meta name="twitter:url" content="http://didipedras.com.br">
-        <meta property="twitter:title" content="Procurando Serviços de pedras, qualidade, vendas de pedras ... ">
-        <meta property="twitter:description" content="Quer ter segurança no serviço ainda oferecer o melhor serviço e  atendimento,entender a sua necessidade e a partir daí apresentar o melhor negócio para o seu perfil?  Agente uma visita conosco!">
-        <meta property="twitter:image" content="http://www.didipedras.com.br/assets/images/didi.jpg">
-        <meta property="og:image:type" content="image/jpeg" />
+<meta property="og:title" content="DIDI - Escada de Pedras">
+<meta property="og:description" content="Serviço de escada de pedras e vendas de pedras."/>
+<meta property="og:url" content="http://www.didipedras.com.br/escada">
 
-
+<meta property="og:type" content="website">
+<meta property="og:image" content="http://www.didipedras.com.br/assets/images/escadasnovo.png">
+<meta property="fb:admins" content="werockcontent"/>
+<meta name="twitter:url" content="http://didipedras.com.br/escada">
+<meta property="twitter:title" content="Procurando Serviços de escada de pedras, qualidade, vendas de pedras ... ">
+<meta property="twitter:description" content="Quer ter segurança no serviço ainda oferecer o melhor atendimento,entender a sua necessidade e a partir daí apresentar o melhor negócio para o seu perfil?  Agente uma visita conosco!">
+<meta property="twitter:image" content="http://www.didipedras.com.br/assets/images/escadasnovo.png">
+<meta property="og:image:type" content="image/jpeg" />
 
         <meta google-site-verification: googlece4af351182f445f.html/>
 
 
-        <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"/>
+       
     </head>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
