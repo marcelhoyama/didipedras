@@ -1,4 +1,37 @@
+ 
+<title>DIDI Pedras - Palheta</title>
+<head>
+        
+        <meta charset="UTF=8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name= "viewport" content= "width=device-width, user-scalable=no" />
 
+        <META NAME="Robots" CONTENT="INDEX,FOLLOW">
+        <meta name="distribution" content="Global">
+        <meta name="rating" content="General">
+        <meta name="revisit-after" content="2">
+        <meta name="classification" content="pedreira , loja de pedras, palheta de pedras, prestação de serviço">
+
+        <meta property="og:locale" content="pt_BR">
+
+<meta property="og:title" content="DIDI - Palheta de Pedras">
+<meta property="og:description" content="Serviço de Palheta de pedras e vendas de pedras."/>
+<meta property="og:url" content="http://www.didipedras.com.br/palheta_1">
+
+<meta property="og:type" content="website">
+<meta property="og:image" content="http://www.didipedras.com.br/assets/images/foto6.jpg">
+<meta property="fb:admins" content="werockcontent"/>
+<meta name="twitter:url" content="http://didipedras.com.br/palheta_1">
+<meta property="twitter:title" content="Procurando Serviços de palheta de pedras, qualidade, vendas de pedras ... ">
+<meta property="twitter:description" content="Quer ter segurança no serviço ainda oferecer o melhor atendimento,entender a sua necessidade e a partir daí apresentar o melhor negócio para o seu perfil?  Agente uma visita conosco!">
+<meta property="twitter:image" content="http://www.didipedras.com.br/assets/images/foto6.jpg">
+<meta property="og:image:type" content="image/jpeg" />
+
+        <meta google-site-verification: googlece4af351182f445f.html/>
+
+
+       
+    </head>
 <br>
 <br>
 <br>
