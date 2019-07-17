@@ -33,5 +33,10 @@ public function __construct() {
         require 'views/'.$viewName.'.php';
         
     }
+     public function loadViewInTemplate_1($viewName, $viewData=array()) {
+        extract($viewData);
+        require 'views/'.$viewName.'.php';
+        
+    }
 }
 
