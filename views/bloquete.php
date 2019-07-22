@@ -7,21 +7,22 @@
     <img  src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (1).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Paralelepipedo">
 </div>
 <br>
-<br>
+
 <!-- FACEBOOK -->
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
     js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&appId=672741439403043&version=v2.0";
+    js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.0";
     fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
 <!-- Your share button code -->
 <div class="fb-share-button" 
-     data-href="http://www.didipedras.com.br/bloquete" 
+     data-href="<?php BASE_URL; ?>bloquete" 
      data-layout="button_count">
 </div>
+<br>
 <h2 class="text-center">DIDI - Pedras: Intertravado ou Bloquete</h2>
 
 <p><h3><b>A DIDI - Pedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</b></h3></p>
@@ -60,11 +61,7 @@ A manutenção e limpeza do pavimento intertravado é feita de maneira simples. 
 <h2 class="text-center"> Um dos Serviços feitos</h2>
 <!-- The grid: four columns -->
 <div id="desktop" class="row">
-    <?php
-    for ($x = 0; $x > 3; $x++) {
-        
-    }
-    ?>
+    
     <div id="slideshowExemplo" class="carousel slide" data-ride="carousel">
 
         <ul class="carousel-indicators">

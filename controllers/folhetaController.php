@@ -6,6 +6,11 @@ class folhetaController extends controller{
         $dados=array();
         
         
+         $dados['linknome']= 'folheta';                  
+        
+         $dados['frase']= 'Calçamento de Folheta';
+        
+        $dados['foto']='folhetas/folheta (30).png';
         
         $this->loadTemplate("folheta", $dados);
         

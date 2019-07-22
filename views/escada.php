@@ -1,4 +1,4 @@
-<!--<title>DIDI Pedras - Escadas de pedras</title>-->
+
 
 <title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase'];?></title>
 <div class="text-center">
@@ -19,8 +19,7 @@
      data-href="http://www.didipedras.com.br/escada" 
      data-layout="button_count">
 </div>
-<!--<a href="http://www.facebook.com/sharer/sharer.php?u=http://didipedras.com.br/escada" target="_blank" class="share-btn facebook"> <i class="fa fa-facebook" style="font-size:20px;"></i></a>-->
-<!-- Page content -->
+
 <br>
 
 

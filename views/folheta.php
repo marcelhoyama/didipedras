@@ -1,37 +1,24 @@
-<title>DIDI Pedras - Folheta</title>  
-<head>
-        
-        <meta charset="UTF=8"/>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name= "viewport" content= "width=device-width, user-scalable=no" />
+<title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase'];?></title>
 
-        <META NAME="Robots" CONTENT="INDEX,FOLLOW">
-        <meta name="distribution" content="Global">
-        <meta name="rating" content="General">
-        <meta name="revisit-after" content="2">
-        <meta name="classification" content="pedreira , loja de pedras, Calçamento de Folheta de pedras, prestação de serviço">
 
-        <meta property="og:locale" content="pt_BR">
-
-<meta property="og:title" content="DIDI - Calçamento de Folheta de Pedras">
-<meta property="og:description" content="Calçamento de Folheta de pedras e vendas de pedras."/>
-<meta property="og:url" content="http://www.didipedras.com.br/folheta">
-
-<meta property="og:type" content="website">
-<meta property="og:image" content="http://www.didipedras.com.br/assets/images/foto6.jpg">
-<meta property="fb:admins" content="werockcontent"/>
-<meta name="twitter:url" content="http://didipedras.com.br/folheta">
-<meta property="twitter:title" content="Procurando Calçamento de Folheta de pedras, qualidade, vendas de pedras ... ">
-<meta property="twitter:description" content="Quer ter segurança no serviço ainda oferecer o melhor atendimento,entender a sua necessidade e a partir daí apresentar o melhor negócio para o seu perfil?  Agente uma visita conosco!">
-<meta property="twitter:image" content="http://www.didipedras.com.br/assets/images/foto6.jpg">
-<meta property="og:image:type" content="image/jpeg" />
-
-        <meta google-site-verification: googlece4af351182f445f.html/>
- </head>
 <div class="text-center">
     <img  src="<?php BASE_URL; ?>assets/images/foto6.jpg"  class="img-thumbnail" style="width: 300px;"alt="Folheta">
 </div>
 <br>
+<!-- FACEBOOK -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.0";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+<!-- Your share button code -->
+<div class="fb-share-button" 
+     data-href="<?php BASE_URL; ?>folheta" 
+     data-layout="button_count">
+</div>
 <br>
 
 
