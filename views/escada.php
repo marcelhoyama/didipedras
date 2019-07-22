@@ -1,6 +1,6 @@
-<title>DIDI Pedras - Escadas de pedras</title>
+<!--<title>DIDI Pedras - Escadas de pedras</title>-->
 
-
+<title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase'];?></title>
 <div class="text-center">
     <img  src="<?php BASE_URL; ?>assets/images/escadas/escada (7).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Escada de pedras">
 </div>
@@ -22,7 +22,7 @@
      data-href="http://www.didipedras.com.br/escada" 
      data-layout="button_count">
 </div>
-<a href="http://www.facebook.com/sharer/sharer.php?u=http://didipedras.com.br/escada" target="_blank" class="share-btn facebook"> <i class="fa fa-facebook" style="font-size:20px;"></i></a>
+<!--<a href="http://www.facebook.com/sharer/sharer.php?u=http://didipedras.com.br/escada" target="_blank" class="share-btn facebook"> <i class="fa fa-facebook" style="font-size:20px;"></i></a>-->
 <!-- Page content -->
 <br>
 
@@ -53,7 +53,7 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <div class="column">
-                    <img src="<?php BASE_URL; ?>assets/images/escadas/escada (1).jpeg" alt="Escadas de pedras" onclick="myFunction(this);">
+                    <img src="<?php BASE_URL; ?>assets/images/escadas/escada.jpg" alt="Escadas de pedras" onclick="myFunction(this);">
                 </div>
 
 

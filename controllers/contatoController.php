@@ -42,7 +42,7 @@ $c= new cliente();
 
     }
     
-$this->loadTemplate_1("contato",$dados);    
+$this->loadTemplate("contato",$dados);    
         
     }
 }

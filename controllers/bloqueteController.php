@@ -6,6 +6,11 @@ class bloqueteController extends controller{
         $dados=array();
         
         
+         $dados['linknome']= 'bloquete';                  
+        
+         $dados['frase']= 'Intertravados ou Bloquete';
+        
+        $dados['foto']='bloquete/bloquete(3).png';
         
         $this->loadTemplate("bloquete", $dados);
         

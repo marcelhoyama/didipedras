@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-   <meta name="keywords" content="Pedras, Pedreira, Cabreúva, DIDI pedras, Venda, escada de pedras, muro de pedras, calçamentos de pedras, Casas, Casas em Condomínio, Terrenos, Chácara, Sítios, Fazendas, area industrial">
-    <meta name="author" content="Marcel Hoyama">
-    <meta name="google-site-verification" content="http://www.didipedras.com.br" />
+   <?php $this->loadViewInTemplate_1($viewName, $viewData); ?>
       
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -73,7 +71,7 @@
 
                     <div class="w3-center">
 
-                        <i class="" style="width:30px"> </i>Domingo á Domingo das 07:00 – 18:00<br>
+                        <i class="" style="width:30px"> </i>Segunda á Sábado das 07:00 – 18:00<br>
 
                     </div>
                 </div>

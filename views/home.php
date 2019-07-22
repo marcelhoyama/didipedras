@@ -47,8 +47,8 @@
      data-href="http://www.didipedras.com.br/" 
      data-layout="button_count">
 </div>
-<a href="http://www.facebook.com/sharer/sharer.php?u=http://didipedras.com.br/" target="_blank" class="share-btn facebook"> <i class="fa fa-facebook" style="font-size:20px;"></i></a>
-<!-- Page content -->
+<!--<a href="http://www.facebook.com/sharer/sharer.php?u=http://didipedras.com.br/" target="_blank" class="share-btn facebook"> <i class="fa fa-facebook" style="font-size:20px;"></i></a>
+ Page content -->
 
 
   <!-- Project Section -->
