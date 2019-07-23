@@ -1,37 +1,5 @@
-<title>DIDI Pedras - Paralelepipedo</title>  
-<head>
-        
-        <meta charset="UTF=8"/>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name= "viewport" content= "width=device-width, user-scalable=no" />
-
-        <META NAME="Robots" CONTENT="INDEX,FOLLOW">
-        <meta name="distribution" content="Global">
-        <meta name="rating" content="General">
-        <meta name="revisit-after" content="2">
-        <meta name="classification" content="pedreira , loja de pedras, paralelepipedo de pedras, prestação de serviço">
-
-        <meta property="og:locale" content="pt_BR">
-
-<meta property="og:title" content="DIDI - Paralelepipedo de Pedras">
-<meta property="og:description" content="Serviço de Paralelepipedo de pedras e vendas de pedras."/>
-<meta property="og:url" content="http://www.didipedras.com.br/paralelepipedo">
-
-<meta property="og:type" content="website">
-<meta property="og:image" content="http://www.didipedras.com.br/assets/images/paralelepipedo/paralelepipedo  (1).jpeg">
-<meta property="fb:admins" content="werockcontent"/>
-<meta name="twitter:url" content="http://didipedras.com.br/paralelepipedo">
-<meta property="twitter:title" content="Procurando Serviços de paralelepipedo de pedras, qualidade, vendas de pedras ... ">
-<meta property="twitter:description" content="Quer ter segurança no serviço ainda oferecer o melhor atendimento,entender a sua necessidade e a partir daí apresentar o melhor negócio para o seu perfil?  Agente uma visita conosco!">
-<meta property="twitter:image" content="http://www.didipedras.com.br/assets/images/paralelepipedo/paralelepipedo  (1).jpeg">
-<meta property="og:image:type" content="image/jpeg" />
-
-        <meta google-site-verification: googlece4af351182f445f.html/>
-
-
-       
-    </head>
-
+  
+<title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase'];?></title>
 
 
 
@@ -39,8 +7,24 @@
     <img  src="<?php BASE_URL; ?>assets/images/paralelepipedo/paralelepipedo  (1).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Paralelepipedo">
 </div>
 <br>
-<br>
 
+
+<!-- FACEBOOK -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.0";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+<!-- Your share button code -->
+<div class="fb-share-button" 
+     data-href="http://didipedras.com.br/paralelepipedo" 
+     data-layout="button_count">
+</div>
+
+<br>
 <h2 class="text-center">DIDI - Pedras: Calçamento de Paralelepípedo</h2>
 
 <p><h3><b>A DIDI - Pedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</b></h3></p>
@@ -124,7 +108,7 @@ Se necessário algum tipo de reforma o cliente tem a vantagem de utilizar o mesm
               
 
             </div>
-        </div>
+       
 
         <a class="carousel-control-prev" href="#slideshowExemplo" data-slide="prev">
             <span class="carousel-control-prev-icon"></span>
@@ -134,7 +118,7 @@ Se necessário algum tipo de reforma o cliente tem a vantagem de utilizar o mesm
         </a>
     </div>
 
-
+ </div>
 
 <!-- The expanding image container -->
 <div class="container">

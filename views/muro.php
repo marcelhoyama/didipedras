@@ -1,51 +1,37 @@
   
-<title>DIDI Pedras - Muro</title>
-<head>
-        
-        <meta charset="UTF=8"/>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name= "viewport" content= "width=device-width, user-scalable=no" />
-
-        <META NAME="Robots" CONTENT="INDEX,FOLLOW">
-        <meta name="distribution" content="Global">
-        <meta name="rating" content="General">
-        <meta name="revisit-after" content="2">
-        <meta name="classification" content="pedreira , loja de pedras, muro de pedras, prestação de serviço">
-
-        <meta property="og:locale" content="pt_BR">
-
-<meta property="og:title" content="DIDI - Muro de Pedras">
-<meta property="og:description" content="Serviço de Muro de pedras e vendas de pedras."/>
-<meta property="og:url" content="http://www.didipedras.com.br/muro">
-
-<meta property="og:type" content="website">
-<meta property="og:image" content="http://www.didipedras.com.br/assets/images/foto6.jpg">
-<meta property="fb:admins" content="werockcontent"/>
-<meta name="twitter:url" content="http://didipedras.com.br/muro">
-<meta property="twitter:title" content="Procurando Serviços de muro de pedras, qualidade, vendas de pedras ... ">
-<meta property="twitter:description" content="Quer ter segurança no serviço ainda oferecer o melhor atendimento,entender a sua necessidade e a partir daí apresentar o melhor negócio para o seu perfil?  Agente uma visita conosco!">
-<meta property="twitter:image" content="http://www.didipedras.com.br/assets/images/foto6.jpg">
-<meta property="og:image:type" content="image/jpeg" />
-
-        <meta google-site-verification: googlece4af351182f445f.html/>
-
- </head>
+<title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase'];?></title>
 
 
 <div class="text-center">
-    <img  src="<?php BASE_URL; ?>assets/images/foto6.jpg"  class="img-thumbnail" style="width: 300px;"alt="Palheta e arrimo">
+    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (15).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Muro de arrimo">
 </div>
 <br>
+<!-- FACEBOOK -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.0";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+<!-- Your share button code -->
+<div class="fb-share-button" 
+     data-href="http://didipedras.com.br/muro" 
+     data-layout="button_count">
+</div>
 <br>
 
-<h2 class="text-center">DIDI - Pedras: Muro de Pedras</h2>
+<br>
+
+<h2 class="text-center">DIDI - Pedras: Muro de Pedras Arrimo</h2>
 
 <p><h3><b>A DIDI - Pedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</b></h3></p>
 <p>Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra. 
 </p>
 
 
-<h2>O que é muro de pedras? Entenda sua importância e como deve ser construído</h2>
+<h2>O que é muro de pedras Arrimo? Entenda sua importância e como deve ser construído</h2>
 
 O muro de pedras é um tipo específico de muro que serve para suportar a terra além de isolar o terreno.
 
@@ -116,19 +102,19 @@ Por fim, é essencial que a obra do muro de pedras seja feita por ótimos profis
                 <div class="row">
                     
                 <div class="column">
-                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (1).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (1).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (2).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (2).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (3).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (3).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (4).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (4).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 </div>
             </div>
@@ -136,19 +122,19 @@ Por fim, é essencial que a obra do muro de pedras seja feita por ótimos profis
             <div class="carousel-item ">
                 <div class="row">
                 <div class="column">
-                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (5).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (5).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (6).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (6).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (7).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (7).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (8).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (8).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
             </div>
@@ -157,19 +143,19 @@ Por fim, é essencial que a obra do muro de pedras seja feita por ótimos profis
             <div class="carousel-item ">
                 <div class="row">
                 <div class="column">
-                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (9).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (9).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (10).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (10).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (11).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (11).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (12).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (12).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
             </div>
@@ -179,19 +165,19 @@ Por fim, é essencial que a obra do muro de pedras seja feita por ótimos profis
             <div class="carousel-item ">
                 <div class="row">
                 <div class="column">
-                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (13).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (13).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (14).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (14).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (15).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (15).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (16).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (16).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
             </div>
@@ -201,19 +187,19 @@ Por fim, é essencial que a obra do muro de pedras seja feita por ótimos profis
             <div class="carousel-item ">
                 <div class="row">
                 <div class="column">
-                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (17).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (17).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (18).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (18).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (19).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (19).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (20).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (20).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
             </div>
@@ -222,19 +208,19 @@ Por fim, é essencial que a obra do muro de pedras seja feita por ótimos profis
             <div class="carousel-item ">
                 <div class="row">
                 <div class="column">
-                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (21).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (21).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (22).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (22).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (23).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (23).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (24).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (24).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
             </div>
@@ -243,19 +229,19 @@ Por fim, é essencial que a obra do muro de pedras seja feita por ótimos profis
             <div class="carousel-item ">
                 <div class="row">
                 <div class="column">
-                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (25).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (25).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (26).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (26).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (27).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (27).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (28).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (28).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
             </div>
@@ -264,12 +250,12 @@ Por fim, é essencial que a obra do muro de pedras seja feita por ótimos profis
             <div class="carousel-item ">
                 <div class="row">
                 <div class="column">
-                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (29).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (29).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
 
                 <div class="column">
-                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (30).jpeg" alt="Palheta" onclick="myFunction(this);">
+                    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (30).jpeg" alt="Muro Arrimo" onclick="myFunction(this);">
                 </div>
 
            

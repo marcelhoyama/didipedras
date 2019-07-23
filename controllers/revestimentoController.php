@@ -6,6 +6,12 @@ class revestimentoController extends controller{
         $dados=array();
         
         
+         $dados['linknome']= 'revestimento';                  
+        
+         $dados['frase']= 'Revestimento em Pedras';
+        
+        $dados['foto']='revestimentos/revestimento(6).png';
+        
         
         $this->loadTemplate("revestimento", $dados);
         

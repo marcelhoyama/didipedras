@@ -9,7 +9,7 @@ class materiaprimaController extends controller{
         
          $dados['frase']= 'Matéria-prima';
         
-        $dados['foto']='materia-prima/materia (4).png';
+        $dados['foto']='materia-prima/materia(4).png';
         
     
          

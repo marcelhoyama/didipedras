@@ -99,7 +99,7 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-         <div  class="w3-display-topleft w3-black w3-padding">Muro de Pedras</div>
+         <div  class="w3-display-topleft w3-black w3-padding">Muro de Pedras Arrimo</div>
          <a href="<?php BASE_URL;?>muro"><img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (5).jpeg" alt="House" class="home hover-shadow"></a>
       </div>
     </div>
