@@ -74,4 +74,9 @@
                     </div>
                 </div>
             </div>
-            </div>        
+            </div>   
+            <div class="fb-page" 
+  data-href="https://www.facebook.com/Didi-pedras-418530741640677/"
+  data-width="380" 
+  data-hide-cover="false"
+  data-show-facepile="false"></div>
