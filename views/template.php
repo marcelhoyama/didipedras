@@ -44,10 +44,10 @@
         </div>
         <br><br>
         <div class="w3-content w3-padding" style="max-width:1564px">
-
+            <div class="container-fluid">
             <!--  aqui onde vai o corpo das paginas do sistema -->
             <?php $this->loadViewInTemplate($viewName, $viewData); ?>
-
+</div>
             <br>
             <!-- The Contact Section -->
             <div class="w3-container w3-content" style="max-width:800px" id="contact">

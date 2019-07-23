@@ -16,7 +16,7 @@
     }(document, 'script', 'facebook-jssdk'));</script>
 <!-- Your share button code -->
 <div class="fb-share-button" 
-     data-href="<?php BASE_URL; ?>folheta" 
+     data-href="http://didipedras.com.br/folheta" 
      data-layout="button_count">
 </div>
 <br>

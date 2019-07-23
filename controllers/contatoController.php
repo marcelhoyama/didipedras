@@ -6,7 +6,11 @@ class contatoController extends controller{
     
     public function index() {
     $dados=array();
-
+$dados['linknome']= 'contato';                  
+        
+         $dados['frase']= 'Contato';
+        
+        $dados['foto']='whatsapp.jpg';
 
     if(isset($_POST['nome']) && !empty($_POST['nome']) || isset($_POST['email']) && !empty($_POST['email'])){
         

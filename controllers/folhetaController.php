@@ -10,7 +10,7 @@ class folhetaController extends controller{
         
          $dados['frase']= 'Calçamento de Folheta';
         
-        $dados['foto']='folhetas/folheta (30).png';
+        $dados['foto']='folhetas/folheta(30).png';
         
         $this->loadTemplate("folheta", $dados);
         

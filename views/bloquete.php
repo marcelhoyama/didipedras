@@ -19,7 +19,7 @@
     }(document, 'script', 'facebook-jssdk'));</script>
 <!-- Your share button code -->
 <div class="fb-share-button" 
-     data-href="<?php BASE_URL; ?>bloquete" 
+     data-href="http://didipedras.com.br/bloquete" 
      data-layout="button_count">
 </div>
 <br>
@@ -65,8 +65,8 @@ A manutenção e limpeza do pavimento intertravado é feita de maneira simples. 
     <div id="slideshowExemplo" class="carousel slide" data-ride="carousel">
 
         <ul class="carousel-indicators">
-            <li data-target='#demo' data-slide-to="0" class="active"></li>
-            <li data-target="#demo" data-slide-to="1"></li>
+            <!--<li data-target='#demo' data-slide-to="0" class="active"></li>-->
+            <!--<li data-target="#demo" data-slide-to="1"></li>-->
             <!--            <li data-target="#demo" data-slide-to="2"></li>
                         <li data-target="#demo" data-slide-to="3"></li>-->
                     </ul>
@@ -91,12 +91,12 @@ A manutenção e limpeza do pavimento intertravado é feita de maneira simples. 
                
             </div>
     </div>
-            <a class="carousel-control-prev" href="#slideshowExemplo" data-slide="prev">
+<!--            <a class="carousel-control-prev" href="#slideshowExemplo" data-slide="prev">
                 <span class="carousel-control-prev-icon"></span>
             </a>
             <a class="carousel-control-next" href="#slideshowExemplo" data-slide="next">
                 <span class="carousel-control-next-icon"></span>
-            </a>
+            </a>-->
     </div>
 
 
