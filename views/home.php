@@ -54,21 +54,21 @@
       <div class="item active">
           
        <div class="">
-           <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto1.jpeg" alt="didi-pedras" width="1500" height="800">
+           <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto1.jpeg" alt="didi-pedras" >
     <div class="w3-display-middle w3-margin-top w3-center">
       <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
     </div>
       </div> </div>
       <div class="item">
      <div class="">
-         <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto2.jpeg"  alt="Didi-pedras" width="1500" height="800">
+         <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto2.jpeg"  alt="Didi-pedras" >
          <div class="w3-display-middle w3-margin-top w3-center">
       <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
     </div>      
       </div> </div>
       <div class="item">
     <div class="">
-        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto3.jpeg"  alt="Didi-pedras" width="1500" height="800">
+        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto3.jpeg"  alt="Didi-pedras" >
            <div class="w3-display-middle w3-margin-top w3-center">
       <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
     </div>  
@@ -76,49 +76,49 @@
         
          <div class="item">
     <div class="">
-        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto4.jpeg"  alt="Didi-pedras" width="1500" height="800">
+        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto4.jpeg"  alt="Didi-pedras" >
            <div class="w3-display-middle w3-margin-top w3-center">
       <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
     </div>   
       </div>  </div>
           <div class="item">
     <div class="">
-        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto5.jpeg"  alt="Didi-pedras" width="1500" height="800">
+        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto5.jpeg"  alt="Didi-pedras" >
            <div class="w3-display-middle w3-margin-top w3-center">
       <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
     </div>   
       </div>  </div>
           <div class="item">
     <div class="">
-        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto6.jpeg"  alt="Didi-pedras" width="1500" height="800">
+        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto6.jpeg"  alt="Didi-pedras" >
            <div class="w3-display-middle w3-margin-top w3-center">
       <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
     </div>   
       </div>  </div>
           <div class="item">
     <div class="">
-        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto7.jpeg"  alt="Didi-pedras" width="1500" height="800">
+        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto7.jpeg"  alt="Didi-pedras" >
            <div class="w3-display-middle w3-margin-top w3-center">
       <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
     </div>   
       </div>  </div>
           <div class="item">
     <div class="">
-        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto8.jpeg"  alt="Didi-pedras" width="1500" height="800">
+        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto8.jpeg"  alt="Didi-pedras" >
            <div class="w3-display-middle w3-margin-top w3-center">
       <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
     </div>   
       </div>  </div>
           <div class="item">
     <div class="">
-        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto9.jpeg"  alt="Didi-pedras" width="1500" height="800">
+        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto9.jpeg"  alt="Didi-pedras" >
            <div class="w3-display-middle w3-margin-top w3-center">
       <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
     </div>   
       </div>  </div>
           <div class="item">
     <div class="">
-        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto10.jpeg"  alt="Didi-pedras" width="1500" height="800">
+        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto10.jpeg"  alt="Didi-pedras" >
            <div class="w3-display-middle w3-margin-top w3-center">
       <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
     </div>   
@@ -244,26 +244,26 @@
     <div class="carousel-inner" role="listbox">
       <div class="item active">
        <div class="">
-           <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
+           <img class="w3-image" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
               <p><strong>Empresa 1</strong></p>
         <p>Cajamar</p>
       </div> </div>
       <div class="item">
      <div class="">
-         <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
+         <img class="w3-image" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
                <p><strong>Empresa 1</strong></p>
         <p>Salto</p>
       </div> </div>
       <div class="item">
     <div class="">
-        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
+        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
               <p><strong>Empresa 1</strong></p>
         <p>Itupeva</p>
       </div>  </div>
         
          <div class="item">
     <div class="">
-        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
+        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
               <p><strong>Empresa 1</strong></p>
         <p>Indaiatuba</p>
       </div>  </div>
