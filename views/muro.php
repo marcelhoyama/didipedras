@@ -1,6 +1,7 @@
   
 <title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase'];?></title>
-
+<br>
+<br>
 
 <div class="text-center">
     <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (15).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Muro de arrimo">
@@ -78,7 +79,7 @@ Por fim, é essencial que a obra do muro de pedras seja feita por ótimos profis
 
 
 
-<h2> Um dos Serviços feitos</h2>
+<h2 class="text-center"> Um dos Serviços feitos</h2>
 <!-- The grid: four columns -->
 
 <div id="desktop" class="row">

@@ -18,6 +18,11 @@
    background: #000;
    opacity: 0.5;
   }
+  
+  .text-center{
+     
+  }
+  
   .slideanim {visibility:hidden;}
   .slide {
       animation-name: slide;
@@ -45,4 +50,29 @@
       opacity: 1;
       -webkit-transform: translateY(0%);
     }
+    
+    
+  }
+  @media only screen and (min-width: 300px) and (max-width: 375px){
+ #logo-nav{
+      width: 100px;
+  }
+  
+   .text-center{
+      margin-left: 3px;
+  }
+  }
+  @media only screen and (min-width: 376px) and (max-width: 425px){
+ 
+  
+   .text-center{
+      margin-left: 3px;
+  }
+  }
+  @media only screen and (min-width: 426px) and (max-width: 768px){
+ 
+  
+   .text-center{
+      margin-left: 3px;
+  }
   }

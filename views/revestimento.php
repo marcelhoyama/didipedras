@@ -1,7 +1,8 @@
   
 <title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase'];?></title>
 
-
+<br>
+<br>
 <div class="text-center">
     <img  src="<?php BASE_URL; ?>assets/images/revestimentos/revestimento (3).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Revestimento">
 </div>

@@ -1,8 +1,11 @@
 <title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase'];?></title>
 
+<br>
+<br>
+<br>
 
 <div class="text-center">
-    <img  src="<?php BASE_URL; ?>assets/images/foto6.jpg"  class="img-thumbnail" style="width: 300px;"alt="Folheta">
+    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (1).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Folheta">
 </div>
 <br>
 <!-- FACEBOOK -->
@@ -52,7 +55,7 @@
 
 
 
-<h2> Um dos Serviços feitos</h2>
+<h2 class="text-center"> Um dos Serviços feitos</h2>
 <!-- The grid: four columns -->
 <div id="desktop" class="row">
 

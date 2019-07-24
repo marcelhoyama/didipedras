@@ -1,7 +1,8 @@
 <title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase'];?></title>
 
 
-  
+  <br>
+<br>
 
 <div class="text-center">
     <img  src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (1).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Paralelepipedo">
