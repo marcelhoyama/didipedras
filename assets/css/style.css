@@ -11,7 +11,13 @@
       background-color: #009688;
     
   }
+  #home .img{
+       
+   
   
+   background: #000;
+   opacity: 0.5;
+  }
   .slideanim {visibility:hidden;}
   .slide {
       animation-name: slide;

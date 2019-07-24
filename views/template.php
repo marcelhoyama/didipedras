@@ -42,13 +42,13 @@
                 <a href="<?php BASE_URL; ?>contato"  class="w3-bar-item w3-button w3-padding-large">Contato</a>
             </div>
         </div>
-        <br><br>
-        <div class="w3-content w3-padding" style="max-width:1564px">
-            <div class="container-fluid">
+        
+       
+           
             <!--  aqui onde vai o corpo das paginas do sistema -->
             <?php $this->loadViewInTemplate($viewName, $viewData); ?>
-</div>
-            <br>
+
+             <div class="w3-content w3-padding" style="max-width:1564px">
             <!-- The Contact Section -->
             <div class="w3-container w3-content" style="max-width:800px" id="contact">
                 <h2 class="w3-wide w3-center">Maiores Informações</h2>

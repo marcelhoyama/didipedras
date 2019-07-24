@@ -30,38 +30,98 @@
       <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
   </div>-->
 
-
+    
+    
+    
 <div id="myCarouselhome" class="carousel slide text-center" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
         <li data-target="#myCarouselhome" data-slide-to="0" class="active" style="color: #009688;"></li>
       <li data-target="#myCarouselhome" data-slide-to="1"></li>
       <li data-target="#myCarouselhome" data-slide-to="2"></li>
+      <li data-target="#myCarouselhome" data-slide-to="3"></li>
+      <li data-target="#myCarouselhome" data-slide-to="4"></li>
+      <li data-target="#myCarouselhome" data-slide-to="5"></li>
+      <li data-target="#myCarouselhome" data-slide-to="6"></li>
+      <li data-target="#myCarouselhome" data-slide-to="7"></li>
+      <li data-target="#myCarouselhome" data-slide-to="8"></li>
+      <li data-target="#myCarouselhome" data-slide-to="9"></li>
     </ol>
     <br>
     
         <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
+          
        <div class="">
-           <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto1.jpg" alt="didi-pedras" width="1500" height="800">
-    
+           <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto1.jpeg" alt="didi-pedras" width="1500" height="800">
+    <div class="w3-display-middle w3-margin-top w3-center">
+      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
+    </div>
       </div> </div>
       <div class="item">
      <div class="">
-         <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
-               
+         <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto2.jpeg"  alt="Didi-pedras" width="1500" height="800">
+         <div class="w3-display-middle w3-margin-top w3-center">
+      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
+    </div>      
       </div> </div>
       <div class="item">
     <div class="">
-        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
-             
+        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto3.jpeg"  alt="Didi-pedras" width="1500" height="800">
+           <div class="w3-display-middle w3-margin-top w3-center">
+      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
+    </div>  
       </div>  </div>
         
          <div class="item">
     <div class="">
-        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
-              
+        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto4.jpeg"  alt="Didi-pedras" width="1500" height="800">
+           <div class="w3-display-middle w3-margin-top w3-center">
+      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
+    </div>   
+      </div>  </div>
+          <div class="item">
+    <div class="">
+        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto5.jpeg"  alt="Didi-pedras" width="1500" height="800">
+           <div class="w3-display-middle w3-margin-top w3-center">
+      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
+    </div>   
+      </div>  </div>
+          <div class="item">
+    <div class="">
+        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto6.jpeg"  alt="Didi-pedras" width="1500" height="800">
+           <div class="w3-display-middle w3-margin-top w3-center">
+      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
+    </div>   
+      </div>  </div>
+          <div class="item">
+    <div class="">
+        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto7.jpeg"  alt="Didi-pedras" width="1500" height="800">
+           <div class="w3-display-middle w3-margin-top w3-center">
+      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
+    </div>   
+      </div>  </div>
+          <div class="item">
+    <div class="">
+        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto8.jpeg"  alt="Didi-pedras" width="1500" height="800">
+           <div class="w3-display-middle w3-margin-top w3-center">
+      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
+    </div>   
+      </div>  </div>
+          <div class="item">
+    <div class="">
+        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto9.jpeg"  alt="Didi-pedras" width="1500" height="800">
+           <div class="w3-display-middle w3-margin-top w3-center">
+      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
+    </div>   
+      </div>  </div>
+          <div class="item">
+    <div class="">
+        <img class="img-rounded" src="<?php BASE_URL; ?>assets/images/foto10.jpeg"  alt="Didi-pedras" width="1500" height="800">
+           <div class="w3-display-middle w3-margin-top w3-center">
+      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
+    </div>   
       </div>  </div>
     </div>
        
@@ -76,42 +136,7 @@
     </div>
 </header>
     
-<script>
-$(document).ready(function(){
-  // Add smooth scrolling to all links in navbar + footer link
-  $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
-    // Make sure this.hash has a value before overriding default behavior
-    if (this.hash !== "") {
-      // Prevent default anchor click behavior
-      event.preventDefault();
 
-      // Store hash
-      var hash = this.hash;
-
-      // Using jQuery's animate() method to add smooth page scroll
-      // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
-      $('html, body').animate({
-        scrollTop: $(hash).offset().top
-      }, 900, function(){
-   
-        // Add hash (#) to URL when done scrolling (default click behavior)
-        window.location.hash = hash;
-      });
-    } // End if
-  });
-  
-  $(window).scroll(function() {
-    $(".slideanim").each(function(){
-      var pos = $(this).offset().top;
-
-      var winTop = $(window).scrollTop();
-        if (pos < winTop + 600) {
-          $(this).addClass("slide");
-        }
-    });
-  });
-})
-</script>
 
 <!-- Load Facebook SDK for JavaScript -->
 <div id="fb-root"></div>
@@ -143,13 +168,13 @@ $(document).ready(function(){
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
            <div class="w3-display-topleft w3-black w3-padding">Calçamento de Folheta</div>
-       <a href="<?php BASE_URL;?>folheta">   <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (18).jpeg" alt="Folheta" class="home hover-shadow"> </a>
+       <a href="<?php BASE_URL;?>folheta">   <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (18).jpeg" alt="Clamçamento Folheta" class="home hover-shadow"> </a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
           <div class="w3-display-topleft w3-black w3-padding">Calçamento de Paralelepípedo</div>
-          <a href="<?php BASE_URL;?>Didi-pedras"> <img src="<?php BASE_URL; ?>assets/images/paralelepipedo/paralelepipedo  (1).jpeg" alt="Paralelepípedo" class="home hover-shadow"></a>
+          <a href="<?php BASE_URL;?>paralelepipedo"> <img src="<?php BASE_URL; ?>assets/images/paralelepipedo/paralelepipedo  (1).jpeg" alt="Paralelepípedo" class="home hover-shadow"></a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
@@ -171,7 +196,7 @@ $(document).ready(function(){
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Vendas de Pedras</div>
-        <a href="" ><img src="<?php BASE_URL;?>assets/images/venda.jpeg" alt="Venda de pedras" class="home hover-shadow"></a>
+        <a href="<?php BASE_URL;?>venda" ><img src="<?php BASE_URL;?>assets/images/venda.jpeg" alt="Venda de pedras" class="home hover-shadow"></a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
@@ -244,7 +269,7 @@ $(document).ready(function(){
       </div>  </div>
     </div>
        
-        </div>
+     
   
         <a class="carousel-control-prev" href="#slideshowExemplo" data-slide="prev">
             <span class="carousel-control-prev-icon"></span>
@@ -253,7 +278,7 @@ $(document).ready(function(){
             <span class="carousel-control-next-icon"></span>
         </a>
     </div>
-
+   </div>
     
 <script>
 $(document).ready(function(){
