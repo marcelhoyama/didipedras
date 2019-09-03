@@ -1,141 +1,123 @@
-<title>DIDI Pedras - Serviços e Vendas de pedras</title>
-<meta name="description" content="DIDI Pedras - Procurando por prestação de serviço de pedras e vendas de Pedras? Encontre ótimos Orçamentos para venda e Serviços de Pedras. Clique e confira!">
-    <meta name="keywords" content="Pedras, Pedreira, Cabreúva, DIDI pedras, Vendas de pedras, escada de pedras, muro de pedras, calçamentos de pedras, Intertravado ou Bloquete, Casas em Condomínio, Terrenos, Chácara, Sítios, Fazendas, area industrial">
-    <meta name="author" content="Marcel Hoyama">
-    <meta name="google-site-verification" content="http://www.didipedras.com.br" />
 
-    <head>
 
-  <meta property="og:title" content="DIDI - Pedras: Faça seu orçamento conosco!">
-  <meta property="og:description" content="Serviço de pedras e vendas de pedras."/>
-  <meta property="og:url" content="http://www.didipedras.com.br/home/">
-  <meta property="og:site_name" content="DIDI Pedras - Serviços e venda de Pedras"/>
-  <meta property="og:type" content="website">
-  <meta property="og:image" content="http://www.didipedras.com.br/assets/images/didi.jpg">
 
-   
-   
 
-    <meta property="fb:admins" content="werockcontent"/>
-    <meta name="twitter:url" content="http://didipedras.com.br/">
-    <meta property="twitter:title" content="Procurando Serviços de pedras, qualidade, vendas de pedras ... ">
-    <meta property="twitter:description" content="Quer ter segurança no serviço ainda oferecer o melhor serviço e  atendimento,entender a sua necessidade e a partir daí apresentar o melhor negócio para o seu perfil?  Agente uma visita conosco!">
-    <meta property="twitter:image" content="http://www.didipedras.com.br/assets/images/didi.png">
-    <meta property="og:type" content="website">
-    </head>
 <!-- Header -->
-<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-<!--  <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto1.jpg" alt="didi-pedras" width="1500" height="800">
-  <div class="w3-display-middle w3-margin-top w3-center">
-      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
-  </div>-->
 
-    
-    
-    
-<div id="myCarouselhome" class="carousel slide text-center" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-        <li data-target="#myCarouselhome" data-slide-to="0" class="active" style="color: #009688;"></li>
-      <li data-target="#myCarouselhome" data-slide-to="1"></li>
-      <li data-target="#myCarouselhome" data-slide-to="2"></li>
-      <li data-target="#myCarouselhome" data-slide-to="3"></li>
-      <li data-target="#myCarouselhome" data-slide-to="4"></li>
-      <li data-target="#myCarouselhome" data-slide-to="5"></li>
-      <li data-target="#myCarouselhome" data-slide-to="6"></li>
-      <li data-target="#myCarouselhome" data-slide-to="7"></li>
-      <li data-target="#myCarouselhome" data-slide-to="8"></li>
-      <li data-target="#myCarouselhome" data-slide-to="9"></li>
-    </ol>
-    <br>
-    
-        <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
-      <div class="item active">
-          
-       <div class="">
-           <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto1.jpeg" alt="didi-pedras" >
-    <div class="w3-display-middle w3-margin-top w3-center">
-      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
-    </div>
-      </div> </div>
-      <div class="item">
-     <div class="">
-         <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto2.jpeg"  alt="Didi-pedras" >
-         <div class="w3-display-middle w3-margin-top w3-center">
-      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
-    </div>      
-      </div> </div>
-      <div class="item">
-    <div class="">
-        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto3.jpeg"  alt="Didi-pedras" >
-           <div class="w3-display-middle w3-margin-top w3-center">
-      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
-    </div>  
-      </div>  </div>
+
+<header>
+<div class="container">
+
+
+    <div class="carousel slide" data-ride="carousel" id="myCarouselhome" >
+        <!-- Indicators -->
         
-         <div class="item">
-    <div class="">
-        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto4.jpeg"  alt="Didi-pedras" >
-           <div class="w3-display-middle w3-margin-top w3-center">
-      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
-    </div>   
-      </div>  </div>
-          <div class="item">
-    <div class="">
-        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto5.jpeg"  alt="Didi-pedras" >
-           <div class="w3-display-middle w3-margin-top w3-center">
-      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
-    </div>   
-      </div>  </div>
-          <div class="item">
-    <div class="">
-        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto6.jpeg"  alt="Didi-pedras" >
-           <div class="w3-display-middle w3-margin-top w3-center">
-      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
-    </div>   
-      </div>  </div>
-          <div class="item">
-    <div class="">
-        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto7.jpeg"  alt="Didi-pedras" >
-           <div class="w3-display-middle w3-margin-top w3-center">
-      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
-    </div>   
-      </div>  </div>
-          <div class="item">
-    <div class="">
-        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto8.jpeg"  alt="Didi-pedras" >
-           <div class="w3-display-middle w3-margin-top w3-center">
-      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
-    </div>   
-      </div>  </div>
-          <div class="item">
-    <div class="">
-        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto9.jpeg"  alt="Didi-pedras" >
-           <div class="w3-display-middle w3-margin-top w3-center">
-      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
-    </div>   
-      </div>  </div>
-          <div class="item">
-    <div class="">
-        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/foto10.jpeg"  alt="Didi-pedras" >
-           <div class="w3-display-middle w3-margin-top w3-center">
-      <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding"><img src="<?php BASE_URL; ?>assets/images/didipedras.png" width="300px"></span> <br><span class="w3-hide-small w3-text-light-grey" style="font-family: Blippo, fantasy;">11-99892-1840</span></h1>
-    </div>   
-      </div>  </div>
-    </div>
-       
+        <ol class="carousel-indicators">
+            <li data-target="#myCarouselhome" data-slide-to="0" class="active" ></li>
+            <li data-target="#myCarouselhome" data-slide-to="1"></li>
+            <li data-target="#myCarouselhome" data-slide-to="2"></li>
+            <li data-target="#myCarouselhome" data-slide-to="3"></li>
+            <li data-target="#myCarouselhome" data-slide-to="4"></li>
+            <li data-target="#myCarouselhome" data-slide-to="5"></li>
+            <li data-target="#myCarouselhome" data-slide-to="6"></li>
+            <li data-target="#myCarouselhome" data-slide-to="7"></li>
+            <li data-target="#myCarouselhome" data-slide-to="8"></li>
+            <li data-target="#myCarouselhome" data-slide-to="9"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" >
+            <div class="carousel-item active">
+                
+                    <img class="img-fluid " src="<?php BASE_URL; ?>assets/images/foto1.jpeg" alt="DidiPedras-Revestimento" >
+                    <div class="carousel-caption d-none d-block">
+                        <h1 id="fontebanner">DIDI PEDRAS <br><span>11-99892-1840</span></h1>
+                    </div>
+                    
+                </div>
+            <div class="carousel-item">
+               
+                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto2.jpeg"  alt="DidiPedras-Muro" >
+                    <div class="carousel-caption d-none d-md-block">
+                        <h1 id="fontebanner">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                    </div>      
+                </div> 
+            <div class="carousel-item">
+                
+                    <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto3.jpeg"  alt="DidiPedras-Escada" >
+                    <div class="carousel-caption d-none d-md-block">
+                        <h1 id="fontebanner">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                    </div>  
+                </div>  
+
+            <div class="carousel-item">
+                
+                    <img class="d-block " src="<?php BASE_URL; ?>assets/images/foto4.jpeg"  alt="DidiPedras-Escada" >
+                    <div class="carousel-caption d-none d-md-block">
+                        <h1 id="fontebanner">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                    </div>   
+                </div>  
+            <div class="carousel-item">
+                
+                    <img class="d-block " src="<?php BASE_URL; ?>assets/images/foto5.jpeg"  alt="DidiPedras-Folheta" >
+                    <div class="carousel-caption d-none d-md-block">
+                        <h1 id="fontebanner">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                    </div>   
+                </div>  
+            <div class="carousel-item">
+                
+                    <img class="d-block " src="<?php BASE_URL; ?>assets/images/foto6.jpeg"  alt="DidiPedras-Folheta" >
+                    <div class="carousel-caption d-none d-md-block">
+                        <h1 id="fontebanner">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                    </div>   
+                </div>  
+            <div class="carousel-item">
+                
+                    <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto7.jpeg"  alt="DidiPedras-Muro" >
+                    <div class="carousel-caption d-none d-md-block">
+                        <h1 id="fontebanner">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                    </div>   
+                </div>  
+            <div class="carousel-item">
+               
+                    <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto8.jpeg"  alt="DidiPedras-Muro" >
+                    <div class="carousel-caption d-none d-md-block">
+                        <h1 id="fontebanner">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                    </div>   
+                </div>  
+            <div class="carousel-item">
+                
+                    <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto9.jpeg"  alt="DidiPedras-Paralelepipedo" >
+                    <div class="carousel-caption d-none d-md-block">
+                        <h1 id="fontebanner">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>>
+                    </div>   
+                </div> 
+            <div class="carousel-item">
+               
+                    <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto10.jpeg"  alt="DidiPedras-Paralelepipedo" >
+                    <div class="carousel-caption d-none d-md-block">
+                        <h1 id="fontebanner">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                    </div>   
+               
+            </div>
         </div>
-  
-        <a class="carousel-control-prev" href="#myCarouselhome" data-slide="prev">
-            <span class="carousel-control-prev-icon"></span>
-        </a>
-        <a class="carousel-control-next" href="#myCarouselhome" data-slide="next">
-            <span class="carousel-control-next-icon"></span>
-        </a>
+<!-- Your share button code -->
+<div class="fb-share-button " 
+     data-href="http://www.didipedras.com.br/" 
+     data-layout="button_count">
+</div>
     </div>
+
+    <a class="carousel-control-prev" href="#myCarouselhome" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" ></span>
+    </a>
+    <a class="carousel-control-next" href="#myCarouselhome" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </a>
+        </div>
 </header>
-    
+
+
 
 
 <!-- Load Facebook SDK for JavaScript -->
@@ -150,173 +132,143 @@
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
 
-<!-- Your share button code -->
-<div class="fb-share-button" 
-     data-href="http://www.didipedras.com.br/" 
-     data-layout="button_count">
-</div>
-<!--<a href="http://www.facebook.com/sharer/sharer.php?u=http://didipedras.com.br/" target="_blank" class="share-btn facebook"> <i class="fa fa-facebook" style="font-size:20px;"></i></a>
- Page content -->
 
 
-  <!-- Project Section -->
-  <div class="w3-container w3-padding-32" id="projects">
-    <h2 class="w3-border-bottom w3-border-light-grey w3-padding-16 text-center">Produtos e Serviços</h2>
-  </div>
 
-  <div class="w3-row-padding">
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-           <div class="w3-display-topleft w3-black w3-padding">Calçamento de Folheta</div>
-       <a href="<?php BASE_URL;?>folheta">   <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (18).jpeg" alt="Clamçamento Folheta" class="home hover-shadow"> </a>
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-          <div class="w3-display-topleft w3-black w3-padding">Calçamento de Paralelepípedo</div>
-          <a href="<?php BASE_URL;?>paralelepipedo"> <img src="<?php BASE_URL; ?>assets/images/paralelepipedo/paralelepipedo  (1).jpeg" alt="Paralelepípedo" class="home hover-shadow"></a>
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Intertravado ou Bloquete</div>
-        <a href="<?php BASE_URL;?>bloquete"> <img src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (1).jpeg" alt="Bloquete" class="home hover-shadow"></a>
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-          <div class="w3-display-topleft w3-black w3-padding">Escadas de Pedras</div>
-          <a href="<?php BASE_URL;?>escada"> <img src="<?php BASE_URL; ?>assets/images/escadas/escada (7).jpeg" alt="Escadas de Pedras" class="home hover-shadow"></a>
 
-      </div>
-    </div>
-  </div>
+<!-- Project Section -->
+<section  id="projects">
 
- <div class="w3-row-padding">
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Vendas de Pedras</div>
-        <a href="<?php BASE_URL;?>venda" ><img src="<?php BASE_URL;?>assets/images/venda.jpeg" alt="Venda de pedras" class="home hover-shadow"></a>
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-          <div class="w3-display-topleft w3-black w3-padding">Nossa matéria-prima</div>
-          <a href="<?php BASE_URL;?>materiaprima"><img src="<?php BASE_URL; ?>assets/images/materia-prima/materia (4).jpeg"  alt="Matéria-Prima" class="home hover-shadow"></a>
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-         <div  class="w3-display-topleft w3-black w3-padding">Muro de Pedras Arrimo</div>
-         <a href="<?php BASE_URL;?>muro"><img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (5).jpeg" alt="House" class="home hover-shadow"></a>
-      </div>
-    </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-         <div class="w3-display-topleft w3-black w3-padding">Revestimentos em Pedras</div>
-         <a href="<?php BASE_URL;?>revestimento" ><img src="<?php BASE_URL;?>assets/images/revestimentos/revestimento (3).jpeg" alt="Revestimentos em  pedras" class="home hover-shadow"></a>
-      </div>
-    </div>
-
-  </div>
-
-  <!-- Container (Portfolio Section) -->
-<div id="portfolio" class="container-fluid text-center bg-grey">
-  <!-- About Section -->
-  <div class="w3-container w3-padding-32" id="about">
-    <h2 class="w3-border-bottom w3-border-light-grey w3-padding-16 text-center">Sobre</h2>
-    <h3><p>"Didi pedras a mais de 30 anos no mercado Especialista na área de pavimentação com paralelepípedos e folhetos Muros de pedra".</p></h3>
-    
-  </div>
-
-  
-  <h2>Os Locais que já prestamos serviços...</h2>
-  <div id="myCarousel" class="carousel slide text-center" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active" style="color: #009688;"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-    </ol>
     <br>
-    
-        <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
-      <div class="item active">
-       <div class="">
-           <img class="w3-image" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
-              <p><strong>Empresa 1</strong></p>
-        <p>Cajamar</p>
-      </div> </div>
-      <div class="item">
-     <div class="">
-         <img class="w3-image" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
-               <p><strong>Empresa 1</strong></p>
-        <p>Salto</p>
-      </div> </div>
-      <div class="item">
-    <div class="">
-        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
-              <p><strong>Empresa 1</strong></p>
-        <p>Itupeva</p>
-      </div>  </div>
-        
-         <div class="item">
-    <div class="">
-        <img class="w3-image" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
-              <p><strong>Empresa 1</strong></p>
-        <p>Indaiatuba</p>
-      </div>  </div>
+    <br>
+    <br>
+    <h2 class="text-center my-5">Produtos e Serviços</h2>
+
+<div class="container row mr-auto ml-auto">
+    <div class="col">
+        <div class="card" id="card">
+            <a href="<?php BASE_URL; ?>folheta">   <img class="card-img-top "src="<?php BASE_URL; ?>assets/images/folhetas/folheta (18).jpeg" alt="Calçamento Folheta" class=""> 
+            <div class="" style="font-size: 18px;">Calçamento de Folheta</div>
+            </a>
+        </div>
     </div>
-       
-     
-  
-        <a class="carousel-control-prev" href="#slideshowExemplo" data-slide="prev">
+    <div class="col">
+        <div class="card" id="card">
+            <a href="<?php BASE_URL; ?>paralelepipedo"> <img src="<?php BASE_URL; ?>assets/images/paralelepipedo/paralelepipedo  (1).jpeg" alt="Paralelepípedo" class="card-img-top">
+            <div class="" style="font-size: 18px;">Calçamento de Paralelepípedo</div>
+            </a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card" id="card">
+            
+            <a href="<?php BASE_URL; ?>bloquete"> <img src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (1).jpeg" alt="Bloquete" class="card-img-top">
+            <div class="" style="font-size: 18px;">Intertravado ou Bloquete</div></a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card" id="card">
+          
+            <a href="<?php BASE_URL; ?>escada"> <img src="<?php BASE_URL; ?>assets/images/escadas/escada (7).jpeg" alt="Escadas de Pedras" class="card-img-top">
+            <div class="" style="font-size: 18px;">Intertravado ou Bloquete</div></a>
+
+        </div>
+    </div>
+</div>
+    <br>
+<div class="container row mr-auto ml-auto">
+    <div class="col">
+        <div class="card" id="card">
+            
+            <a href="<?php BASE_URL; ?>venda" ><img src="<?php BASE_URL; ?>assets/images/venda.jpeg" alt="Venda de pedras" class="card-img-top"><div class="" style="font-size: 18px;">Vendas de Pedras</div></a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card" id="card">
+           
+            <a href="<?php BASE_URL; ?>materiaprima"><img src="<?php BASE_URL; ?>assets/images/materia-prima/materia (4).jpeg"  alt="Matéria-Prima" class="card-img-top">
+             <div class="" style="font-size: 18px;">Nossa matéria-prima</div></a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card" id="card">
+            
+            <a href="<?php BASE_URL; ?>muro"><img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (5).jpeg" alt="House" class="card-img-top">
+            <div  class="" style="font-size: 18px;">Muro de Pedras Arrimo</div></a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card" id="card">
+            
+            <a href="<?php BASE_URL; ?>revestimento" ><img src="<?php BASE_URL; ?>assets/images/revestimentos/revestimento (3).jpeg" alt="Revestimentos em  pedras" class="card-img-top"><div class="" style="font-size: 18px;">Revestimentos em Pedras</div></a>
+        </div>
+    </div>
+
+</div>
+</section>
+
+ 
+   
+<section id="about">
+    <!-- About Section -->
+    <div class="container" >
+        <h2 class=" mt-5 text-center">Sobre</h2>
+        <p>"Didi pedras a mais de 30 anos no mercado Especialista na área de pavimentação com paralelepípedos e folhetos Muros de pedra".</p>
+
+    
+
+    <br>
+    <h2 class="mt-5 text-center">Os Locais que já prestamos serviços...</h2>
+    <div id="myCarousel" class="container carousel slide text-center" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active" style="color: #009688;"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+        <br>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner ">
+            <div class="carousel-item active">
+                <div class="mr-auto ml-auto">
+                    <img class=" " src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
+                    <p><strong>Empresa 1</strong></p>
+                    <p>Cajamar</p>
+                </div> </div>
+            <div class="carousel-item">
+                <div class="">
+                    <img class="" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
+                    <p><strong>Empresa 1</strong></p>
+                    <p>Salto</p>
+                </div> </div>
+            <div class="carousel-item">
+                <div class="">
+                    <img class="" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
+                    <p><strong>Empresa 1</strong></p>
+                    <p>Itupeva</p>
+                </div>  </div>
+
+            <div class="carousel-item">
+                <div class="">
+                    <img class="" src="<?php BASE_URL; ?>assets/images/sem-imagem.gif"  alt="Didi-pedras">
+                    <p><strong>Empresa 1</strong></p>
+                    <p>Indaiatuba</p>
+                </div>  </div>
+        </div>
+
+
+
+        <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
             <span class="carousel-control-prev-icon"></span>
         </a>
-        <a class="carousel-control-next" href="#slideshowExemplo" data-slide="next">
-            <span class="carousel-control-next-icon"></span>
+        <a class="carousel-control-next" href="#myCarousel" data-slide="next">
+            <span class="carousel-control-next-icon" style="color: black"></span>
         </a>
     </div>
-   </div>
-    
-<script>
-$(document).ready(function(){
-  // Add smooth scrolling to all links in navbar + footer link
-  $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
-    // Make sure this.hash has a value before overriding default behavior
-    if (this.hash !== "") {
-      // Prevent default anchor click behavior
-      event.preventDefault();
+</div>
+</section>
 
-      // Store hash
-      var hash = this.hash;
 
-      // Using jQuery's animate() method to add smooth page scroll
-      // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
-      $('html, body').animate({
-        scrollTop: $(hash).offset().top
-      }, 900, function(){
-   
-        // Add hash (#) to URL when done scrolling (default click behavior)
-        window.location.hash = hash;
-      });
-    } // End if
-  });
-  
-  $(window).scroll(function() {
-    $(".slideanim").each(function(){
-      var pos = $(this).offset().top;
 
-      var winTop = $(window).scrollTop();
-        if (pos < winTop + 600) {
-          $(this).addClass("slide");
-        }
-    });
-  });
-})
-</script>
- 
-  
- 
-  
+

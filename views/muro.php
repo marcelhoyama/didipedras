@@ -1,5 +1,5 @@
   
-<title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase'];?></title>
+
 <br>
 <br>
 
