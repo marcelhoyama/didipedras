@@ -28,7 +28,7 @@
 
 <br>
 
-<h2 class="text-center">DIDI - Pedras: Nossa Matéria-Prima</h2>
+<h1 class="text-center">DIDI - Pedras: Nossa Matéria-Prima</h1>
 
 
 

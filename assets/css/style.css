@@ -76,3 +76,27 @@
       margin-left: 3px;
   }
   }
+  
+  
+.home{
+    width: 260px;
+    height: 260px;
+}
+
+a .link {
+    text-decoration: none;
+}
+
+#celular_display{
+    display: none;
+}
+@media (min-width: 100px) and (max-width: 550px){
+    #desktop{
+        display: none;}
+
+        #celular_display{display: block;}
+        .home{
+            width: 100%;
+            height: auto;
+        }
+    }

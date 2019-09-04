@@ -5,11 +5,6 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   
-
-
-
-
-
     <!--<link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/w3.css"/>-->
     <link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/style.css"/>
     <link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/normalize.css"/>
@@ -21,7 +16,7 @@
   
             <nav class=" navbar navbar-expand-lg navbar-light bg-light fixed-top">
                 <div class="container">  
-                <a class="navbar-brand" href="home#home"  ><img src="<?php BASE_URL; ?>assets/images/didipedras.jpg" width="155px" height="auto" alt="logo-DidiPedras"></a>
+                <a class="navbar-brand" href="#home"  ><img src="<?php BASE_URL; ?>assets/images/didipedras.jpg" width="155px" height="auto" alt="logo-DidiPedras"></a>
                  
                  <a class="mr-auto" target="_blank" href="https://www.facebook.com/Didi-pedras-418530741640677/"><img  src="<?php BASE_URL; ?>assets/images/facebookcolor.png" width="40" height="40" alt="facebook-DidiPedras"></a>
 
@@ -31,13 +26,13 @@
                  <div class="collapse navbar-collapse" id="navbarNav">
                      <ul class="navbar-nav ml-auto">
                          <li class="nav-item active">
-                             <a class="nav-link" href="home#home" >Home<span class="sr-only"></span></a>
+                             <a class="nav-link" href="#home" >Home<span class="sr-only"></span></a>
                          </li>
                          <li class="nav-item">
-                             <a class="nav-link" href="home#projects">Produtos e Serviços</a>
+                             <a class="nav-link" href="#projects">Produtos e Serviços</a>
                          </li>
                          <li class="nav-item">
-                             <a class="nav-link" href="home#about">Sobre</a>
+                             <a class="nav-link" href="#about">Sobre</a>
                          </li>
                          <li class="nav-item">
                               <a class="nav-link" href="<?php BASE_URL; ?>contato">Contato</a>

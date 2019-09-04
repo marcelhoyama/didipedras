@@ -8,9 +8,9 @@ class muroController extends controller{
         
          $dados['linknome']= 'muro';                  
         
-         $dados['frase']= 'Muro de Arrimo';
+         $dados['frase']= 'Muro de Arrimo (pedras)';
         
-        $dados['foto']='bruta_arrimo/foto(11).png';
+        $dados['foto']='muro-de-pedras/foto(11).png';
         
         $this->loadTemplate("muro", $dados);
         

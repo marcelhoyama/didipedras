@@ -1,10 +1,10 @@
   
-
+<title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase'];?></title>
 <br>
 <br>
 
 <div class="text-center">
-    <img  src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (15).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Muro de arrimo">
+    <img  src="<?php BASE_URL; ?>assets/images/muro-de-pedras/foto (15).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Muro de arrimo">
 </div>
 <br>
 <!-- FACEBOOK -->
@@ -25,7 +25,7 @@
 
 <br>
 
-<h2 class="text-center">DIDI - Pedras: Muro de Pedras Arrimo</h2>
+<h1 class="text-center">DIDI - Pedras: Muro de Arrimo (pedras)</h1>
 
 <p><h3><b>A DIDI - Pedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</b></h3></p>
 <p>Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra. 

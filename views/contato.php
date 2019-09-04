@@ -26,7 +26,7 @@
 
 
 <br>
- <h2 class="w3-wide w3-center">CONTATO</h2>
+ <h1 class="w3-wide w3-center">CONTATO</h1>
    <p class="w3-opacity w3-center"><i>Vamos entrar em contato e falar sobre o seu próximo projeto.</i></p>
                
   <div class="row">

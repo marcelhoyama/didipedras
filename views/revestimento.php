@@ -28,7 +28,7 @@
 
 
 
-<h2 class="text-center">DIDI - Pedras: Pedras para revestimento de muros em pedras. </h2>
+<h1 class="text-center">DIDI - Pedras: Pedras para revestimento de muros em pedras. </h1>
 <br>
 
 <p><h3><b>A DIDI - Pedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de serviços em pedras.</b></h3></p>

@@ -1,5 +1,5 @@
 
-
+<title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase'];?></title>
 
 
 <!-- Header -->
@@ -142,7 +142,7 @@
     <br>
     <br>
     <br>
-    <h2 class="text-center my-5">Produtos e Serviços</h2>
+    <h1 class="text-center my-5">Produtos e Serviços</h1>
 
 <div class="container row mr-auto ml-auto">
     <div class="col">
@@ -193,7 +193,7 @@
     <div class="col">
         <div class="card" id="card">
             
-            <a href="<?php BASE_URL; ?>muro"><img src="<?php BASE_URL; ?>assets/images/bruta_arrimo/foto (5).jpeg" alt="House" class="card-img-top">
+            <a href="<?php BASE_URL; ?>muro"><img src="<?php BASE_URL; ?>assets/images/muro-de-pedras/foto (5).jpeg" alt="House" class="card-img-top">
             <div  class="" style="font-size: 18px;">Muro de Pedras Arrimo</div></a>
         </div>
     </div>

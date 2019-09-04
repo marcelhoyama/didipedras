@@ -24,7 +24,7 @@
      data-layout="button_count">
 </div>
 <br>
-<h2 class="text-center">DIDI - Pedras: Intertravado ou Bloquete</h2>
+<h1 class="text-center">DIDI - Pedras: Intertravado ou Bloquete</h1>
 
 <p><h3><b>A DIDI - Pedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</b></h3></p>
 <p>Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra. 
