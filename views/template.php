@@ -3,14 +3,12 @@
     <?php $this->loadViewInTemplate_1($viewName, $viewData); ?>
 
     <!-- Bootstrap CSS -->
-     <link href="<?php BASE_URL; ?>/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+     <link href="<?php BASE_URL; ?>assets/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-  
-    <!--<link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/w3.css"/>-->
-    <link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/style.css"/>
+          <link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/style.css"/>
     <link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/normalize.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <!--<link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/bauhaub.ttf"/>-->
+    <link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/bauhaub.ttf"/>
     <body id="home">
 
         <!-- Navbar (sit on top) -->
@@ -107,18 +105,10 @@
         <!-- Footer Social Icons -->
         <div class="col-lg-4 mb-5 mb-lg-0">
           <h4 class="text-uppercase mb-4">REDES SOCIAIS</h4>
-          <a class="btn btn-outline-light  mx-1" href="#">
+          <a class="btn btn-outline-light  mx-1" href="https://www.facebook.com/Didi-pedras-418530741640677/" target="_blank">
             <i class="fab fa-fw fa-facebook-f"></i>
           </a>
-          <a class="btn btn-outline-light btn-social mx-1" href="#">
-            <i class="fab fa-fw fa-twitter"></i>
-          </a>
-          <a class="btn btn-outline-light btn-social mx-1" href="#">
-            <i class="fab fa-fw fa-linkedin-in"></i>
-          </a>
-          <a class="btn btn-outline-light btn-social mx-1" href="#">
-            <i class="fab fa-fw fa-dribbble"></i>
-          </a>
+         
         </div>
 
         <!-- Footer About Text -->
