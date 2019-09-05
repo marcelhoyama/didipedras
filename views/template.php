@@ -3,13 +3,14 @@
     <?php $this->loadViewInTemplate_1($viewName, $viewData); ?>
 
     <!-- Bootstrap CSS -->
+     <link href="<?php BASE_URL; ?>/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   
     <!--<link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/w3.css"/>-->
     <link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/style.css"/>
     <link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/normalize.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/bauhaub.ttf"/>
+    <!--<link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/bauhaub.ttf"/>-->
     <body id="home">
 
         <!-- Navbar (sit on top) -->
@@ -26,13 +27,13 @@
                  <div class="collapse navbar-collapse" id="navbarNav">
                      <ul class="navbar-nav ml-auto">
                          <li class="nav-item active">
-                             <a class="nav-link" href="#home" >Home<span class="sr-only"></span></a>
+                             <a class="nav-link" href="home#home" >Home<span class="sr-only"></span></a>
                          </li>
                          <li class="nav-item">
-                             <a class="nav-link" href="#projects">Produtos e Serviços</a>
+                             <a class="nav-link" href="home#projects">Produtos e Serviços</a>
                          </li>
                          <li class="nav-item">
-                             <a class="nav-link" href="#about">Sobre</a>
+                             <a class="nav-link" href="home#about">Sobre</a>
                          </li>
                          <li class="nav-item">
                               <a class="nav-link" href="<?php BASE_URL; ?>contato">Contato</a>
@@ -52,7 +53,7 @@
         <div class="container">
             <!-- The Contact Section -->
             <div class="text-center" id="contact">
-                <h2 class="mt-5">Maiores Informações</h2>
+                <h1 class="mt-5">Maiores Informações</h1>
                 <p class="w3-opacity w3-center"><i>Vamos entrar em contato e falar sobre o seu próximo projeto.</i></p>
                 <div class="w3-row w3-center">
                     <div class="w3-large w3-margin-bottom">
@@ -91,6 +92,45 @@
 
 
         <!-- Footer -->
+        <!-- Footer -->
+  <footer class="footer text-center">
+    <div class="container">
+      <div class="row">
+
+        <!-- Footer Location -->
+        <div class="col-lg-4 mb-5 mb-lg-0">
+          <h4 class="text-uppercase mb-4">Localizado</h4>
+          <p class="lead mb-0">Rua Jordânia, 699
+            <br>Vilarejo, Cabreúva/SP</p>
+        </div>
+
+        <!-- Footer Social Icons -->
+        <div class="col-lg-4 mb-5 mb-lg-0">
+          <h4 class="text-uppercase mb-4">REDES SOCIAIS</h4>
+          <a class="btn btn-outline-light  mx-1" href="#">
+            <i class="fab fa-fw fa-facebook-f"></i>
+          </a>
+          <a class="btn btn-outline-light btn-social mx-1" href="#">
+            <i class="fab fa-fw fa-twitter"></i>
+          </a>
+          <a class="btn btn-outline-light btn-social mx-1" href="#">
+            <i class="fab fa-fw fa-linkedin-in"></i>
+          </a>
+          <a class="btn btn-outline-light btn-social mx-1" href="#">
+            <i class="fab fa-fw fa-dribbble"></i>
+          </a>
+        </div>
+
+        <!-- Footer About Text -->
+        <div class="col-lg-4">
+          <h4 class="text-uppercase mb-4">Sobre</h4>
+          <p class="lead mb-0">Didi pedras a mais de 30 anos no mercado Especialista na área de pavimentação com paralelepípedos e folhetos Muros de pedra
+           .</p>
+        </div>
+
+      </div>
+    </div>
+  </footer>
         <!-- Footer -->
 <footer class="navbar-dark bg-dark">
 

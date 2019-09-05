@@ -1,3 +1,11 @@
+@font-face{
+    font-family: 'FonteBanner';
+    src: url("../assets/css/bauhaub.ttf");
+}
+
+body{
+    font-size: 18px;
+}
 .carousel-control.right, .carousel-control.left {
       background-image: none;
       color: #003466;
@@ -11,6 +19,20 @@
       background-color: #009688;
     
   }
+  
+  #fontebanner{
+   font-family: 'FonteBanner';  
+   font-size: 50px;
+   color:#009688;
+   
+  }
+  #fontebanner span{
+      color:#fff;
+  }
+  .carousel .carousel-inner img{
+     width: 100%;
+     height: 700px;;
+  }
   #home .img{
        
    
@@ -18,11 +40,50 @@
    background: #000;
    opacity: 0.5;
   }
+  #card:hover{
+       
+      background:#676470;
+            transition:all 0.3s ease;
+  }
+  #card a{
+      text-decoration: none;
+      color:#000;
+      
+  }
+  #card a:hover{
+       opacity: 1;
+        color:#fff;
+        
+  }
+  #card img{
+      width: 100%;
+      height: 200px;
+    
   
-  .text-center{
-     
+      
   }
   
+  #card img:hover{
+       background:#676470;
+            transition:all 0.3s ease;
+  }
+  
+  .footer{
+      padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #607d8b;
+  color: white;
+  }
+  footer{
+      color:#fff;
+  }
+  footer a{
+      text-decoration: none;
+      color:#fff;
+  }
+  footer a:hover{
+      color:#00ffff;
+  }
   .slideanim {visibility:hidden;}
   .slide {
       animation-name: slide;
