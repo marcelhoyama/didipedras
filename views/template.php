@@ -48,7 +48,7 @@
 
             <!--  aqui onde vai o corpo das paginas do sistema -->
             <?php $this->loadViewInTemplate($viewName, $viewData); ?>
-        
+            <address>
         <div class="container">
             <!-- The Contact Section -->
             <div class="text-center" id="contact">
@@ -56,7 +56,7 @@
                 <p class="w3-opacity w3-center"><i>Vamos entrar em contato e falar sobre o seu próximo projeto.</i></p>
                 <div class="w3-row w3-center">
                     <div class="w3-large w3-margin-bottom">
-                        <i class="fa fa-map-marker" style="width:30px"></i> Rua Jordânia 699 Vilarejo - Cabreúva - SP 13315-000 <br>
+                        <i class="fa fa-map-marker" style="width:30px"></i> Rua Jordânia, nº 699 - Vilarejo - Cabreúva - SP 13315-000 <br>
                         <i  style="width:30px"></i> <a class="w3-hover-text-green" href="https://api.whatsapp.com/send?phone=5511998921840&text=Ola!%20Fiquei%20interessado%20no%20seu%20serviço!"><img src="<?php BASE_URL; ?>assets/images/whatsapp.jpg" width="25px" height="25px" >  11 9.9892-1840 vivo</a><br>
                         <i style="width:30px"></i><a class="w3-hover-text-green"href="https://api.whatsapp.com/send?phone=5511991239021&text=Ola!%20Fiquei%20interessado%20no%20seu%20serviço!"> <img src="<?php BASE_URL; ?>assets/images/whatsapp.jpg" width="25px" height="25px" >  11 9.9123-9021 claro</a><br>
                         <i style="width:30px"></i><a class="w3-hover-text-green" href="https://api.whatsapp.com/send?phone=5511997193009&text=Ola!%20Fiquei%20interessado%20no%20seu%20serviço!"> <img src="<?php BASE_URL; ?>assets/images/whatsapp.jpg" width="25px" height="25px" >  11 9.9719-3009 vivo</a><br>
@@ -80,7 +80,7 @@
             
 
    </div>
-
+</address>
             <!-- Image of location/map -->
             <div class="mt-4">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d7330.575932291688!2d-47.057451!3d-23.268984!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m0!4m5!1s0x94cf3b53ab0521bf%3A0x5fb2ab6e9413c629!2sDidi+pedras%2C+R.+Jord%C3%A2nia%2C+699+-+Vilarejo%2C+Cabre%C3%BAva+-+SP%2C+13315-000!3m2!1d-23.269174!2d-47.05414!5e0!3m2!1spt-BR!2sbr!4v1555088792200!5m2!1spt-BR!2sbr" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>

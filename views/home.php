@@ -170,7 +170,7 @@
         <div class="card" id="card">
           
             <a href="<?php BASE_URL; ?>escada"> <img src="<?php BASE_URL; ?>assets/images/escadas/escada (7).jpeg" alt="Escadas de Pedras" class="card-img-top">
-            <div class="text-center" style="font-size: 18px;">Intertravado ou Bloquete</div></a>
+            <div class="text-center" style="font-size: 18px;">Escada de Pedras</div></a>
 
         </div>
     </div>

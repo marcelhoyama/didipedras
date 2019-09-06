@@ -1,12 +1,21 @@
-<title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase'];?></title>
+<title style="font-family: Blippo, fantasy;">DidiPedras - <?php echo $viewData['frase'];?></title>
 
-
+<br>
   <br>
 <br>
-
-<div class="text-center">
-    <img  src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (1).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Paralelepipedo">
+<div class="container">
+<div class="my-5 text-center">
+    <figure class="figure">
+    <img  src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (1).jpeg"  class="img-fluidl" style="width: 500px;"alt="Intertravado ou Bloquete">
+<figcaption class="figure-caption">Calçamento de Intertravado ou Bloquete. ©DidiPedras</figcaption>
+    </figure>
+    <br>
+    <!-- Your share button code -->
+<div class="fb-share-button" 
+     data-href="http://didipedras.com.br/bloquete" 
+     data-layout="button_count">
 </div>
+    </div>
 <br>
 
 <!-- FACEBOOK -->
@@ -18,49 +27,44 @@
     js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.0";
     fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
-<!-- Your share button code -->
-<div class="fb-share-button" 
-     data-href="http://didipedras.com.br/bloquete" 
-     data-layout="button_count">
-</div>
-<br>
-<h1 class="text-center">DIDI - Pedras: Intertravado ou Bloquete</h1>
 
-<p><h3><b>A DIDI - Pedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</b></h3></p>
+<br>
+<h1 class="text-center">DidiPedras: Intertravado ou Bloquete</h1>
+
+<h3>A DidiPedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</h3>
 <p>Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra. 
 </p>
 
-<p><h3>Intertravado ou Bloquete</h3></p>
+<h3>Intertravado ou Bloquete</h3>
 <p>O principio básico do intertravamento é a junção das peças modulares de concreto que se encaixam/travam umas às outras, revestindo assim a superfície. Pode ser assentada a mão ou mecanicamente, o que torna o trabalho mais fácil especialmente em grandes áreas como portos, aeroporto, entrepostos e etc.</p>
 
-<p><h4>Principais Aplicações</h4></p>
+<h4>Principais Aplicações</h4>
 <p>A versatilidade de aplicação é certamente a maior vantagem desse pavimento em relação a outros. Pode ser colocado em áreas que exijam uma maior resistência por haver trafego de veículos pesados, além de locais com trânsito leve onde geralmente a estética dita às regras, favorecendo o uso de pisos intertravados coloridos.</p>
 
-<p><h4>Manutenção</h4></p>
+<h4>Manutenção</h4>
 A manutenção e limpeza do pavimento intertravado é feita de maneira simples. Pode ser realizada através de jato de água com pressão e por meio de produtos químicos. Sua resistência torna o processo seguro, evitando qualquer tipo de deterioração na hora da limpeza. A substituição de peças também pode ser feita de forma rápida e prática. Pelo fato do intertravado não ser fixo por concreto ou argamassa, a peça avariada pode facilmente ser trocada por uma nova utilizando do principio básico do intertravamento.</p>
 
-<p> <h4>Fator Estético</h4></p>
-
+ <h4>Fator Estético</h4>
 
 <p>Com o avanço na tecnologia de produção, as peças começaram ganhar maior apelo estético. A tecnologia de dupla camada tornou o acabamento superior, acrescentando vivacidade às cores. A estética lapidada incorporou-se ao status de versatilidade do produto, agradando arquitetos e paisagistas que veem o pavimento intertravado como mais um elemento de criação para seus projetos.</p>
 
-<p> <h4>Durabilidade</h4></p>
+ <h4>Durabilidade</h4>
 <p>Por ser um produto feito de concreto, se corretamente instalado e respeitada às condições de solo indicadas para a execução do serviço, o intertravado pode ter durabilidade indefinida. Para os pisos coloridos que possuem a tecnologia da dupla camada a durabilidade das cores também aumenta drasticamente, por serem utilizados materiais nobres na camada superior o impacto do desgaste natural é muito menor, prolongando a vivacidade das cores.</p>
 
-<p><h4>Conforto Térmico</h4></p>
+<h4>Conforto Térmico</h4>
 <p>A coloração mais clara e homogênea dos pisos intertravados em relação a outros tipos de pavimentos, garante uma menor absorção do calor pela superfície, aumentando o conforto térmico e diminuindo a formação das ilhas de calor. A diferença de temperatura em relação a outros tipos de pavimentos pode chega a 17° C.</p>
 
-<p><h4>Permeabilidade</h4></p>
+<h4>Permeabilidade</h4>
 
 
 <p>O pavimento intertravado de concreto pode ser permeável. A característica drenante permite a infiltração da água no piso, colaborando com a diminuição das superfícies impermeáveis tão comuns em ambientes urbanos. Mesmo os intertravados que não são produzidos para possuírem a característica drenante têm o seu percentual de permeabilidade.</p>
 
 
+<a href="<?php BASE_URL?>paralelepipedo">Veja também Calçamento de Paralelepipedo</a>
 
 
-
-<h2 class="text-center"> Um dos Serviços feitos</h2>
-<!-- The grid: four columns -->
+<h2 class="my-5 text-center"> Um dos Serviços feitos</h2>
+<!-- The grid: four col-lg-3 -->
 <div id="desktop" class="row">
     
     <div id="slideshowExemplo" class="carousel slide" data-ride="carousel">
@@ -74,19 +78,27 @@ A manutenção e limpeza do pavimento intertravado é feita de maneira simples. 
 
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <div class="column">
-                        <img src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (1).jpeg"  alt="intertravado" onclick="myFunction(this);">
+                    <div class="row">
+                    <div class="col-lg-3">
+                        <a href="<?php BASE_URL; ?>assets/images/bloquete/bloquete (1).jpeg" data-lightbox="intertravado" data-title="Intertravado ou Bloquete" >
+                            <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (1).jpeg" id="imgfolheta"  alt="intertravado ou bloquete">
+                        </a>
                     </div>
 
-                    <div class="column">
-                        <img  src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (2).jpeg" alt="Intertravado" onclick="myFunction(this);">
-                    </div>
+                    <div class="col-lg-3">
+                        <a href="<?php BASE_URL; ?>assets/images/bloquete/bloquete (2).jpeg" data-lightbox="intertravado" data-title="Intertravado ou Bloquete" >
+                            <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (2).jpeg"  id="imgfolheta" alt="Intertravado ou bloquete">
+                  
+                        </a></div>
 
-                    <div class="column">
-                        <img  src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (3).jpeg"  alt="intertravado" onclick="myFunction(this);">
+                    <div class="col-lg-3">
+                        <a href="<?php BASE_URL; ?>assets/images/bloquete/bloquete (3).jpeg" data-lightbox="intertravado" data-title="Intertravado ou Bloquete" >
+                            <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (3).jpeg" id="imgfolheta" alt="intertravado ou bloquete">
+                        </a>
+                        
                     </div>
                   
-
+</div>
                 </div>
 
                
@@ -101,28 +113,6 @@ A manutenção e limpeza do pavimento intertravado é feita de maneira simples. 
     </div>
 
 
-
-    <!-- The expanding image container -->
-    <div class="container">
-        <!-- Close the image -->
-        <span onclick="this.parentElement.style.display = 'none'" class="closebtn">&times;</span>
-
-        <!-- Expanded image -->
-        <img id="expandedImg" style="width:100%">
-
-        <!-- Image text -->
-        <div id="imgtext"></div>
-    </div>
-
-    <script>
-        function myFunction(imgs) {
-            var expandImg = document.getElementById("expandedImg");
-            var imgText = document.getElementById("imgtext");
-            expandImg.src = imgs.src;
-            imgText.innerHTML = imgs.alt;
-            expandImg.parentElement.style.display = "block";
-        }
-    </script>
 
 
 <div id="celular_display" class="row">
@@ -166,4 +156,5 @@ A manutenção e limpeza do pavimento intertravado é feita de maneira simples. 
         </div>
 
     </div>
+</div>
 </div>

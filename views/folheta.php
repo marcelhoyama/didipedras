@@ -6,7 +6,7 @@
 <div class="container">
     <div class="my-5 text-center">
         <figure class="figure">
-            <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (1).jpeg"  class="figura-img img-fluid rounded" alt="Calçamento de folheta"style="width: 500px;">
+            <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (1).jpeg"  class="figure-img img-fluid rounded" alt="Calçamento de folheta"style="width: 500px;">
             <figcaption class="figure-caption">Calçamento de folheta. ©DidiPedras</figcaption>
         </figure>
         <br>
@@ -53,7 +53,7 @@
 
 
 
-
+ <a href="<?php BASE_URL;?>paralelepipedo">Veja também Calçamento de Paralelepipedo</a>
 
 
 
@@ -86,23 +86,25 @@
                             <div class="row">
 
                                 <div class="col-lg-3">
-                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (1).jpeg" data-lightbox="folheta (1)" data-title="Folheta" ><img class="img-fluid " src="<?php BASE_URL; ?>assets/images/folhetas/folheta (1).jpeg" id="imgfolheta" alt="folheta" ></a>
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (1).jpeg" data-lightbox="folheta" data-title="Folheta" >
+                                        <img class="img-fluid " src="<?php BASE_URL; ?>assets/images/folhetas/folheta (1).jpeg" id="imgfolheta" alt="folheta" >
+                                    </a>
                                 </div>
 
 
 
                                 <div class="col-lg-3">
-                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (2).jpeg" data-lightbox="folheta (2)" data-title="Folheta">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (2).jpeg" data-lightbox="folheta" data-title="Folheta">
                                         <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/folhetas/folheta (2).jpeg" id="imgfolheta" alt="Folheta" data-toggle="modal" data-target="#img-folheta"></a>
                                 </div>
 
                                 <div class="col-lg-3">
-                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (3).jpeg" data-lightbox="folheta (3)" data-title="Folheta">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (3).jpeg" data-lightbox="folheta" data-title="Folheta">
                                         <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/folhetas/folheta (3).jpeg" id="imgfolheta"  alt="Folheta" data-toggle="modal" data-target="#img-folheta">
                                     </a>
                                 </div>
                                 <div class="col-lg-3">
-                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (4).jpeg" data-lightbox="folheta (4)" data-title="Folheta">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (4).jpeg" data-lightbox="folheta" data-title="Folheta">
                                         <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/folhetas/folheta (4).jpeg" id="imgfolheta" alt="Folheta" data-toggle="modal" data-target="#img-folheta"></a>
                                 </div>
                             </div>
@@ -113,160 +115,214 @@
                             <div class="row">
                
                                     <div class="col-lg-3">
-                                                       <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (5).jpeg" data-lightbox="folheta (5)" data-title="Folheta">
+                                                       <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (5).jpeg" data-lightbox="folheta" data-title="Folheta">
                                                            <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (5).jpeg" alt="Folheta" id="imgfolheta" ></a>
                                     </div>
 
 
                                     <div class="col-lg-3">
-                                        <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (6).jpeg" data-lightbox="folheta (6)" data-title="Folheta">
+                                        <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (6).jpeg" data-lightbox="folheta" data-title="Folheta">
                                             <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (6).jpeg" alt="Folheta" id="imgfolheta" ></a>
                                     </div>
 
                                     <div class="col-lg-3">
-                                        <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (7).jpeg" data-lightbox="folheta (7)" data-title="Folheta">
+                                        <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (7).jpeg" data-lightbox="folheta" data-title="Folheta">
                                             <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (7).jpeg" alt="Folheta" id="imgfolheta"></a>
                                     </div>
                                     <div class="col-lg-3">
-                                        <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (8).jpeg" alt="Folheta" id="imgfolheta" onclick="myFunction(this);">
+                                        <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (8).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                        <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (8).jpeg" alt="Folheta" id="imgfolheta">
+                                        </a>
+                                        </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-lg-3">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (9).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (9).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
+                                    </div>
+
+
+                                <div class="col-lg-3">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (10).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (10).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
+                                    </div>
+
+                                <div class="col-lg-3">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (11).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (11).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
+                                    </div>
+                                <div class="col-lg-3">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (12).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (12).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
                                     </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="row">
                                 <div class="col-lg-3">
-                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (9).jpeg" alt="Folheta" id="imgfolheta" onclick="myFunction(this);">
-                                </div>
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (13).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (13).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
+                                    </div>
 
 
                                 <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (10).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
-                                </div>
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (14).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (14).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
+                                    </div>
 
                                 <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (11).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
-                                </div>
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (15).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (15).jpeg" alt="Folheta"id="imgfolheta">
+                                    </a>
+                                    </div>
                                 <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (12).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <div class="row">
-                                <div class="col-lg-3">
-                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (13).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
-                                </div>
-
-
-                                <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (14).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
-                                </div>
-
-                                <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (15).jpeg" alt="Folheta"id="imgfolheta" onclick="myFunction(this);">
-                                </div>
-                                <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (16).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (16).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (16).jpeg" alt="Folheta" id="imgfolheta">
+                               
+                                    </a>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="row">
                                 <div class="col-lg-3">
-                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (17).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (17).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (17).jpeg" alt="Folheta" id="imgfolheta">
+                               
+                                    </a>
                                 </div>
 
 
                                 <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (18).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (18).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (18).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
+                                    </div>
+
+                                <div class="col-lg-3">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (19).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (19).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
+                                    </div>
+                                <div class="col-lg-3">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (20).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (20).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-lg-3">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (21).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (21).jpeg" alt="Folheta" id="imgfolheta">
+                                </div>
+
+
+                                <div class="col-lg-3">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (22).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (22).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
                                 </div>
 
                                 <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (19).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (23).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (23).jpeg" alt="Folheta" id="imgfolheta">
+                               
+                                    </a>
                                 </div>
                                 <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (20).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (24).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (24).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
                                 </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="row">
                                 <div class="col-lg-3">
-                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (21).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (25).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (25).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
                                 </div>
 
 
                                 <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (22).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (26).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (26).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
                                 </div>
 
                                 <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (23).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (27).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (27).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
                                 </div>
                                 <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (24).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
-                                </div>
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (28).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (28).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a> </div>
                             </div>
                         </div>
                         <div class="carousel-item">
                             <div class="row">
                                 <div class="col-lg-3">
-                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (25).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (29).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (29).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
                                 </div>
 
 
                                 <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (26).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (30).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (30).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
                                 </div>
-
                                 <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (27).jpeg" alt="Folheta" id="imgfolheta" onclick="myFunction(this);">
-                                </div>
-                                <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (28).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <div class="row">
-                                <div class="col-lg-3">
-                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (29).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (31).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (31).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
                                 </div>
 
 
                                 <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (30).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
-                                </div>
-                                <div class="col-lg-3">
-                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (31).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
-                                </div>
-
-
-                                <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (32).jpeg" alt="Folheta" id="imgfolheta" onclick="myFunction(this);">
-                                </div>
-
-                            </div>
-
-                        </div>
-                        <div class="carousel-item">
-                            <div class="row">
-                                <div class="col-lg-3">
-                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (33).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
-                                </div>
-
-
-                                <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (34).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
-                                </div>
-                                <div class="col-lg-3">
-                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (35).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
-                                </div>
-
-
-                                <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (36).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
-                                </div>
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (32).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (32).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
+                              </div>
 
                             </div>
 
@@ -274,12 +330,52 @@
                         <div class="carousel-item">
                             <div class="row">
                                 <div class="col-lg-3">
-                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (37).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (33).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (33).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
                                 </div>
 
 
                                 <div class="col-lg-3">
-                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (38).jpeg" alt="Folheta" id="imgfolheta"onclick="myFunction(this);">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (34).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (34).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
+                                </div>
+                                <div class="col-lg-3">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (35).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (35).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
+                                </div>
+
+
+                                <div class="col-lg-3">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (36).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (36).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-lg-3">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (37).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img src="<?php BASE_URL; ?>assets/images/folhetas/folheta (37).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
+                                </div>
+
+
+                                <div class="col-lg-3">
+                                    <a href="<?php BASE_URL; ?>assets/images/folhetas/folheta (38).jpeg" data-lightbox="folheta" data-title="Folheta">
+                                         
+                                    <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (38).jpeg" alt="Folheta" id="imgfolheta">
+                                    </a>
                                 </div>
 
 
