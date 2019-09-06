@@ -1,6 +1,6 @@
 @font-face{
     font-family: 'FonteBanner';
-    src: url("../assets/css/bauhaub.ttf");
+    src: url("../css/bauhaub.ttf");
 }
 
 body{
@@ -84,6 +84,12 @@ body{
   footer a:hover{
       color:#00ffff;
   }
+  
+  #imgfolheta{
+      height: 200px;
+  }
+  
+  
   .slideanim {visibility:hidden;}
   .slide {
       animation-name: slide;

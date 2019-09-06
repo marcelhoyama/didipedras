@@ -31,7 +31,7 @@
                 
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto1.jpeg" alt="DidiPedras-Revestimento" >
                     <div class="carousel-caption d-none d-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span>11-99892-1840</span></h1>
+                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">REVESTIMENTO <br><span>11-99892-1840</span></h1>
                     </div>
                     
                 </div>
@@ -39,14 +39,14 @@
                
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto2.jpeg"  alt="DidiPedras-Muro" >
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">VENDAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
                     </div>      
                 </div> 
             <div class="carousel-item">
                 
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto3.jpeg"  alt="DidiPedras-Escada" >
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">ESCADAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
                     </div>  
                 </div>  
 
@@ -61,21 +61,21 @@
                 
                     <img class="d-block " src="<?php BASE_URL; ?>assets/images/foto5.jpeg"  alt="DidiPedras-Folheta" >
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">FOLHETA <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
                     </div>   
                 </div>  
             <div class="carousel-item">
                 
                     <img class="d-block " src="<?php BASE_URL; ?>assets/images/foto6.jpeg"  alt="DidiPedras-Folheta" >
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">CALÇAMENTO <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
                     </div>   
                 </div>  
             <div class="carousel-item">
                 
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto7.jpeg"  alt="DidiPedras-Muro" >
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">MUROS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
                     </div>   
                 </div>  
             <div class="carousel-item">
@@ -89,7 +89,7 @@
                 
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto9.jpeg"  alt="DidiPedras-Paralelepipedo" >
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>>
+                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">PARALELEPIPEDO <br><span class="w3-text-light-grey">11-99892-1840</span></h1>>
                     </div>   
                 </div> 
             <div class="carousel-item">
