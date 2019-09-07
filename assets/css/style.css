@@ -87,6 +87,16 @@ body{
   
   #imgfolheta{
       height: 200px;
+      
+  }
+ 
+  
+  .materia a{
+       opacity: 1;
+  }
+  
+  .materia a:hover{
+      opacity: 0.5;
   }
   
   

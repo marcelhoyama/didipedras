@@ -1,8 +1,9 @@
   
-<title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase'];?></title>
+<title style="font-family: Blippo, fantasy;">DidiPedras - <?php echo $viewData['frase'];?></title>
 <br>
 <br>
-
+<br>
+<div class="container">
 <div class="text-center">
     <img  src="<?php BASE_URL; ?>assets/images/muro-de-pedras/foto (15).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Muro de arrimo">
 </div>
@@ -338,4 +339,5 @@ Por fim, é essencial que a obra do muro de pedras seja feita por ótimos profis
         </div>
 
     </div>
+</div>
 </div>
