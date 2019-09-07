@@ -1,13 +1,8 @@
-<title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase'];?></title>
+<title style="font-family: Blippo, fantasy;">DidiPedras - <?php echo $viewData['frase'];?></title>
 
 
   
-<div class="text-center">
-    <!--<img  src="<?php BASE_URL; ?>assets/images/materia-prima/materia (4).jpeg"  class="img-thumbnail" style="width: 300px;"alt="Matéria-prima">-->
-</div>
-<br>
-
-<br>
+<div class="container">
 
 <!-- FACEBOOK -->
     <div id="fb-root"></div>
@@ -26,40 +21,39 @@
 
 
 <br>
- <h1 class="w3-wide w3-center">CONTATO</h1>
-   <p class="w3-opacity w3-center"><i>Vamos entrar em contato e falar sobre o seu próximo projeto.</i></p>
+ <h1 class="my-5 text-center">CONTATO</h1>
+   <p class="text-center"><i>Vamos entrar em contato e falar sobre o seu próximo projeto.</i></p>
                
-  <div class="row">
+  
  
      <!-- The Contact Section -->
             
                
               
                   
-                    <div class="w3-col w3-center w3-margin ">
+                 
 
                         <form method="POST" id="cadastrarclientes">
-                            <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
-                                <div class="w3-half">
-                                    <input class="w3-input w3-border" type="text" placeholder="Seu Nome" name="nome" id="nome">
+                          
+                                <div class="form-group">
+                                    <input class="form-control" type="text" placeholder="Seu Nome" name="nome" id="nome">
                                 </div>
-                                <div class="w3-half">
-                                    <input class="w3-input w3-border" type="text" placeholder="Email" name="email" id="email">
-                                </div>
-
-                                <div class="w3-half">
-                            <input class="w3-input w3-section w3-border" type="text" placeholder="Celular" name="fone" id="fone">  
+                                <div class="form-group">
+                                    <input class="form-control" type="text" placeholder="Seu melhor Email" name="email" id="email">
                                 </div>
 
+                               <div class="form-group">
+                            <input class="form-control" type="text" placeholder="Seu Celular" name="fone" id="fone">  
+                                </div>
 
 
-                            <textarea class="w3-input w3-section w3-border" type="text" placeholder="Mensagem" name="mensagem" required name="Comment"></textarea>
-
-                            <button class="btn btn-success w3-right" type="submit">ENVIAR</button>
+ <div class="form-group">
+                            <textarea class="form-control" type="text" placeholder="Mensagem" name="mensagem" required name="Comment"></textarea>
+ </div>
+                            <button class="btn btn-success " type="submit">ENVIAR</button>
                     
                         </form>
-    </div>
-  
+
             
                         
                         <div class="danger"><!--
@@ -75,6 +69,7 @@
                     </div>
                 
             
-            </div>   
-  </div>
-             
+            
+ 
+         
+   </div>

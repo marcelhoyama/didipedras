@@ -14,11 +14,11 @@
 
         <!-- Navbar (sit on top) -->
   
-            <nav class=" navbar navbar-expand-lg navbar-light bg-light fixed-top">
+            <nav class=" navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
                 <div class="container">  
-                <a class="navbar-brand" href="#home"  ><img src="<?php BASE_URL; ?>assets/images/didipedras.jpg" width="155px" height="auto" alt="logo-DidiPedras"></a>
+                    <a class="navbar-brand" href="<?php BASE_URL;?>home" style="font-family:fontebanner; font-size: 30px; " >DIDI PEDRAS</a>
                  
-                 <a class="mr-auto" target="_blank" href="https://www.facebook.com/Didi-pedras-418530741640677/"><img  src="<?php BASE_URL; ?>assets/images/facebookcolor.png" width="40" height="40" alt="facebook-DidiPedras"></a>
+                 <a class="mr-auto" target="_blank" href="https://www.facebook.com/Didi-pedras-418530741640677/"><img  src="<?php BASE_URL; ?>assets/images/facebookcolor.png" width="30" height="30" alt="facebook-DidiPedras"></a>
 
                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                          <span class="navbar-toggler-icon"></span>
