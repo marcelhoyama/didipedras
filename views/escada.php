@@ -59,7 +59,7 @@
                 <div class="carousel-item active">
                     <div class="row">
                         <div class="col-lg-3">
-                            <a href="<?php BASE_URL; ?>assets/images/escadas/escada.jpg" data-lightbox="escadas" data-title="Escada">
+                            <a href="<?php BASE_URL; ?>assets/images/escadas/escada (1).jpeg" data-lightbox="escadas" data-title="Escada">
                                 <img src="<?php BASE_URL; ?>assets/images/escadas/escada.jpg" alt="Escadas de pedras" id="imgfolheta">
                             </a>
                         </div>
@@ -235,7 +235,7 @@
                         <img class="img-fluid "src="<?php BASE_URL; ?>assets/images/escadas/escada (1).jpeg" alt="Escada de pedra">
 
                     </div>
-                    <?php for ($i = 1; $i <= 23; $i++) { ?>
+                    <?php for ($i = 2; $i <= 23; $i++) { ?>
 
                         <div class="carousel-item">
                             <img class="img-fluid "src="<?php BASE_URL; ?>assets/images/escadas/escada (<?php echo $i; ?>).jpeg" alt="Escada de pedra">

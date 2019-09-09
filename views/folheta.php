@@ -62,7 +62,7 @@
 
     <h2 class="text-center my-5"> Um dos Serviços feitos</h2>
     <!-- The grid: four col-lg-3s -->
-    <div  class="row">
+    <div  class="row" id="desktop">
 
         <div id="slideshowExemplo" class="carousel slide" data-ride="carousel">
 

@@ -52,12 +52,8 @@ Se necessário algum tipo de reforma o cliente tem a vantagem de utilizar o mesm
 <h2 class="text-center my-5"> Um dos Serviços feitos</h2>
 <!-- The grid: four col-lg-3s -->
 <div id="desktop" class="row">
-    <?php
-    for ($x = 0; $x > 7; $x++) {
-        
-    }
-    ?>
-</div>
+   
+
     <div id="slideshowExemplo" class="carousel slide" data-ride="carousel">
 
         <ul class="carousel-indicators">
@@ -150,7 +146,7 @@ Se necessário algum tipo de reforma o cliente tem a vantagem de utilizar o mesm
         </a>
     </div>
 
- 
+ </div>
 
 
 

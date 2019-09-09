@@ -172,7 +172,7 @@
             <!-- Indicators -->
             <ul class="carousel-indicators">
                 <li data-target="#demo" data-slide-to="0" class="active"></li>
-                <?php for ($i = 1; $i <= 25; $i++) { ?>
+                <?php for ($i = 1; $i <= 13; $i++) { ?>
                     <li data-target="#demo" data-slide-to="<?php echo $i; ?>"></li>
                 <?php } ?>
 
@@ -184,7 +184,7 @@
                     <img class="img-fluid "src="<?php BASE_URL; ?>assets/images/revestimentos/revestimento (1).jpeg" alt="Revestimento">
 
                 </div>
-                <?php for ($i = 1; $i <= 25; $i++) { ?>
+                <?php for ($i = 1; $i <= 13; $i++) { ?>
 
                     <div class="carousel-item">
                         <img class="img-fluid "src="<?php BASE_URL; ?>assets/images/revestimentos/revestimento (<?php echo $i; ?>).jpeg" alt="Revestimento">

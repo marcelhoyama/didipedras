@@ -36,7 +36,7 @@
 
 
 
-
+    <div id="desktop">
 
     <div class="row mb-3">
         <?php for ($i = 1; $i <= 4; $i++) {
@@ -89,10 +89,52 @@
 
 
     </div>
-   
+    </div>
 
+<div id="celular_display" class="row">
+    <div class="carousel-inner-celular">
+        <div id="demo" class="carousel slide" data-ride="carousel">
+
+            <!-- Indicators -->
+            <ul class="carousel-indicators">
+                <li data-target="#demo" data-slide-to="0" class="active"></li>
+                <?php for ($i = 1; $i <= 9; $i++) { ?>
+                    <li data-target="#demo" data-slide-to="<?php echo $i; ?>"></li>
+                <?php } ?>
+
+            </ul>
+
+            <!-- The slideshow -->
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="img-fluid "src="<?php BASE_URL; ?>assets/images/venda/venda (1).jpeg" alt="Venda de Pedras">
+
+                </div>
+                <?php for ($i = 1; $i <= 9; $i++) { ?>
+
+                    <div class="carousel-item">
+                        <img class="img-fluid "src="<?php BASE_URL; ?>assets/images/venda/venda (<?php echo $i; ?>).jpeg" alt="Venda de Pedras">
+                    </div>
+
+                <?php } ?>
+
+
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a class="carousel-control-next" href="#demo" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </a>
+
+        </div>
 
     </div>
+</div>
+
+   
 
 
 

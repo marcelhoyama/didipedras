@@ -122,7 +122,7 @@ A manutenção e limpeza do pavimento intertravado é feita de maneira simples. 
             <!-- Indicators -->
             <ul class="carousel-indicators">
                 <li data-target="#demo" data-slide-to="0" class="active"></li>
-                <?php for ($i = 1; $i <= 1; $i++) { ?>
+                <?php for ($i = 1; $i <= 3; $i++) { ?>
                     <li data-target="#demo" data-slide-to="<?php echo $i; ?>"></li>
                 <?php } ?>
 

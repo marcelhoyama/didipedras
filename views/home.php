@@ -27,9 +27,9 @@
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner" >
-            <div class="carousel-item active">
+            <div class="carousel-item active" >
                 
-                    <img class="d-block img-fluid" src="<?php BASE_URL; ?>assets/images/foto1.jpeg" alt="DidiPedras-Revestimento" >
+                    <img class="d-block img-fluid" src="<?php BASE_URL; ?>assets/images/foto1.jpeg" alt="DidiPedras-Revestimento">
                     <div class="carousel-caption d-none d-block">
                         <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">REVESTIMENTO EM PEDRAS<br><span>11-99892-1840</span></h1>
                     </div>
@@ -107,11 +107,80 @@
      data-layout="button_count">
 </div>
     </div>
+    
+    
+     <div class="my-5 carousel slide" data-ride="carousel" id="celular_display" >
+        <!-- Indicators -->
+        
+        
 
-    <a class="carousel-control-prev" href="#myCarouselhome" role="button" data-slide="prev">
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" >
+            <div class="carousel-item active" >
+                
+                    <img class=" img-fluid" src="<?php BASE_URL; ?>assets/images/foto1.jpeg" alt="DidiPedras-Revestimento">
+     
+                </div>
+            <div class="carousel-item">
+               
+                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto2.jpeg"  alt="DidiPedras-Muro" >
+ 
+                    </div>      
+                </div> 
+            <div class="carousel-item">
+                
+                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto3.jpeg"  alt="DidiPedras-Escada" >
+                   
+                </div>  
+
+            <div class="carousel-item">
+                
+                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto4.jpeg"  alt="DidiPedras-Escada" >
+                     
+                </div>  
+            <div class="carousel-item">
+                
+                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto5.jpeg"  alt="DidiPedras-Folheta" >
+                      
+                </div>  
+            <div class="carousel-item">
+                
+                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto6.jpeg"  alt="DidiPedras-Folheta" >
+                    
+                </div>  
+            <div class="carousel-item">
+                
+                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto7.jpeg"  alt="DidiPedras-Muro" >
+                     
+                </div>  
+            <div class="carousel-item">
+               
+                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto8.jpeg"  alt="DidiPedras-Muro" >
+                     
+                </div>  
+            <div class="carousel-item">
+                
+                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto9.jpeg"  alt="DidiPedras-Paralelepipedo" >
+                      
+                </div> 
+            <div class="carousel-item">
+               
+                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto10.jpeg"  alt="DidiPedras-Paralelepipedo" >
+                       
+               
+            </div>
+        </div>
+<!-- Your share button code -->
+<div class="fb-share-button " 
+     data-href="http://www.didipedras.com.br/" 
+     data-layout="button_count">
+</div>
+    </div>
+
+    <a class="carousel-control-prev" href="#celular_display" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" ></span>
     </a>
-    <a class="carousel-control-next" href="#myCarouselhome" data-slide="next">
+    <a class="carousel-control-next" href="#celular_display" data-slide="next">
         <span class="carousel-control-next-icon"></span>
     </a>
         </div>
@@ -130,7 +199,8 @@
         js.id = id;
         js.src = "https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v3.0";
         fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
+    }(document, 'script', 'facebook-jssdk'));
+        </script>
 
 
 
@@ -142,9 +212,11 @@
     <br>
     <br>
     <br>
-    <h1 class="text-center my-5">Produtos e Serviços</h1>
+    <h1 class="text-center my-5" id="desktop">Produtos e Serviços</h1>
+    <h1 class="text-center" id="celular_display">Produtos e Serviços</h1>
 
-<div class="container row mr-auto ml-auto">
+<div class="container row mr-auto ml-auto" id="desktop">
+  
     <div class="col">
         <div class="card" id="card">
             <a href="<?php BASE_URL; ?>folheta">   <img class="card-img-top "src="<?php BASE_URL; ?>assets/images/folhetas/folheta (18).jpeg" alt="Calçamento Folheta"> 
@@ -176,7 +248,72 @@
     </div>
 </div>
     <br>
-<div class="container row mr-auto ml-auto">
+    <div class="container row mr-auto ml-auto" id="desktop">
+    <div class="col">
+        <div class="card" id="card">
+            
+            <a href="<?php BASE_URL; ?>venda" ><img src="<?php BASE_URL; ?>assets/images/venda.jpeg" alt="Venda de pedras" class="card-img-top"><div class="text-center" style="font-size: 18px;">Vendas de Pedras</div></a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card" id="card">
+           
+            <a href="<?php BASE_URL; ?>materiaprima"><img src="<?php BASE_URL; ?>assets/images/materia-prima/materia (4).jpeg"  alt="Matéria-Prima" class="card-img-top">
+             <div class="text-center" style="font-size: 18px;">Nossa matéria-prima</div></a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card" id="card">
+            
+            <a href="<?php BASE_URL; ?>muro"><img src="<?php BASE_URL; ?>assets/images/muro-de-pedras/foto (5).jpeg" alt="House" class="card-img-top">
+            <div  class="text-center" style="font-size: 18px;">Muro de Pedras Arrimo</div></a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card" id="card">
+            
+            <a href="<?php BASE_URL; ?>revestimento" ><img src="<?php BASE_URL; ?>assets/images/revestimentos/revestimento (3).jpeg" alt="Revestimentos em  pedras" class="card-img-top"><div class="text-center" style="font-size: 18px;">Revestimentos em Pedras</div></a>
+        </div>
+    </div>
+</div>   
+
+    
+    
+    
+    <div class="container row " id="celular_display">
+    <div class="col">
+        <div class="card" id="card">
+            <a href="<?php BASE_URL; ?>folheta">   <img class="card-img-top "src="<?php BASE_URL; ?>assets/images/folhetas/folheta (18).jpeg" alt="Calçamento Folheta"> 
+            <div class="text-center" style="font-size: 18px;">Calçamento de Folheta</div>
+            </a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card" id="card">
+            <a href="<?php BASE_URL; ?>paralelepipedo"> <img src="<?php BASE_URL; ?>assets/images/paralelepipedo/paralelepipedo  (1).jpeg" alt="Paralelepípedo" class="card-img-top">
+            <div class="text-center" style="font-size: 18px;">Calçamento de Paralelepípedo</div>
+            </a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card" id="card">
+            
+            <a href="<?php BASE_URL; ?>bloquete"> <img src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (1).jpeg" alt="Bloquete" class="card-img-top">
+            <div class="text-center" style="font-size: 18px;">Intertravado ou Bloquete</div></a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card" id="card">
+          
+            <a href="<?php BASE_URL; ?>escada"> <img src="<?php BASE_URL; ?>assets/images/escadas/escada (7).jpeg" alt="Escadas de Pedras" class="card-img-top">
+            <div class="text-center" style="font-size: 18px;">Escada de Pedras</div></a>
+
+        </div>
+    </div>
+    </div>
+
+    <br>
+    <div class="container row " id="celular_display">
     <div class="col">
         <div class="card" id="card">
             
@@ -205,6 +342,7 @@
     </div>
 
 </div>
+    
 </section>
 
 
