@@ -4,6 +4,7 @@
 <br>
 <br>
 <div class="container">
+<h1 class="text-center">DidiPedras: Nossa Matéria-Prima</h1>
 
     <!-- FACEBOOK -->
     <div id="fb-root"></div>
@@ -30,8 +31,7 @@
 
 
 
-    <h1 class="text-center">DidiPedras: Nossa Matéria-Prima</h1>
-
+    
 
 
     <div id="desktop">

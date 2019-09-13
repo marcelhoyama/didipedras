@@ -5,6 +5,8 @@
 <br>
 <br>
 <div class="container">
+    <h1 class="text-center">DidiPedras: Escada de Pedras</h1>
+    <br>
     <div class="my-5 text-center">
         <figure class="figure">
             <img  src="<?php BASE_URL; ?>assets/images/escadas/escada (7).jpeg"  class="img-fluid" style="width: 500px;"alt="Escada de pedras">
@@ -33,11 +35,17 @@
 
 
 
-    <h1 class="text-center">DidiPedras: Escada de Pedras</h1>
-    <br>
+    
     <h3 class="text-center">A DIDI Pedras disponibiliza aos seus clientes, vendas de pedras para os mais diferentes tipos de pedras.</h3>
     <p class="text-center">Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra ou projetos de escadas. </p>
 
+    <p>Veja também:</p>
+    <li><a href="<?php ?>muro">Muro de Arrimo (Pedras)</a></li>
+    <li><a href="<?php ?>revestimento">Revestimentos em Pedras</a></li>
+    <li><a href="<?php  BASE_URL;?>folheta">Calçamento de folheta</a></li>
+    <li><a href="<?php BASE_URL; ?>paralelepipedo"> Calçamento em Paralelepipedo</a></li>
+    <li> <a href="<?php BASE_URL;?>bloquete">intertravado ou bloquete</a></li>
+    
     <h2 class="my-5 text-center"> Veja um dos Serviços feitos de escada de pedras</h2>
     <!-- The grid: four col-lg-3s -->
     <div  id="desktop" class="row">

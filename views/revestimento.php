@@ -4,7 +4,10 @@
 <br>
 <br>
 <div class="container">
+    <h1 class="my-5 text-center">DidiPedras: Revestimento em pedras. </h1>
+    <br>
     <div class="my-5 text-center">
+        
         <figure class="figure">
             <img  src="<?php BASE_URL; ?>assets/images/revestimentos/revestimento (3).jpeg"  class="img-fluid" style="width: 500px;"alt="Revestimento">
             <figcaption class="figure-caption">Revestimento de Pedras.</figcaption>
@@ -36,10 +39,9 @@
 
 
 
-    <h1 class="my-5 text-center">DidiPedras: Pedras para revestimento de muros em pedras. </h1>
-    <br>
+    
 
-    <h3>A DIDI - Pedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de serviços em pedras.</h3>
+    <h3>A DidiPedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de serviços em pedras.</h3>
     <p>Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra, assim proporcionando beleza, naturalidade e facilidade de manutenção. </p>
     <p>
 
@@ -47,7 +49,7 @@
 
         Podem ser aplicadas em muros, lareiras, churrasqueiras, fontes, colunas, fachadas, jardins, paredes de escadas e salas, bancadas, lavabos, cozinhas, painéis, áreas internas e externas em geral.
 
-        Na DIDI PEDRAS você encontrará uma enorme variedade de Pedras de revestimento,muros moderno e baratos,muros simples e bonitos, são diversas cores, tamanhos, texturas, espessuras, pedras com acabamentos serrados, irregulares, filetados, telados, além de todos os produtos necessários para a aplicação dos mesmos e a indicação dos melhores profissionais para o assentamento.
+        Na DIDIPEDRAS você encontrará uma enorme variedade de Pedras de revestimento,muros moderno e baratos,muros simples e bonitos, são diversas cores, tamanhos, texturas, espessuras, pedras com acabamentos serrados, irregulares, filetados, telados, além de todos os produtos necessários para a aplicação dos mesmos e a indicação dos melhores profissionais para o assentamento.
 
     </p>
 
@@ -55,8 +57,13 @@
 
     <br>
     <br>
-    <a class="" href="<?php BASE_URL;?>muro" >Veja também Muro de Arrimo (ou Pedras)</a>
-
+    <p>Veja também:</p>
+    <li> <a href="<?php BASE_URL;?>muro">Muro de Arrimo (Pedras)</a></li>
+    <li><a href="<?php BASE_URL;?>escada">Escada de pedras</a></li>
+    <li><a href="<?php  BASE_URL;?>folheta">Calçamento de folheta</a></li>
+    <li><a href="<?php BASE_URL; ?>paralelepipedo"> Calçamento em Paralelepipedo</a></li>
+    <li> <a href="<?php BASE_URL;?>bloquete">Calçamento Intertravado ou bloquete</a></li>
+    
 
 
 

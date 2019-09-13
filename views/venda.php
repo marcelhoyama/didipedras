@@ -6,6 +6,8 @@
 <br>
 <br>
 <div class="container">
+<h1 class="text-center">DidiPedras: Nossa Venda de Pedras</h1>
+
 
     <!-- FACEBOOK -->
     <div id="fb-root"></div>
@@ -32,9 +34,7 @@
 
 
 
-    <h1 class="text-center">DidiPedras: Nossa Venda de Pedras</h1>
-
-
+    
 
     <div id="desktop">
 

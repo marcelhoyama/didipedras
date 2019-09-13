@@ -8,12 +8,12 @@
     <meta name="distribution" content="Global">
     <meta name="rating" content="General">
     <meta name="revisit-after" content="2">
-    <meta name="classification" content="pedreira , loja de pedras, muro de pedras">
+    <meta name="classification" content="prestação de serviços em pedras , venda de pedras, muro de pedras">
 
-    <meta name="description" content="Procurando <?php echo $viewData['frase']; ?> de Pedras? Ótimos preços para venda e Serviços de Pedras. Pode confiar!">
+    <meta name="description" content="Procurando <?php echo $viewData['frase']; ?> de Pedras? Ótimos preços para venda e Serviços de Pedras. Atendemos em Cabreúva e Região em São Paulo!">
 
 
-    <title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase']; ?></title>
+    <!--<title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase']; ?></title>-->
     <meta name="keywords" content="Pedras, Pedreira, Cabreúva, DIDI pedras, Venda, escada de pedras, muro de pedras, calçamentos de pedras, Casas, Casas em Condomínio, Terrenos, Chácara, Sítios, Fazendas, area industrial">
     <meta name="author" content="Marcel Hoyama">
     <meta name="google-site-verification" content="http://www.didipedras.com.br/<?php echo $viewData['linknome']; ?>" />
@@ -24,7 +24,7 @@
     <meta property="og:url" content="http://www.didipedras.com.br/<?php echo $viewData['linknome']; ?>/" />
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="DIDI Pedras - <?php echo $viewData['frase']; ?>"/>
-    <meta property="og:description" content="Prestação de serviços <?php echo $viewData['frase']; ?> e vendas de pedras ! Cabreúva e região"/>
+    <meta property="og:description" content="Prestação de serviços em <?php echo $viewData['frase']; ?> e vendas de pedras ! Cabreúva e região"/>
 
     <meta property="og:site_name" content="Cabreúva e Região você encontra aqui, <?php echo $viewData['frase']; ?> e vendas de pedras...">
     <meta property="og:image" content="http://didipedras.com.br/assets/images/<?php echo $viewData['foto']; ?>"/>

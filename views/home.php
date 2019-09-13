@@ -31,7 +31,7 @@
                 
                     <img class="d-block img-fluid" src="<?php BASE_URL; ?>assets/images/foto1.jpeg" alt="DidiPedras-Revestimento">
                     <div class="carousel-caption d-none d-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">REVESTIMENTO EM PEDRAS<br><span>11-99892-1840</span></h1>
+                        <div id="fontebanner" class="h1 shadow p-3 mb-5 bg-dark">REVESTIMENTO EM PEDRAS<br><span>11-99892-1840</span></div>
                     </div>
                     
                 </div>
@@ -39,14 +39,14 @@
                
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto2.jpeg"  alt="DidiPedras-Muro" >
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">VENDAS DE PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                        <div id="fontebanner" class=" h1 shadow p-3 mb-5 bg-dark">VENDAS DE PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>      
                 </div> 
             <div class="carousel-item">
                 
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto3.jpeg"  alt="DidiPedras-Escada" >
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">ESCADA DE PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">ESCADA DE PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>  
                 </div>  
 
@@ -54,49 +54,49 @@
                 
                     <img class="d-block " src="<?php BASE_URL; ?>assets/images/foto4.jpeg"  alt="DidiPedras-Escada" >
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>   
                 </div>  
             <div class="carousel-item">
                 
                     <img class="d-block " src="<?php BASE_URL; ?>assets/images/foto5.jpeg"  alt="DidiPedras-Folheta" >
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">CALÇAMENTO EM FOLHETA <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">CALÇAMENTO EM FOLHETA <br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>   
                 </div>  
             <div class="carousel-item">
                 
                     <img class="d-block " src="<?php BASE_URL; ?>assets/images/foto6.jpeg"  alt="DidiPedras-Folheta" >
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">CALÇAMENTOS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">CALÇAMENTOS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>   
                 </div>  
             <div class="carousel-item">
                 
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto7.jpeg"  alt="DidiPedras-Muro" >
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">MUROS DE PEDRAS<br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">MUROS DE PEDRAS<br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>   
                 </div>  
             <div class="carousel-item">
                
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto8.jpeg"  alt="DidiPedras-Muro" >
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>   
                 </div>  
             <div class="carousel-item">
                 
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto9.jpeg"  alt="DidiPedras-Paralelepipedo" >
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">CALÇAMENTO EM PARALELEPIPEDO <br><span class="w3-text-light-grey">11-99892-1840</span></h1>>
+                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">CALÇAMENTO EM PARALELEPIPEDO <br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>   
                 </div> 
             <div class="carousel-item">
                
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto10.jpeg"  alt="DidiPedras-Paralelepipedo" >
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></h1>
+                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>   
                
             </div>
@@ -118,63 +118,26 @@
         <div class="carousel-inner" >
             <div class="carousel-item active" >
                 
-                    <img class=" img-fluid" src="<?php BASE_URL; ?>assets/images/foto1.jpeg" alt="DidiPedras-Revestimento">
+                <img class=" img-fluid" style="width:300px; height:280px;" src="<?php BASE_URL; ?>assets/images/foto1.jpeg" alt="DidiPedras-Revestimento">
      
                 </div>
-            <div class="carousel-item">
+            <?php for($i=2;$i<=8;$i++){?>
+                <div class="carousel-item">
                
-                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto2.jpeg"  alt="DidiPedras-Muro" >
+                    <img class="img-fluid" style="width:300px; height:280px;" src="<?php BASE_URL; ?>assets/images/foto<?php echo $i;?>.jpeg"  alt="DidiPedras-Muro" >
  
                     </div>      
-                </div> 
-            <div class="carousel-item">
                 
-                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto3.jpeg"  alt="DidiPedras-Escada" >
-                   
-                </div>  
-
-            <div class="carousel-item">
                 
-                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto4.jpeg"  alt="DidiPedras-Escada" >
-                     
-                </div>  
-            <div class="carousel-item">
-                
-                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto5.jpeg"  alt="DidiPedras-Folheta" >
-                      
-                </div>  
-            <div class="carousel-item">
-                
-                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto6.jpeg"  alt="DidiPedras-Folheta" >
-                    
-                </div>  
-            <div class="carousel-item">
-                
-                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto7.jpeg"  alt="DidiPedras-Muro" >
-                     
-                </div>  
-            <div class="carousel-item">
-               
-                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto8.jpeg"  alt="DidiPedras-Muro" >
-                     
-                </div>  
-            <div class="carousel-item">
-                
-                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto9.jpeg"  alt="DidiPedras-Paralelepipedo" >
-                      
-                </div> 
-            <div class="carousel-item">
-               
-                    <img class="img-fluid" src="<?php BASE_URL; ?>assets/images/foto10.jpeg"  alt="DidiPedras-Paralelepipedo" >
-                       
-               
-            </div>
-        </div>
+          <?php  }?>
+            </div> 
+      
 <!-- Your share button code -->
 <div class="fb-share-button " 
      data-href="http://www.didipedras.com.br/" 
      data-layout="button_count">
 </div>
+  
     </div>
 
     <a class="carousel-control-prev" href="#celular_display" role="button" data-slide="prev">
@@ -188,9 +151,8 @@
 
 
 
-
 <!-- Load Facebook SDK for JavaScript -->
-<div id="fb-root"></div>
+
 <script>(function (d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id))
@@ -212,8 +174,8 @@
     <br>
     <br>
     <br>
-    <h1 class="text-center my-5" id="desktop">Produtos e Serviços</h1>
-    <h1 class="text-center" id="celular_display">Produtos e Serviços</h1>
+    <div class="h1 text-center my-5" id="desktop">Produtos e Serviços</div>
+    <div class="h1 text-center" id="celular_display">Produtos e Serviços</div>
 
 <div class="container row mr-auto ml-auto" id="desktop">
   
@@ -353,7 +315,7 @@
         <br>
 <br>
 <br>
-        <h1 class=" mt-5 text-center">Sobre</h1>
+        <div class="h1 mt-5 text-center">Sobre</div>
         <p class="text-center">"Didi pedras a mais de 30 anos no mercado Especialista na área de pavimentação com paralelepípedos e folhetos Muros de pedra".</p>
 
 <!--    

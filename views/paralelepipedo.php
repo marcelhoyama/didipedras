@@ -5,6 +5,8 @@
 <br>
 <br>
 <div class="container">
+    <h1 class="text-center">DidiPedras: Calçamento de Paralelepípedo</h1>
+
 <div class="my-5 text-center">
     <figure class="figure">
     <img  src="<?php BASE_URL; ?>assets/images/paralelepipedo/paralelepipedo  (1).jpeg"  class="figure-caption img-fluid rounded" style="width: 500px;"alt="Paralelepipedo">
@@ -32,7 +34,6 @@
 
 
 <br>
-<h1 class="text-center">DidiPedras: Calçamento de Paralelepípedo</h1>
 
 <h3>A DidiPedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</h3>
 <p class="my-5">Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra. 
@@ -44,9 +45,11 @@ Um material extremamente vantajoso pois suporta cargas pesadas, tem ótima durab
 Se necessário algum tipo de reforma o cliente tem a vantagem de utilizar o mesmo material (as suas pedras paralelepípedo usado).
   </p>
 
-
-  <a href="<?php BASE_URL;?>folheta">Veja também Calçamento de Folheta</a>
-
+  <p>Veja também:</p>
+  <li><a href="<?php BASE_URL;?>folheta">Calçamento de Folheta</a></li>
+ 
+  <li><a href="<?php BASE_URL;?>bloquete">Calçamento de Intertravado ou bloquete</a></li>
+    
 
 
 <h2 class="text-center my-5"> Um dos Serviços feitos</h2>

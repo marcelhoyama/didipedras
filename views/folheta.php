@@ -4,6 +4,9 @@
 <br>
 <br>
 <div class="container">
+    
+    <h1 class="text-center">DidiPedras: Calçamento de Folheta</h1>
+
     <div class="my-5 text-center">
         <figure class="figure">
             <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (1).jpeg"  class="figure-img img-fluid rounded" alt="Calçamento de folheta"style="width: 500px;">
@@ -32,8 +35,6 @@
 
 
 
-    <h1 class="text-center">DidiPedras: Calçamento de Folheta</h1>
-
     <h3>A DidiPedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</h3>
     <p class="my-5">Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra. </p>
     <p> A Folheta é um tipo de pedra que tem um ótimo acabamento e grande beleza, devido suas dimensões, pode ser utilizado em construções de diversos portes, é muito resistente e não se deteriora com o tempo.
@@ -52,9 +53,10 @@
     </p>
 
 
-
-    <a href="<?php BASE_URL; ?>paralelepipedo">Veja também Calçamento de Paralelepipedo</a>
-
+    <p>Veja também:</p>
+    <li><a href="<?php BASE_URL; ?>paralelepipedo">Calçamento de Paralelepipedo</a></li>
+    <li><a href="<?php BASE_URL;?>bloquete">Calçamento de Intertravado ou Bloquete</a></li>
+   
 
 
 

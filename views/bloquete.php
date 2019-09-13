@@ -4,6 +4,8 @@
   <br>
 <br>
 <div class="container">
+    <h1 class="text-center">DidiPedras: Calçamento Intertravado ou Bloquete de Pedras</h1>
+
 <div class="my-5 text-center">
     <figure class="figure">
     <img  src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (1).jpeg"  class="img-fluidl" style="width: 500px;"alt="Intertravado ou Bloquete">
@@ -29,7 +31,6 @@
     }(document, 'script', 'facebook-jssdk'));</script>
 
 <br>
-<h1 class="text-center">DidiPedras: Intertravado ou Bloquete</h1>
 
 <h3>A DidiPedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</h3>
 <p>Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra. 
@@ -59,8 +60,10 @@ A manutenção e limpeza do pavimento intertravado é feita de maneira simples. 
 
 <p>O pavimento intertravado de concreto pode ser permeável. A característica drenante permite a infiltração da água no piso, colaborando com a diminuição das superfícies impermeáveis tão comuns em ambientes urbanos. Mesmo os intertravados que não são produzidos para possuírem a característica drenante têm o seu percentual de permeabilidade.</p>
 
+<p>Temos outros tipos de calçamento veja:</p>
+<li><a href="<?php BASE_URL;?>paralelepipedo">Calçamento de Paralelepipedo</a></li>
+<li><a href="<?php BASE_URL;?>folheta">Calçamento de Folheta</a></li>
 
-<a href="<?php BASE_URL?>paralelepipedo">Veja também Calçamento de Paralelepipedo</a>
 
 
 <h2 class="my-5 text-center"> Um dos Serviços feitos</h2>

@@ -4,6 +4,8 @@
 <br>
 <br>
 <div class="container">
+    <h1 class="my-5 text-center">DidiPedras: Muro de Arrimo (ou pedras)</h1>
+
     <div class="my-5 text-center">
         <figure class="figure">
             <img  src="<?php BASE_URL; ?>assets/images/muro-de-pedras/foto (15).jpeg"  class="img-fluid" style="width: 500px;"alt="Muro de arrimo">
@@ -31,8 +33,7 @@
 
 
 
-    <h1 class="my-5 text-center">DidiPedras: Muro de Arrimo (ou pedras)</h1>
-
+    
     <h3 class="my-5"> A DidiPedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</h3>
     <p>Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra. 
     </p>
@@ -83,8 +84,15 @@
     <br>
     <br>
     <br>
-    <a href="<?php BASE_URL;?>revestimento">Veja também Revestimento</a>
-
+   
+ 
+    <p>Veja também:</p>
+    <li> <a href="<?php BASE_URL;?>revestimento">Revestimento em Pedras</a></li>
+    <li><a href="<?php BASE_URL;?>escada">Escada de Pedras</a></li>
+    <li><a href="<?php  BASE_URL;?>folheta">Calçamento de Folheta</a></li>
+    <li><a href="<?php BASE_URL; ?>paralelepipedo"> Calçamento em Paralelepipedo</a></li>
+    <li> <a href="<?php BASE_URL;?>bloquete">Calçamento Intertravado ou bloquete</a></li>
+    
 
 
 
@@ -300,4 +308,5 @@
 
             </div>
         </div>
+</div>
     
