@@ -46,7 +46,7 @@
                 
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto3.jpeg"  alt="DidiPedras-Escada" >
                     <div class="carousel-caption d-none d-md-block">
-                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">ESCADA DE PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
+                        <div id="fontebanner" class="h1 shadow p-3 mb-5 bg-dark">ESCADA DE PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>  
                 </div>  
 
@@ -54,49 +54,49 @@
                 
                     <img class="d-block " src="<?php BASE_URL; ?>assets/images/foto4.jpeg"  alt="DidiPedras-Escada" >
                     <div class="carousel-caption d-none d-md-block">
-                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
+                        <div id="fontebanner" class="h1 shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>   
                 </div>  
             <div class="carousel-item">
                 
                     <img class="d-block " src="<?php BASE_URL; ?>assets/images/foto5.jpeg"  alt="DidiPedras-Folheta" >
                     <div class="carousel-caption d-none d-md-block">
-                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">CALÇAMENTO EM FOLHETA <br><span class="w3-text-light-grey">11-99892-1840</span></div>
+                        <div id="fontebanner" class="h1 shadow p-3 mb-5 bg-dark">CALÇAMENTO EM FOLHETA <br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>   
                 </div>  
             <div class="carousel-item">
                 
                     <img class="d-block " src="<?php BASE_URL; ?>assets/images/foto6.jpeg"  alt="DidiPedras-Folheta" >
                     <div class="carousel-caption d-none d-md-block">
-                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">CALÇAMENTOS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
+                        <div id="fontebanner" class="h1 shadow p-3 mb-5 bg-dark">CALÇAMENTOS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>   
                 </div>  
             <div class="carousel-item">
                 
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto7.jpeg"  alt="DidiPedras-Muro" >
                     <div class="carousel-caption d-none d-md-block">
-                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">MUROS DE PEDRAS<br><span class="w3-text-light-grey">11-99892-1840</span></div>
+                        <div id="fontebanner" class="h1 shadow p-3 mb-5 bg-dark">MUROS DE PEDRAS<br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>   
                 </div>  
             <div class="carousel-item">
                
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto8.jpeg"  alt="DidiPedras-Muro" >
                     <div class="carousel-caption d-none d-md-block">
-                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
+                        <div id="fontebanner" class="h1 shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>   
                 </div>  
             <div class="carousel-item">
                 
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto9.jpeg"  alt="DidiPedras-Paralelepipedo" >
                     <div class="carousel-caption d-none d-md-block">
-                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">CALÇAMENTO EM PARALELEPIPEDO <br><span class="w3-text-light-grey">11-99892-1840</span></div>
+                        <div id="fontebanner" class="h1 shadow p-3 mb-5 bg-dark">CALÇAMENTO EM PARALELEPIPEDO <br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>   
                 </div> 
             <div class="carousel-item">
                
                     <img class="d-block" src="<?php BASE_URL; ?>assets/images/foto10.jpeg"  alt="DidiPedras-Paralelepipedo" >
                     <div class="carousel-caption d-none d-md-block">
-                        <div class="h1" id="fontebanner" class="shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
+                        <div id="fontebanner" class="h1 shadow p-3 mb-5 bg-dark">DIDI PEDRAS <br><span class="w3-text-light-grey">11-99892-1840</span></div>
                     </div>   
                
             </div>
@@ -106,8 +106,14 @@
      data-href="http://www.didipedras.com.br/" 
      data-layout="button_count">
 </div>
-    </div>
     
+      <a class="carousel-control-prev" href="#myCarouselhome" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" ></span>
+    </a>
+    <a class="carousel-control-next" href="#myCarouselhome" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </a>
+        </div>
     
      <div class="my-5 carousel slide" data-ride="carousel" id="celular_display" >
         <!-- Indicators -->
@@ -118,13 +124,13 @@
         <div class="carousel-inner" >
             <div class="carousel-item active" >
                 
-                <img class=" img-fluid" style="width:300px; height:280px;" src="<?php BASE_URL; ?>assets/images/foto1.jpeg" alt="DidiPedras-Revestimento">
+                <img class=" img-fluid" style="height:280px;" src="<?php BASE_URL; ?>assets/images/foto1.jpeg" alt="DidiPedras-Revestimento">
      
                 </div>
             <?php for($i=2;$i<=8;$i++){?>
                 <div class="carousel-item">
                
-                    <img class="img-fluid" style="width:300px; height:280px;" src="<?php BASE_URL; ?>assets/images/foto<?php echo $i;?>.jpeg"  alt="DidiPedras-Muro" >
+                    <img class="img-fluid" style=" height:280px;" src="<?php BASE_URL; ?>assets/images/foto<?php echo $i;?>.jpeg"  alt="DidiPedras-Muro" >
  
                     </div>      
                 
@@ -138,7 +144,7 @@
      data-layout="button_count">
 </div>
   
-    </div>
+    
 
     <a class="carousel-control-prev" href="#celular_display" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" ></span>
@@ -147,6 +153,7 @@
         <span class="carousel-control-next-icon"></span>
     </a>
         </div>
+    </div>
 </header>
 
 
@@ -242,66 +249,77 @@
     
     
     
-    <div class="container row " id="celular_display">
+    <div class="container mr-auto ml-auto row" id="celular_display">
     <div class="col">
         <div class="card" id="card">
+           <div class="card-body">
             <a href="<?php BASE_URL; ?>folheta">   <img class="card-img-top "src="<?php BASE_URL; ?>assets/images/folhetas/folheta (18).jpeg" alt="Calçamento Folheta"> 
-            <div class="text-center" style="font-size: 18px;">Calçamento de Folheta</div>
+            <div class="text-center" >Calçamento de Folheta</div>
             </a>
+           </div>  
         </div>
     </div>
     <div class="col">
-        <div class="card" id="card">
+        <div class="card" id="card" >
+            <div class="card-body">
             <a href="<?php BASE_URL; ?>paralelepipedo"> <img src="<?php BASE_URL; ?>assets/images/paralelepipedo/paralelepipedo  (1).jpeg" alt="Paralelepípedo" class="card-img-top">
-            <div class="text-center" style="font-size: 18px;">Calçamento de Paralelepípedo</div>
+            <div class="text-center">Calçamento de Paralelepípedo</div>
             </a>
+            </div>
         </div>
     </div>
+   
+           
     <div class="col">
         <div class="card" id="card">
-            
+            <div class="card-body">
             <a href="<?php BASE_URL; ?>bloquete"> <img src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (1).jpeg" alt="Bloquete" class="card-img-top">
             <div class="text-center" style="font-size: 18px;">Intertravado ou Bloquete</div></a>
         </div>
     </div>
+    </div>
     <div class="col">
         <div class="card" id="card">
-          
+            <div class="card-body">
             <a href="<?php BASE_URL; ?>escada"> <img src="<?php BASE_URL; ?>assets/images/escadas/escada (7).jpeg" alt="Escadas de Pedras" class="card-img-top">
             <div class="text-center" style="font-size: 18px;">Escada de Pedras</div></a>
-
+</div>
         </div>
     </div>
     </div>
 
-    <br>
-    <div class="container row " id="celular_display">
-    <div class="col">
+    
+    <div class="container row mr-auto ml-auto" id="celular_display">
+    <div class="col-sm-auto">
         <div class="card" id="card">
-            
+            <div class="card-body">
             <a href="<?php BASE_URL; ?>venda" ><img src="<?php BASE_URL; ?>assets/images/venda.jpeg" alt="Venda de pedras" class="card-img-top"><div class="text-center" style="font-size: 18px;">Vendas de Pedras</div></a>
         </div>
     </div>
-    <div class="col">
+        </div>
+    <div class="col-sm-auto">
         <div class="card" id="card">
-           
+            <div class="card-body">
             <a href="<?php BASE_URL; ?>materiaprima"><img src="<?php BASE_URL; ?>assets/images/materia-prima/materia (4).jpeg"  alt="Matéria-Prima" class="card-img-top">
              <div class="text-center" style="font-size: 18px;">Nossa matéria-prima</div></a>
         </div>
+            </div>
     </div>
-    <div class="col">
+    <div class="col-sm-auto">
         <div class="card" id="card">
-            
+            <div class="card-body">
             <a href="<?php BASE_URL; ?>muro"><img src="<?php BASE_URL; ?>assets/images/muro-de-pedras/foto (5).jpeg" alt="House" class="card-img-top">
             <div  class="text-center" style="font-size: 18px;">Muro de Pedras Arrimo</div></a>
         </div>
+            </div>
     </div>
-    <div class="col">
+    <div class="col-sm-auto">
         <div class="card" id="card">
-            
+            <div class="card-body">
             <a href="<?php BASE_URL; ?>revestimento" ><img src="<?php BASE_URL; ?>assets/images/revestimentos/revestimento (3).jpeg" alt="Revestimentos em  pedras" class="card-img-top"><div class="text-center" style="font-size: 18px;">Revestimentos em Pedras</div></a>
         </div>
     </div>
+        </div>
 
 </div>
     

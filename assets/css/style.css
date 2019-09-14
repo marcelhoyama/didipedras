@@ -33,13 +33,7 @@ body{
      width: 100%;
      height: 700px;;
   }
-  #home .img{
-       
-   
   
-   background: #000;
-   opacity: 0.5;
-  }
   #card:hover{
        
       background:#676470;
@@ -169,7 +163,7 @@ a .link {
 #celular_display{
     display: none;
 }*/
-@media only screen and (min-width: 300px) and (max-width: 425px){
+@media only screen and (min-width: 300px) and (max-width: 768px){
    
 
     #myCarouselhome{
@@ -186,12 +180,13 @@ a .link {
      height: auto;
   }
   
-    #card img{
-      width: 100%;
-      height: 300px;
-    
   
-      
-  }
+  
+  
+  
+ 
+  
+  
+    
   
     }

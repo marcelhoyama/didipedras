@@ -8,7 +8,7 @@
 
 <div class="my-5 text-center">
     <figure class="figure">
-    <img  src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (1).jpeg"  class="img-fluidl" style="width: 500px;"alt="Intertravado ou Bloquete">
+    <img  src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (1).jpeg"  class="img-fluid" style="width: 500px;"alt="Intertravado ou Bloquete">
 <figcaption class="figure-caption">Calçamento de Intertravado ou Bloquete. ©DidiPedras</figcaption>
     </figure>
     <br>
