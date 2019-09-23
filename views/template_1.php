@@ -21,7 +21,7 @@
     <link rel="canonical" href="http://didipedras.com.br/<?php echo $viewData['linknome']; ?>" />
     <meta property="og:locale" content="pt_BR">
 
-    <meta property="og:url" content="http://www.didipedras.com.br/<?php echo $viewData['linknome']; ?>/" />
+    <meta property="og:url" content="http://www.didipedras.com.br/<?php echo $viewData['linknome']; ?>" />
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="DIDI Pedras - <?php echo $viewData['frase']; ?>"/>
     <meta property="og:description" content="Prestação de serviços em <?php echo $viewData['frase']; ?> e vendas de pedras ! Cabreúva e região"/>

@@ -54,8 +54,8 @@
 
 
     <p>Veja também:</p>
-    <li><a href="<?php BASE_URL; ?>paralelepipedo">Calçamento de Paralelepipedo</a></li>
-    <li><a href="<?php BASE_URL;?>bloquete">Calçamento de Intertravado ou Bloquete</a></li>
+    <li class="acelular" ><a href="<?php BASE_URL; ?>paralelepipedo" >Calçamento de Paralelepipedo</a></li>
+    <li class="acelular"><a href="<?php BASE_URL;?>bloquete" >Intertravado ou Bloquete</a></li>
    
 
 
@@ -312,31 +312,6 @@
 
             </div>
 
-        </div>
-    </div>
-</div>
-<!--Modal-->
-<div class="modal" id="img-folheta" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title">Título do modal</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <div class="container-fluid">
-                    <div class="row">
-                        <img class="img-fluid " src="<?php BASE_URL; ?>assets/images/folhetas/folheta (1).jpeg">
-                    </div>
-
-                </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-
-            </div>
         </div>
     </div>
 </div>

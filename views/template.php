@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/normalize.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="<?php BASE_URL; ?>assets/css/bauhaub.ttf"/>
-    <<link rel="stylesheet" href="  <?php BASE_URL; ?>assets/css/lightbox.css"/>
+    <link rel="stylesheet" href="  <?php BASE_URL; ?>assets/css/lightbox.css"/>
     <body id="home">
 
         <!-- Navbar (sit on top) -->

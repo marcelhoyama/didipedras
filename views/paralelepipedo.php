@@ -46,9 +46,9 @@ Se necessário algum tipo de reforma o cliente tem a vantagem de utilizar o mesm
   </p>
 
   <p>Veja também:</p>
-  <li><a href="<?php BASE_URL;?>folheta">Calçamento de Folheta</a></li>
+  <li class="acelular"><a href="<?php BASE_URL;?>folheta" >Calçamento de Folheta</a></li>
  
-  <li><a href="<?php BASE_URL;?>bloquete">Calçamento de Intertravado ou bloquete</a></li>
+  <li  class="acelular"><a href="<?php BASE_URL;?>bloquete">Intertravado ou bloquete</a></li>
     
 
 
