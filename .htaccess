@@ -1,6 +1,9 @@
 RewriteEngine On
+#RewriteBase /
+#RewriteRule ^index\.php$ – [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule . /index.php [L]
+#rewritecond %{http_host} ^didipedras.com.br [NC]
+#rewriterule ^(.*)$ http://www.didipedras.com.br/$1 [r=301,NC]
 RewriteRule ^(.*)$ /didipedras/index.php?url=$1 [QSA,L]
-
-
