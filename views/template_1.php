@@ -8,9 +8,9 @@
     <meta name="distribution" content="Global">
     <meta name="rating" content="General">
     <meta name="revisit-after" content="2">
-    <meta name="classification" content="prestação de serviços em pedras , venda de pedras, muro de pedras">
+    <meta name="classification" content="prestação de serviços em <?php echo $viewData['frase']; ?> , venda de <?php echo $viewData['frase']; ?>, muro de pedras">
 
-    <meta name="description" content="Procurando <?php echo $viewData['frase']; ?> de Pedras? Ótimos preços para venda e Serviços de Pedras. Atendemos em Cabreúva e Região em São Paulo!">
+    <meta name="description" content="Procurando <?php echo $viewData['frase']; ?> ? Ótimos preços para venda e Serviços de <?php echo $viewData['frase']; ?>. Atendemos em Cabreúva e Região em São Paulo!">
 
 
     <!--<title style="font-family: Blippo, fantasy;">DIDI - Pedras - <?php echo $viewData['frase']; ?></title>-->
@@ -23,7 +23,7 @@
 
     <meta property="og:url" content="http://www.didipedras.com.br/<?php echo $viewData['linknome']; ?>" />
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="DIDI Pedras - <?php echo $viewData['frase']; ?>"/>
+    <meta property="og:title" content="<?php echo $viewData['frase']; ?> | DidiPedras - Melhores preços" />
     <meta property="og:description" content="Prestação de serviços em <?php echo $viewData['frase']; ?> e vendas de pedras ! Cabreúva e região"/>
 
     <meta property="og:site_name" content="Cabreúva e Região você encontra aqui, <?php echo $viewData['frase']; ?> e vendas de pedras...">

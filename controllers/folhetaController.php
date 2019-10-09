@@ -8,7 +8,7 @@ class folhetaController extends controller{
         
          $dados['linknome']= 'folheta';                  
         
-         $dados['frase']= 'Calçamento de Folheta';
+         $dados['frase']= 'Pedras de Folhetas';
         
         $dados['foto']='folhetas/folheta(30).png';
         

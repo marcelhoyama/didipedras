@@ -7,7 +7,7 @@ class escadaController extends controller{
         
         $dados['linknome']= 'escada';                  
         
-         $dados['frase']= 'Escada de pedras';
+         $dados['frase']= 'Escada com pedra de granito';
         
         $dados['foto']='escadas/escada.png';
         

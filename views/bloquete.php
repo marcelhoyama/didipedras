@@ -4,12 +4,12 @@
   <br>
 <br>
 <div class="container">
-    <h1 class="text-center">DidiPedras: Calçamento Intertravado ou Bloquete de Pedras</h1>
+    <h1 class="text-center">DidiPedras: Calçamento <?php echo $viewData['frase']; ?> de Pedras</h1>
 
 <div class="my-5 text-center">
     <figure class="figure">
     <img  src="<?php BASE_URL; ?>assets/images/bloquete/bloquete (1).jpeg"  class="img-fluid" style="width: 500px;"alt="Intertravado ou Bloquete">
-<figcaption class="figure-caption">Calçamento de Intertravado ou Bloquete. ©DidiPedras</figcaption>
+<figcaption class="figure-caption">Calçamento de <?php echo $viewData['frase']; ?>. ©DidiPedras</figcaption>
     </figure>
     <br>
     <!-- Your share button code -->
@@ -32,11 +32,11 @@
 
 <br>
 
-<h3>A DidiPedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</h3>
-<p>Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra. 
+<h3>A DidiPedras disponibiliza aos seus clientes, varias pedras <?php echo $viewData['frase']; ?> de tipos de calçamentos e construção.</h3>
+<p>Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para seu projeto com <?php echo $viewData['frase']; ?>. 
 </p>
 
-<h3>Intertravado ou Bloquete</h3>
+<h2>Piso Intertravado ou Bloquete: conheça seus beneficios </h2>
 <p>O principio básico do intertravamento é a junção das peças modulares de concreto que se encaixam/travam umas às outras, revestindo assim a superfície. Pode ser assentada a mão ou mecanicamente, o que torna o trabalho mais fácil especialmente em grandes áreas como portos, aeroporto, entrepostos e etc.</p>
 
 <h4>Principais Aplicações</h4>

@@ -5,12 +5,12 @@
 <br>
 <br>
 <div class="container">
-    <h1 class="text-center">DidiPedras: Escada de Pedras</h1>
+    <h1 class="text-center">DidiPedras: <?php echo $viewData['frase']; ?></h1>
     <br>
     <div class="my-5 text-center">
         <figure class="figure">
             <img  src="<?php BASE_URL; ?>assets/images/escadas/escada (7).jpeg"  class="img-fluid" style="width: 500px;"alt="Escada de pedras">
-            <figcaption class="figure-caption">Escapa de Pedras. ©DidiPedras</figcaption>
+            <figcaption class="figure-caption"><?php echo $viewData['frase']; ?>. ©DidiPedras</figcaption>
         </figure>
     </div>
     <br>
@@ -36,8 +36,8 @@
 
 
     
-    <h3 class="text-center">A DIDI Pedras disponibiliza aos seus clientes, vendas de pedras para os mais diferentes tipos de pedras.</h3>
-    <p class="text-center">Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra ou projetos de escadas. </p>
+    <h3 class="text-center">A DIDI Pedras disponibiliza aos seus clientes, vendas de <?php echo $viewData['frase']; ?> e construção.</h3>
+    <p class="text-center">Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra ou projetos de <?php echo $viewData['frase']; ?> </p>
 
     <p>Veja também:</p>
     <li><a href="<?php ?>muro">Muro de Arrimo (Pedras)</a></li>
@@ -68,25 +68,25 @@
                     <div class="row">
                         <div class="col-lg-3">
                             <a href="<?php BASE_URL; ?>assets/images/escadas/escada (1).jpeg" data-lightbox="escadas" data-title="Escada">
-                                <img src="<?php BASE_URL; ?>assets/images/escadas/escada.jpg" alt="Escadas de pedras" id="imgfolheta">
+                                <img src="<?php BASE_URL; ?>assets/images/escadas/escada.jpg" alt="<?php echo $viewData['frase']; ?>" id="imgfolheta">
                             </a>
                         </div>
 
 
                         <div class="col-lg-3">
                             <a href="<?php BASE_URL; ?>assets/images/escadas/escada (2).jpeg" data-lightbox="escadas" data-title="Escada">
-                                <img src="<?php BASE_URL; ?>assets/images/escadas/escada (2).jpeg" alt="Escadas de pedras" id="imgfolheta">
+                                <img src="<?php BASE_URL; ?>assets/images/escadas/escada (2).jpeg" alt="<?php echo $viewData['frase']; ?>" id="imgfolheta">
                             </a>
                         </div>
 
                         <div class="col-lg-3">
                             <a href="<?php BASE_URL; ?>assets/images/escadas/escada (3).jpeg" data-lightbox="escadas" data-title="Escada">
-                                <img src="<?php BASE_URL; ?>assets/images/escadas/escada (3).jpeg" alt="Escadas de pedras" id="imgfolheta">
+                                <img src="<?php BASE_URL; ?>assets/images/escadas/escada (3).jpeg" alt="<?php echo $viewData['frase']; ?>" id="imgfolheta">
                             </a>
                         </div>
                         <div class="col-lg-3">
                             <a href="<?php BASE_URL; ?>assets/images/escadas/escada (4).jpeg" data-lightbox="escadas" data-title="Escada">
-                                <img src="<?php BASE_URL; ?>assets/images/escadas/escada (4).jpeg" alt="Escadas de pedras" id="imgfolheta">
+                                <img src="<?php BASE_URL; ?>assets/images/escadas/escada (4).jpeg" alt="<?php echo $viewData['frase']; ?>" id="imgfolheta">
                             </a>
                         </div>
                     </div>

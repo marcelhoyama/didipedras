@@ -8,7 +8,7 @@ class muroController extends controller{
         
          $dados['linknome']= 'muro';                  
         
-         $dados['frase']= 'Muro de Arrimo (pedras)';
+         $dados['frase']= 'Muro de Pedras (Arrimo)';
         
         $dados['foto']='muro-de-pedras/foto(11).png';
         

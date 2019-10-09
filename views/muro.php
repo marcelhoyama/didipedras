@@ -4,12 +4,12 @@
 <br>
 <br>
 <div class="container">
-    <h1 class="my-5 text-center">DidiPedras: Muro de Arrimo (ou pedras)</h1>
+    <h1 class="my-5 text-center">DidiPedras: <?php echo $viewData['frase']; ?></h1>
 
     <div class="my-5 text-center">
         <figure class="figure">
             <img  src="<?php BASE_URL; ?>assets/images/muro-de-pedras/foto (15).jpeg"  class="img-fluid" style="width: 500px;"alt="Muro de arrimo">
-            <figcaption class="figure-caption">Muro de Pedras ou Arrimo. ©DidiPedras</figcaption>
+            <figcaption class="figure-caption"><?php echo $viewData['frase']; ?>. ©DidiPedras</figcaption>
         </figure>
 
         <br><!-- Your share button code -->
@@ -34,12 +34,12 @@
 
 
     
-    <h3 class="my-5"> A DidiPedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</h3>
-    <p>Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra. 
+    <h3 class="my-5"> A DidiPedras disponibiliza aos seus clientes, uma grande variedade de pedras como <?php echo $viewData['frase']; ?> e construção.</h3>
+    <p>Nossos consultores são especializados e irão indicar para você o melhor tipo de <?php echo $viewData['frase']; ?> para sua obra. 
     </p>
 
 
-    <h2 class="my-5">O que é muro de pedras Arrimo? Entenda sua importância e como deve ser construído</h2>
+    <h2 class="my-5">Como revestir muro com pedras? Entenda sua importância e como deve ser construído</h2>
 
     O muro de pedras é um tipo específico de muro que serve para suportar a terra além de isolar o terreno.
 
@@ -122,7 +122,7 @@
 
                             <div class="col-lg-3">
                                 <div class="materia">
-                                             <a href="<?php BASE_URL; ?>assets/images/muro-de-pedras/foto (<?php echo $i; ?>).jpeg" data-lightbox="folheta" data-title="Muro de Arrimo (ou Pedras)" >
+                                             <a href="<?php BASE_URL; ?>assets/images/muro-de-pedras/foto (<?php echo $i; ?>).jpeg" data-lightbox="folheta" data-title="<?php echo $viewData['frase']; ?>" >
                                                  <img src="<?php BASE_URL; ?>assets/images/muro-de-pedras/foto (<?php echo $i; ?>).jpeg" alt="Muro Arrimo" id="imgfolheta" ></a>
                                 </div>
 
@@ -138,7 +138,7 @@
                         <?php for ($i = 5; $i <= 8; $i++) { ?>
                             <div class="col-lg-3"> 
                                 <div class="materia">
-                                             <a href="<?php BASE_URL; ?>assets/images/muro-de-pedras/foto (<?php echo $i; ?>).jpeg" data-lightbox="folheta" data-title="Muro de Arrimo (ou Pedras)" >
+                                             <a href="<?php BASE_URL; ?>assets/images/muro-de-pedras/foto (<?php echo $i; ?>).jpeg" data-lightbox="folheta" data-title="<?php echo $viewData['frase']; ?>" >
                                                  <img src="<?php BASE_URL; ?>assets/images/muro-de-pedras/foto (<?php echo $i; ?>).jpeg" alt="Muro Arrimo" id="imgfolheta" ></a>
                                 </div>
 

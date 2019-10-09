@@ -10,7 +10,7 @@
     <div class="my-5 text-center">
         <figure class="figure">
             <img  src="<?php BASE_URL; ?>assets/images/folhetas/folheta (1).jpeg"  class="figure-img img-fluid rounded" alt="Calçamento de folheta"style="width: 500px;">
-            <figcaption class="figure-caption">Calçamento de folheta. ©DidiPedras</figcaption>
+            <figcaption class="figure-caption"><?php echo $viewData['frase']; ?>. ©DidiPedras</figcaption>
         </figure>
         <br>
         <div class=" fb-share-button " 
@@ -35,19 +35,19 @@
 
 
 
-    <h3>A DidiPedras disponibiliza aos seus clientes, uma grande variedade de pedras para os mais diferentes tipos de calçamentos e construção.</h3>
-    <p class="my-5">Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra. </p>
+    <h3>A DidiPedras disponibiliza aos seus clientes, uma grande variedade de pedras e principalmente no seu projeto,  <?php echo $viewData['frase']; ?>e construção.</h3>
+    <p class="my-5">Nossos consultores são especializados e irão indicar para você o melhor tipo de <?php echo $viewData['frase']; ?> para sua obra. </p>
     <p> A Folheta é um tipo de pedra que tem um ótimo acabamento e grande beleza, devido suas dimensões, pode ser utilizado em construções de diversos portes, é muito resistente e não se deteriora com o tempo.
     </p>
     <p>
         Seu corte é manual, podendo também ter outros formatos caso o cliente desejar. 
 
-        Usada como: pedra folheta para caminho no jardim, escadas, entradas de veículos, calçamentos (folheta para calçada), garagens, fachadas, revestimentos, fonte e entre outras infinidades.
+        O que é pedra de folheta? Usada como: pedra folheta para caminho no jardim, escadas, entradas de veículos, calçamentos (folheta para calçada), garagens, fachadas, revestimentos, fonte e entre outras infinidades.
     </p>
     <p>
         Peso e resistência: A pedra folheta pesa de 25 a 28 kg a unidade. É uma pedra muito resistente suportando passagens de veículo.
 
-        Permite um assentamento com excelente acabamento. Ótima tanto para uso com rejunte de massa ou assentamento direto na terra, porém a colocação tem que ser muito bem assentada pelo colocador. 
+        Como assentar pedra de folheta? Permite um assentamento com excelente acabamento. Ótima tanto para uso com rejunte de massa ou assentamento direto na terra, porém a colocação tem que ser muito bem assentada pelo colocador. 
         Temos os melhores assentadores, todos qualificados e treinados.
 
     </p>
