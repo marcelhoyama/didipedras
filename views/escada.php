@@ -36,7 +36,7 @@
 
 
     
-    <h3 class="text-center">A DIDI Pedras disponibiliza aos seus clientes, vendas de <?php echo $viewData['frase']; ?> e construção.</h3>
+    <h3 class="text-center">A DidiPedras disponibiliza aos seus clientes, vendas de <?php echo $viewData['frase']; ?> e construção.</h3>
     <p class="text-center">Nossos consultores são especializados e irão indicar para você o melhor tipo de pedra para sua obra ou projetos de <?php echo $viewData['frase']; ?> </p>
 
     <p>Veja também:</p>

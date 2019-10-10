@@ -116,7 +116,7 @@
                 <!-- Footer About Text -->
                 <div class="col-lg-4">
                     <h4 class="text-uppercase mb-4">Sobre</h4>
-                    <p class="lead mb-0">Didi pedras a mais de 30 anos no mercado Especialista na área de pavimentação com paralelepípedos e folhetos Muros de pedra
+                    <p class="lead mb-0">Didi pedras a mais de 30 anos no mercado Especialista na área de pavimentação com paralelepípedos, folhetos Muros de pedra entre outros
                         .</p>
                 </div>
 
@@ -128,7 +128,7 @@
 
         <!-- Copyright -->
         <div class="footer-copyright text-center py-3">© 2019 Copyright:
-            DIDI Pedras - Desenvolvido por <a target="_blank" href="http://www.radioceifeiros.com.br" title="Marcel Hoyama">PS-MACIEL</a>
+            DIDI Pedras - Desenvolvido por <a target="_blank" href="https://www.buscadorcabreuva.com.br" title="Marcel Hoyama">PS-MACIEL</a>
         </div>
         <!-- Copyright -->
 
